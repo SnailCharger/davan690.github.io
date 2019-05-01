@@ -14,19 +14,19 @@ use-site-title: true
 <p> <a href="https://github.com/davan690/" class="btn btn-primary">Open-source here</a></p> 
 
 
----
+<hr>
 
   <h1>News</h1>
 <div class="posts-list">
   {% for post in paginator.posts %}
 <article class="post-preview">
   <a href="{{ post.url | prepend: site.baseurl }}">
-  <h2 class="post-title">{{ post.title }}</h2>
+  <h3 class="post-title">{{ post.title }}</h3>
   
   {% if post.subtitle %}
-<h3 class="post-subtitle">
+<h4 class="post-subtitle">
 {{ post.subtitle }}
-</h3>
+</h4>
 {% endif %}
 </a>
   
