@@ -2,6 +2,7 @@
 title: "Key thesis objectives"
 subtitle: "Draft material"
 layout: post
+tags: ["phd", "invasive", "overview"]
 ---
 
 In this thesis I will use observed data to build ecosystem models that allow researchers to directly quantify the interactions among invasive species (Peng 2015).

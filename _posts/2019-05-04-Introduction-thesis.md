@@ -1,10 +1,9 @@
 ---
 title: "Thesis introduction"
-subtitle:  "Draft Material"
+subtitle:  "Draft"
 layout: post
+tags: ["phd", "invasive", "overview"]
 ---
-
-### --- ALL MATERIAL IS DRAFT ONLY --
 
 ## Introduction 1.1
 

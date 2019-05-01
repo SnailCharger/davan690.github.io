@@ -7,20 +7,24 @@ use-site-title: true
 
  <div class="banner" style="padding:5px; text-align:center;">
   <div class="banner-content">
-    <p>This webpage is a simple collection of detailed resources and information I use for my phd work, as part of the statistics network and other research projects.  I hope with time these resources will develop into a learning resource for researchers and small business owners, regardless of statistical knowledge.</p><p>The resources here are open-source and can be accessed <a href="https://github.com/davan690/" class="btn btn-primary">here</a></p><p>I post some of the interesting social media posts <a href="https://www.facebook.com/StatisticsNetwork/" class="btn btn-primary">here</a>
+    <p>This webpage has resources and information I use for my phd work, as part of the statistics network and other research projects.  I hope with time these resources will develop into database for statistical analysis and reproducible research.</p>
  </div>
 </div>
 
-  <div class="posts-list">
+<p> <a href="https://github.com/davan690/" class="btn btn-primary">Open-source here</a></p> 
+
+-------------------------------------------------------------
+<h1>News</h1>
+<div class="posts-list">
   {% for post in paginator.posts %}
 <article class="post-preview">
   <a href="{{ post.url | prepend: site.baseurl }}">
-  <h2 class="post-title">{{ post.title }}</h2>
+  <h3 class="post-title">{{ post.title }}</h3>
   
   {% if post.subtitle %}
-<h3 class="post-subtitle">
+<h4 class="post-subtitle">
 {{ post.subtitle }}
-</h3>
+</h4>
 {% endif %}
 </a>
   

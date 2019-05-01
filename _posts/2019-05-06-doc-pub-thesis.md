@@ -1,16 +1,13 @@
 ---
-title: "DOC species modelling"
-subtitle: "Draft"
+title: DOC species modelling
+subtitle: Draft
 layout: post
+tags: phd
 ---
 
-### --- ALL MATERIAL IS DRAFT ONLY --
+*Complex intereactions between invasive species and data quality*
 
-## Data Chapter 3
-
-*A more complex set of interreacting invasive species and reduced data quality*
-
-**Status:** [Planning stage]()
+**Status:** [Planning stage]() coming soon
 
 # Overall PhD
 
