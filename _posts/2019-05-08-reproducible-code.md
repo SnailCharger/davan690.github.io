@@ -1,6 +1,6 @@
 ---
-title: "Reproducible workflow"
-subtitle: "Draft" 
+title: Reproducible workflow
+subtitle: Draft 
 layout: post
 ---
 

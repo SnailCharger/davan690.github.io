@@ -1,10 +1,8 @@
 ---
-title: "Mixed-forest dynamics"
-subtitle: "Draft" 
+title: Mixed-forest dynamics
+subtitle: Draft
 layout: post
 ---
-
-### --- ALL MATERIAL IS DRAFT ONLY --
 
 *A more complex set of interacting invasive species.*
 
