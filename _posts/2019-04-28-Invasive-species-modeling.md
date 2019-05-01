@@ -23,9 +23,9 @@ Post [here](https://davan690.github.io/2019-05-01-Key-thesis-objectives)
 
 Full layout: here currently but as the documents increase I will convert this into a bookdown document (and then a html book).
 
-* Introduction: [coming...](https://davan690.github.io/2019-05-02-Introduction-thesis)
-* Beech Forest Dynamics: [draft here](https://davan690.github.io/2019-05-02-beech-forest-pub-thesis)
-* Mixed Forest Dynamics: [coming](https://davan690.github.io/2019-05-04-mpd-forest-pub-thesis)
+* Introduction: [coming](https://davan690.github.io/2019-05-02-Introduction-thesis)
+* Beech Forest Dynamics: [here](https://davan690.github.io/2019-05-02-beech-forest-pub-thesis)
+* Mixed Forest Dynamics: [Working document](https://davan690.github.io/2019-05-04-mpd-forest-pub-thesis)
 * DOC paper: [coming](https://davan690.github.io/2019-05-04-doc-pub-thesis)
 * Discussion: [coming]()
 
