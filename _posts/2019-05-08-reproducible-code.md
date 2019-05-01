@@ -34,10 +34,12 @@ Here is a collection of the posts I have drawn inspiration from:
 * Good enough practices for Scientific Computing (https://swcarpentry.github.io/good-enough-practices-in-scientific-computing/)
 
 * 10 simple rules for reproducible computational research: http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285
-* A quick guide to organizing computational biology projects: http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424
-* Ten Simple Rules for Digital Data Storage (http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005097)
-* The Reproducible Research CRAN Task View: (https://cran.r-project.org/web/views/ReproducibleResearch.html)
 
+* A quick guide to organizing computational biology projects: http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424
+
+* Ten Simple Rules for Digital Data Storage (http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005097)
+
+* The Reproducible Research CRAN Task View: (https://cran.r-project.org/web/views/ReproducibleResearch.html)
 
 #### And even leading ecological journals have also identified this as an key issue in many conservation and enviromental issues:
 
