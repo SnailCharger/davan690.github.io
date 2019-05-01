@@ -12,7 +12,7 @@ The website is a learning resource for thoughts, questions, analysis and results
 
 *Contact me* if you have any ideas or would like to contribute in any way:
 
-[Comment](https:/facebook.com/StatisticsNetwork/) on social media
+[Send a message](https:/facebook.com/StatisticsNetwork/) on social media (sorry i dont have comments working on page yet).
 
 **or**
 
