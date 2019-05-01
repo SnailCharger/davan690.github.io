@@ -1,7 +1,8 @@
 ---
 title: "Invasive species modelling"
-subtitle: "Draft material"
+subtitle: "Draft"
 layout: page
+tags: ["phd", "invasive", "overview"]
 ---
 
 # Thesis

@@ -1,7 +1,8 @@
 ---
 title: "New Zealand beech forests"
-subtitle: "Draft material" 
+subtitle: "Draft" 
 layout: post
+tags: ["phd", "invasive", "overview"]
 ---
 
 **Status:** [1st draft with Richard](https://www.dropbox.com/s/m5hte0n2vyl1dt2/Davidson_2019_BeechForest_19022019.docx?dl=0)
