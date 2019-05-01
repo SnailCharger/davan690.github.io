@@ -2,7 +2,7 @@
 title: "Contributing"
 
 permalink: /Contributing.html
-layout: single
+layout: page 
 header:
   overlay_color: "444444"
   overlay_image: /assets/images/dna.jpg
