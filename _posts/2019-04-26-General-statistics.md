@@ -1,6 +1,7 @@
 ---
 title: "General statistics"
 layout: post
+image: /img/RStudio_library.jpg
 tags: ["R", "open source" "statistics"]
 ---
 

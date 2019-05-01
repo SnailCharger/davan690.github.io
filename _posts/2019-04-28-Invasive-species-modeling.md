@@ -1,7 +1,8 @@
 ---
-title: "Invasive species modelling"
-subtitle: "Draft"
+title: Invasive species modelling
+subtitle: Draft
 layout: page
+img: /img/Construction.jpg
 tags: ["phd", "invasive", "overview"]
 ---
 
