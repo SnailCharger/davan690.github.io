@@ -3,7 +3,7 @@ title: Invasive species modelling
 subtitle: Draft
 layout: page
 img: /img/Construction.jpg
-tags: ["phd", "invasive", "overview"]
+tags: ["phd", "invasive", "overview", "ecology", "statistics"]
 ---
 
 # Thesis

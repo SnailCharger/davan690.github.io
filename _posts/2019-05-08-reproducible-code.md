@@ -2,15 +2,15 @@
 title: Reproducible workflow
 subtitle: Draft 
 layout: post
-tags: phd
+tags: ["phd", "overview","infrastructure", "statistics", "drafts"]
 ---
 
 There are many many different posts on reproducible workflows. This document collects the current resources avaliable in R and RMarkdown. I have developed this document from a combination of different git repositories:
 
 - BES guidelines as a start
-- Added Wichhams etc paper
+- Added Wickham's etc paper
 
-However because of this my workflow has a destinctly ecological feel along with the tidyverse approach of [tooling](https://style.tidyverse.org/index.html). I apologise for this in advance. If you are not a R user I would recommend finding another workflow with the same components.
+However because of this my workflow has a distinctly ecological feel along with the tidyverse approach of [tooling](https://style.tidyverse.org/index.html). I apologise for this in advance. If you are not a R user I would recommend finding another workflow with the same components.
 
 # Overview
 
@@ -65,7 +65,7 @@ Here is a collection of the posts I have drawn inspiration from:
 
 # Software options
 
-rOpenSci [is a non-profit initiative founded in 2011 by Karthik Ram, Scott Chamberlain, and Carl Boettiger to make scientific data retrieval reproducible. Over the past seven years we have developed an ecosystem of open source tools, we run annual unconferences, and review community developed software.](https://ropensci.org/about/)
+rOpenSci [is a non-profit initiative founded in 2011 by Karthik Ram, Scott Chamberlain, and Carl Boettiger to make scientific data retrieval reproducible. Over the past seven years we have developed an ecosystem of open source tools, we run annual conferences, and review community developed software.](https://ropensci.org/about/)
 
 They have produced a great interface for reproducible packages in R with documentation. The key software and packages I use for my workflow are:
 
@@ -75,7 +75,7 @@ Im not sure what this is actually meant to represent but I see these options as 
 
 ### packrat
 
-In mid-August of 2016, Eric Nantz of the R-Podcast converted me to packrat (by Kevin Ushey and others at RStudio), a package that lengthens the shelf life of R projects. [Packrat](https://rstudio.github.io/packrat/) maintains local snapshots of dependencies so that your project won't break when external packages are updated. Just be sure your current working directory is the root directory of your project when you run remake::make() or the Makefile. Also, if you use a shell.sh with your Makefile, be sure to modify module load R so that it points to the version of R corresponding to your packrat library. You can learn more about packrat with the hands-on walkthrough.
+In mid-August of 2016, Eric Nantz of the R-Podcast converted me to packrat (by Kevin Ushey and others at RStudio), a package that lengthens the shelf life of R projects. [Packrat](https://rstudio.github.io/packrat/) maintains local snapshots of dependencies so that your project won't break when external packages are updated. Just be sure your current working directory is the root directory of your project when you run remake::make() or the Makefile. Also, if you use a shell.sh with your Makefile, be sure to modify module load R so that it points to the version of R corresponding to your 'packrat' library. You can learn more about packrat with the hands-on walk-through.
 
 ### ProjectTemplate
 
