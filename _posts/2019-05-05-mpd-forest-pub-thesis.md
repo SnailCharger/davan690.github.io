@@ -2,6 +2,7 @@
 title: Mixed-forest dynamics
 subtitle: Draft
 layout: post
+tags: ["phd"]
 ---
 
 *A more complex set of interacting invasive species.*
