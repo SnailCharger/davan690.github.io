@@ -2,6 +2,7 @@
 title: Reproducible workflow
 subtitle: Draft 
 layout: post
+tags: phd reproducibility r rstudio markdown science
 ---
 
 There are many many different posts on reproducible workflows. This document collects the current resources avaliable in R and RMarkdown. I have developed this document from a combination of different git repositories:
