@@ -5,18 +5,12 @@ layout: post
 tags: ["phd", "invasive", "overview"]
 ---
 
-# Status
+## Status
 
 - [draft-v1-docx](https://www.dropbox.com/s/m5hte0n2vyl1dt2/Davidson_2019_BeechForest_19022019.docx?dl=0)
 - [draft-v2-html]()
 - [draft-v2-docx]()
 - [draft-v2-pdf]()
-
-# Simple references
-
-- [DOC's beech mast cycle diagram]()
-
-## NZ beech forests
 
 ### Working Title
 
@@ -45,7 +39,7 @@ Full layout: here currently but as the documents increase I will convert this in
 - DOC paper: [coming]()
 - Discussion: [coming]()
 
-## Additional Chapters
+#### Additional Chapters
 
 - Reproducibility in PFNZ2050: [here]()
 - Invasive species database: [here]()
