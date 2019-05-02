@@ -27,7 +27,7 @@ This publication clarifies the discrepancy between; two modelling papers that su
 - [Figures]()
 - [Functional response]()
 
-All other data and resources to render project from raw data can be found on [dropbox]() but will be avaliable here when I have encorperated the co-authors feedback.
+All other data and resources to render project from raw data can be found on [dropbox](https://www.dropbox.com/home/phd-drafts-anthony/Clean_2019_Beech_paper) but will be available here when I have incorporated the co-authors feedback.
 
 # Overall PhD
 
