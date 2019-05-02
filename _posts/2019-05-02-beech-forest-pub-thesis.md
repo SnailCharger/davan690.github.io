@@ -22,7 +22,8 @@ This publication clarifies the discrepancy between; two modelling papers that su
 
 ### Contents
 
-- [Current draft](https://www.dropbox.com/s/m5hte0n2vyl1dt2/Davidson_2019_BeechForest_19022019.docx?dl=0)
+- [Current draft](https://www.dropbox.com/home/phd-drafts-anthony/Clean_2019_Beech_paper)
+- [style sheet](https://www.dropbox.com/home/phd-drafts-anthony/Clean_2019_Beech_paper/Styles_manual_sheet.md/)
 - [Bayesian methods]()
 - [Figures]()
 - [Functional response]()
