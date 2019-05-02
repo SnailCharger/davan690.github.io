@@ -6,13 +6,13 @@ img: /img/Construction.jpg
 tags: ["phd", "invasive", "overview", "ecology", "statistics"]
 ---
 
-These pages and posts extend throughout the other pages on this site is well but currently these are the core resources I am using currently.
+These pages and posts extend throughout the statistics pages on this site but these are my core resources.
 
 # Reproducible research projects
 
 - [BES reproduciblity guide](https://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf)
 
-- [My reproducible workflow](https://davan690.github.io/2019-05-08-reproducible-code)
+- [My reproducible workflow](https://davan690.github.io/reproducible-guidebook)
 
 ## GUIs
 
@@ -34,17 +34,13 @@ These pages and posts extend throughout the other pages on this site is well but
 - [pandoc](): Links '.md' with '.docx/.pdf etc'
 - [RMarkdown](): Compiles outputs
 
- Science communication
+ # Science communication
 
 - [Research gate](https://www.researchgate.net)
 - [Website](https://davan690.github.io)
 - [FB statistics](https://facebook.com/StatisticsNetwork)
 - [Twitter](https://twitter.com/antsstats)
 - [GIThub](https://davan690.github.io/)
-
-## Example Journal Articles
-
-Here is an [example](https://github.com/davan690/PestManagement/blob/master/README.md) individual based pest modelling This is a `repo` from a recent publication on dynamic pest management from Dean Anderson and others.
 
 # Thesis
 
@@ -69,8 +65,12 @@ The key research objectives are [here](https://davan690.github.io/2019-05-01-Key
 * DOC paper: [coming]()
 * Discussion: [coming]()
 
-### Additional Chapters
+## Additional Chapters
 
 * Reproducibility in PFNZ2050: [here](https://davan690.github.io/2019-05-08-reproducible-code)
 * Invasive species database: [coming]()
 * Choices in modelling population dynamics: [coming]()
+
+# References
+
+Here is an [example](https://github.com/davan690/PestManagement/blob/master/README.md) individual based pest modelling This is a `repo` from a recent publication on dynamic pest management from Dean Anderson and others.
