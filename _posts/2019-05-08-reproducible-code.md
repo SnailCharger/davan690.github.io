@@ -5,17 +5,15 @@ layout: post
 tags: ["phd", "overview","infrastructure", "statistics", "drafts"]
 ---
 
-There are many many different posts on reproducible workflows. This document collects the current resources avaliable in R and RMarkdown. I have developed this document from a combination of different git repositories:
+There are many many different posts on reproducible workflows. This document collects the current resources avaliable in R and RMarkdown. I have started this document from a combination of different git repositories:
 
-- BES guidelines as a start
-- Added Wickham's etc paper
+- [BES guidelines](https://github.com/BES2016Workshop/guidebook)
 
-However because of this my workflow has a distinctly ecological feel along with the tidyverse approach of [tooling](https://style.tidyverse.org/index.html). I apologise for this in advance. If you are not a R user I would recommend finding another workflow with the same components.
+However because of this my workflow has a distinctly ecological feel along with the tidyverse approach of [tooling](https://style.tidyverse.org/index.html). I apologise for this in advance. If you are not a R user I would recommend modifying this workflow or finding another workflow with the same components but in your field.
 
 # Overview
 
 Since the development of R and RStudio (and a magnitude of other IT changes happening at the same time) there are now tools for working with issues to do with [reproducibility](https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970). There are many blogs from a simple web search. 
-
 Here is a collection of the posts I have drawn inspiration from:
 
 - [R bloggers post](https://www.r-bloggers.com/reproducible-research-and-r-workflow/): Jeromy Anglim
@@ -26,20 +24,25 @@ Here is a collection of the posts I have drawn inspiration from:
 - [Data Science and R/Python](https://community.rstudio.com/t/data-science-project-template-for-r/3230)
 - [Truely reproducible](https://timogrossenbacher.ch/2017/07/a-truly-reproducible-r-workflow/)
 - [EEB313H1](https://uoftcoders.github.io/rcourse/lec16-rmarkdown.html)
+- [Good enough practices for Scientific Computing] (https://swcarpentry.github.io/good-enough-practices-in-scientific-computing/)
 
-#### Journals have taken this up too:
+#### General databases
 
-* Best practices for Scientific Computing (http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745)
+rOpenSci [is a non-profit initiative founded in 2011 by Karthik Ram, Scott Chamberlain, and Carl Boettiger to make scientific data retrieval reproducible. Over the past seven years we have developed an ecosystem of open source tools, we run annual conferences, and review community developed software.](https://ropensci.org/about/)
 
-* Good enough practices for Scientific Computing (https://swcarpentry.github.io/good-enough-practices-in-scientific-computing/)
+[The Reproducible Research CRAN Task View] (https://cran.r-project.org/web/views/ReproducibleResearch.html)
 
-* 10 simple rules for reproducible computational research: http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285
+They have produced a great interface for reproducible packages in R with documentation. 
 
-* A quick guide to organizing computational biology projects: http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424
+##### PLOS have taken this up too:
 
-* Ten Simple Rules for Digital Data Storage (http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005097)
+- [Best practices for Scientific Computing] (http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745)
 
-* The Reproducible Research CRAN Task View: (https://cran.r-project.org/web/views/ReproducibleResearch.html)
+- [10 simple rules for reproducible computational research] http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285
+
+- [A quick guide to organizing computational biology projects] http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424
+
+- [Ten Simple Rules for Digital Data Storage] (http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005097)
 
 #### And even leading ecological journals have also identified this as an key issue in many conservation and enviromental issues:
 
@@ -51,23 +54,36 @@ Here is a collection of the posts I have drawn inspiration from:
 
 ### [@zotero-6387]
 
+## Coding groups
 
-# Workflow options
+- [Uni of Toronto Coders](https://github.com/UofTCoders)
+  -[R course](https://github.com/UofTCoders/rcourse)
+  
+- [UBC statistics course](http://stat545.com/Classroom/)
+
+With all the resources above I have created a evolving "workflow" for my research.
+
+# My Workflow
+
+So with a magnitude of grey literauture and a selective group of research guides I have thought about this problem in stages. The first stage is the research inforstructure. I think of this as the building blocks of all research projects (reports, manuscripts, etc). There are then choices between the types of software, packages and other tools I use within this inforstructure. The workflow is the timeline that links these components into a cronolocigical order. 
+
+- Inforstructure
+
+- Software
+
+- Tools
+
+- Packages
+
 
 - [Packaging data publication](https://peerj.com/preprints/3192/)
 
 - [Tidytools package]()
 
-## Coding groups
 
-- [Uni of Toronto Coders](https://github.com/UofTCoders)
-  -[R course](https://github.com/UofTCoders/rcourse)
+# Software
 
-# Software options
-
-rOpenSci [is a non-profit initiative founded in 2011 by Karthik Ram, Scott Chamberlain, and Carl Boettiger to make scientific data retrieval reproducible. Over the past seven years we have developed an ecosystem of open source tools, we run annual conferences, and review community developed software.](https://ropensci.org/about/)
-
-They have produced a great interface for reproducible packages in R with documentation. The key software and packages I use for my workflow are:
+The key software and packages I use for my workflow are:
 
 ## File building
 
