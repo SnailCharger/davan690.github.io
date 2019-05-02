@@ -8,21 +8,22 @@ tags: ["phd", "invasive", "overview", "ecology", "statistics"]
 
 # Thesis
 
-My PhD work involves modelling invasive species dynamics in NZ forests. There is more detail for my supervisors and colleagues. Please excuse all the '404' errors as I am learning and working as I go. Using version control and git means that I am able to use other coders templates and test things out before committing.
+My PhD work involves modelling invasive species dynamics in NZ forests. Please excuse all the '404' errors as I am learning and working as I go. Using version control and git means that I am able to use other coders templates and test things out before committing.
 
 ## Running title
 
-Population dynamics of interacting invasive species in New Zealand forests. 
-!<--[Here]() are some other options.-->
+Population dynamics of interacting invasive species in New Zealand forests. [Here are some other options]()
+
 
 ## Thesis Overview
 
-Post [here](https://davan690.github.io/2019-05-01-Key-thesis-objectives)
+The general overview and structure is on [here](https://davan690.github.io/2019-04-28-Invasive-species-modeling) currently but as the documents increase I will convert this into a bookdown document (and then a html book) for my thesis. 
+
+The key research objectives are [here](https://davan690.github.io/2019-05-01-Key-thesis-objectives).
 
 ## Overall PhD
 
-Full layout: here currently but as the documents increase I will convert this into a bookdown document (and then a html book).
-
+* Abstract: [coming]()
 * Introduction: [coming](https://davan690.github.io/2019-05-02-Introduction-thesis)
 * Beech Forest Dynamics: [here](https://davan690.github.io/2019-05-02-beech-forest-pub-thesis)
 * Mixed Forest Dynamics: [Working document](https://davan690.github.io/2019-05-04-mpd-forest-pub-thesis)
