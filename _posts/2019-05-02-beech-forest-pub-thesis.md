@@ -7,11 +7,20 @@ tags: ["phd", "invasive", "overview", "beech", "mice", "drafts"]
 
 ## Status
 
-- [draft-v1-docx](https://www.dropbox.com/s/m5hte0n2vyl1dt2/Davidson_2019_BeechForest_19022019.docx?dl=0)
-- [draft-v2-html](https://www.dropbox.com/home/phd-drafts-anthony/Clean_2019_Beech_paper)
-- [draft-v2-docx](https://www.dropbox.com/home/phd-drafts-anthony/Clean_2019_Beech_paper)
-- [draft-v2-pdf](https://www.dropbox.com/home/phd-drafts-anthony/Clean_2019_Beech_paper)
-- [draft-v2-rmd](https://davan690.github.io/2019-04-28-Invasive-species-modeling)
+### Drafts for comments
+
+#### Supervisors
+
+- Full draft of current manuscript ([html](https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/drafts/Davidson2019_BeechForest.html); [docx](https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/drafts/Davidson2019_BeechForest.docx); [pdf](https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/drafts/Davidson2019_BeechForest.pdf)): *May 2019*
+
+- Planning and overview of [thesis](https://davan690.github.io/2019-04-28-Invasive-species-modeling): *Currently working on*
+
+#### Feedback
+
+##### General feedback
+
+Any comments on these sections of writing is always welcome.
+- Beech forest introduction[pdf/docx/html](https://www.dropbox.com/home/phd-peer-drafts): *May 2019*
 
 ### Working Title
 
@@ -23,14 +32,16 @@ This publication clarifies the discrepancy between; two modelling papers that su
 
 ### Contents
 
-- [Current draft](https://www.dropbox.com/home/phd-drafts-anthony/Clean_2019_Beech_paper)
-- [style sheet](https://www.dropbox.com/home/phd-drafts-anthony/Clean_2019_Beech_paper/Styles_manual_sheet.md/)
-- [Bayesian methods](https://www.dropbox.com/home/phd-drafts-anthony/A1_full_bayesian_model.pdf)
-- [Figures](https://www.dropbox.com/home/phd-drafts-anthony/Clean_2019_Beech_paper/Figures)
-- [Functional response](https://www.dropbox.com/home/phd-drafts-anthony/Davidson_2019_BeechForest_Appendix.nb.html)
-- [References]()
+- [Current draft](https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/drafts/Davidson2019_BeechForest.html)
+- [style sheet](https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/Styles_manual_sheet.md/
+)
+- [Introduction](https://www.dropbox.com/sh/5h4mp67p7u6t1lj/AAAQVKS4qnvu2oQLu53JQUofa?dl=0)
+- [Bayesian methods](https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/A1_full_bayesian_model.pdf)
+- [Figures](https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/Figures)
+- [Functional response](https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/Davidson_2019_BeechForest_Appendix.html)
+- [References](): *coming online soon*
 
-All other data and resources to render project from raw data (copied from my private GIT repository) can be found on [dropbox](https://www.dropbox.com/home/phd-drafts-anthony/Clean_2019_Beech_paper) but will be available here when I have incorporated the co-authors feedback.
+All other data and resources to render project from raw data (copied from my private GIT repository) can be found on [dropbox](https://www.dropbox.com/home/phd-drafts-anthony) but will be available here when I have incorporated the co-authors feedback.
 
 # Overall PhD
 
