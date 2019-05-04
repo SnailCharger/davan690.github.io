@@ -25,9 +25,9 @@ description: Statistical support for researchers
 navbar-links:
   Home: http://davan690.github.io/
   My resources:
-    - General Statistics: https://davan690.github.io/2019-04-27-Ecological-statistics/
-    - Ecological Statistics: https://davan690.github.io/2019-04-27-Ecological-statistics/
-    - Invasive species research: https://davan690.github.io/2019-04-28-Invasive-species-modeling/
+    - General Statistics: https://davan690.github.io/general-statistics/
+    - Ecological Statistics: https://davan690.github.io/ecological-statistics/
+    - Invasive species research: https://davan690.github.io/invasive-species-research/
   External links:
     - Learn R: "https://datacarpentry.org/"
     - Learn git: "https://www.youtube.com/watch?v=HVsySz-h9r4"

@@ -1,5 +1,5 @@
 ---
-title: "Ecological Statistics"
+title: Ecological Statistics
 layout: page
 image: /img/hello_world.jpg
 tags: ["statistics", "ecology", "R", "tutorials"]
