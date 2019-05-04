@@ -8,7 +8,6 @@ The New Zealand government set a "apollo shot" to make NZ free of mammalian pred
 # Thesis
 
 <div class="post">
-<h1>Draft publications and chapters</h1>{{This is a collection of my drafts and current working developments}}
 <ul>
 {% for post in site.tags["phd"] %}
   <a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
