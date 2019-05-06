@@ -1,5 +1,5 @@
 ---
-title: Reproducible workflow
+title: Reproducible science
 subtitle: Draft 
 layout: post
 tags: ["phd", "overview","infrastructure", "statistics", "drafts"]
