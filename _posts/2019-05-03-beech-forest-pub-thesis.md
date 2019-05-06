@@ -13,13 +13,13 @@ tags: ["phd", "invasive", "overview", "beech", "mice", "drafts"]
 
 - Full draft of current manuscript ([html](https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/drafts/Davidson_2019_BeechForest.html); [docx](https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/drafts/Davidson_2019_BeechForest.docx); [pdf](https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/drafts/Davidson_2019_BeechForest.pdf)): *May 2019*
 
-- Planning and overview of [thesis](https://davan690.github.io/2019-04-28-Invasive-species-modeling): *Currently working on*
+- Planning and overview of [thesis](https://davan690.github.io/2019-05-02-thesis-overview/)
 
 #### Feedback
 
 ##### General feedback
 
-Any comments on these sections of writing is always welcome.
+Any comments on these sections are always welcome.
 - Beech forest introduction[pdf/docx/html](https://www.dropbox.com/home/phd-peer-drafts): *May 2019*
 
 # Working Title
@@ -48,7 +48,7 @@ This publication clarifies the discrepancy between; two modelling papers that su
 
 All other data and resources to render project from raw data (copied from my private GIT repository) can be found on [dropbox](https://www.dropbox.com/home/phd-drafts-anthony) but will be available here when I have incorporated the co-authors feedback.
 
-# Overall PhD
+# Thesis drafts
 
 - Overview: [here](https://davan690.github.io/2019-04-28-Invasive-species-modeling)
 - Introduction: [coming...]()

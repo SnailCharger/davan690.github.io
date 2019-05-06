@@ -5,7 +5,7 @@ layout: post
 tags: ["phd", "invasive", "overview"]
 ---
 
-Title: Population dynamics of interacting invasive species in New Zealand forests. !<--[Here are some other options (coming)]()-->
+Title: Population dynamics of interacting invasive species in New Zealand forests.
 
 ## Thesis Overview
 
@@ -20,10 +20,17 @@ The general overview and structure is below currently but as the documents incre
 ## Overall PhD
 
 - Abstract: [coming]()
+
+- Overview: This page
+
 - Introduction: [coming]()
-- Beech Forest Dynamics: [here](https://davan690.github.io/2019-05-02-beech-forest-pub-thesis)
+
+- Beech Forest Dynamics: [here](https://davan690.github.io/2019-05-03-beech-forest-pub-thesis)
+
 - Mixed Forest Dynamics: [coming]()
+
 - DOC paper: [coming]()
+
 - Discussion: [coming]()
 
 ## Supporting resources
