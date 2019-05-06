@@ -5,11 +5,25 @@ layout: post
 tags: ["phd", "invasive", "overview"]
 ---
 
-Title: Population dynamics of interacting invasive species in New Zealand forests.
+## Status
+
+### Drafts for comments
+
+#### Supervisors
+
+- Planning and overview of [thesis](https://davan690.github.io/2019-05-02-thesis-overview/)
+
+#### Feedback
+
+##### General feedback
+
+## Working Title
+
+*Population dynamics of interacting invasive species in New Zealand forests.*
 
 ## Thesis Overview
 
-The general overview and structure is below currently but as the documents increase I will convert this into a bookdown document (and a real book) for my thesis. The key research objectives are:
+The general overview and structure is below currently but as the documents increase I will convert this into a [bookdown document]() for my thesis. The key research objectives are:
 
 1. To build a research synthesis database of the theoretical relationships proposed in over 100 years of conservation research in NZ and the experimental work supporting these models. We need a uniform set of models and notation to develop from (e.g. Holland et al. 2015; Ruscoe et al. 2005; Choquenot & Ruscoe 2000; Ruscoe et al. 2004; King et al. 2003).
 
@@ -20,17 +34,11 @@ The general overview and structure is below currently but as the documents incre
 ## Overall PhD
 
 - Abstract: [coming]()
-
-- Overview: This page
-
+- Overview: *This page*
 - Introduction: [coming]()
-
 - Beech Forest Dynamics: [here](https://davan690.github.io/2019-05-03-beech-forest-pub-thesis)
-
 - Mixed Forest Dynamics: [coming]()
-
 - DOC paper: [coming]()
-
 - Discussion: [coming]()
 
 ## Supporting resources
@@ -39,7 +47,7 @@ The general overview and structure is below currently but as the documents incre
 
 ## PhD News
 
-This is a collection of my drafts and current developments
+This is a collection of drafts and current developments
 
 <div class="post">
 <ul>
