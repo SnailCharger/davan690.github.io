@@ -36,8 +36,8 @@ The general overview and structure is below currently but as the documents incre
 - Abstract: [coming]()
 - Overview: *This page*
 - Introduction: [coming]()
-- Beech Forest Dynamics: [here](https://davan690.github.io/2019-05-03-beech-forest-pub-thesis)
-- Mixed Forest Dynamics: [coming]()
+- Beech Forest Dynamics: [here](https://davan690.github.io/2019-05-03-beech-forest-objectives)
+- Mixed Forest Dynamics: [coming](https://davan690.github.io/2019-05-03-mpd-forest-objectives)
 - DOC paper: [coming]()
 - Discussion: [coming]()
 

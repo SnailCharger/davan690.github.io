@@ -48,17 +48,12 @@ This publication clarifies the discrepancy between; two modelling papers that su
 
 All other data and resources to render project from raw data (copied from my private GIT repository) can be found on [dropbox](https://www.dropbox.com/home/phd-drafts-anthony) but will be available here when I have incorporated the co-authors feedback.
 
-# Thesis drafts
+# Overall PhD
 
-- Overview: [here](https://davan690.github.io/2019-04-28-Invasive-species-modeling)
-- Introduction: [coming...]()
-- Beech Forest Dynamics: [old draft here](https://www.dropbox.com/s/m5hte0n2vyl1dt2/Davidson_2019_BeechForest_19022019.docx?dl=0)
-- Mixed Forest Dynamics: [coming]()
+Full layout: here currently but as the documents increase I will convert this into a bookdown document (and then a html book).
+
+- Introduction: [coming]()
+- Beech Forest Dynamics: [here]((https://davan690.github.io/2019-05-03-beech-forest-objectives/))
+- Mixed Forest Dynamics: [here](https://davan690.github.io/2019-05-03-mpd-forest-objectives)
 - DOC paper: [coming]()
-- Discussion: [coming]()
-
-#### Additional Chapters
-
-- Reproducibility in PFNZ2050: [here]()
-- Invasive species database: [here]()
-- Choices in modelling population dynamics: [here]()
+- Discussion: [coming]())

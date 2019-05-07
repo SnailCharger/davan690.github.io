@@ -1,6 +1,6 @@
 ---
-title: "The beginning"
-subtitle: "Starting a website is a daunting process and I've tried many times but that is for another blog post."
+title: The beginning
+subtitle: Starting a website is a daunting process and I've tried many times but that is for another blog post.
 layout: post
 image: /img/centre-logo-white.jpg
 ---
