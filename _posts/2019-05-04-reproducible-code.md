@@ -24,21 +24,50 @@ Here is a collection of the posts I have drawn inspiration from:
 
 ## General databases
 
+### rOpenSci
+
 - [rOpenSci](https://ropensci.org/about/) is a non-profit initiative founded in 2011 by Karthik Ram, Scott Chamberlain, and Carl Boettiger to make scientific data retrieval reproducible. Over the past seven years we have developed an ecosystem of open source tools, we run annual conferences, and review community developed software.
+
+### CRAN of reproducible research
+
 - [The Reproducible Research CRAN Task View](https://cran.r-project.org/web/views/ReproducibleResearch.html): They have produced a great interface for reproducible packages in R with documentation.
 
-## PLOS Journal Publications
+## Journal Publications
+
+### PLOS 
 
 - [Best practices for Scientific Computing](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745)
 - [10 simple rules for reproducible computational research](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285)
 - [A quick guide to organizing computational biology projects](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424)
 - [Ten Simple Rules for Digital Data Storage](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005097)
 
-## Coding groups
+### PNAS
+
+ - [Reproducibility of research: Issues and proposed remedies](https://www.pnas.org/content/115/11/2561)
+
+ - [Opinion: Is science really facing a reproducibility crisis, and do we need it to?](https://www.pnas.org/content/115/11/2628)
+
+ - [Opinion: Reproducibility failures are essential to scientific inquiry](https://www.pnas.org/content/115/20/5042)
+
+ - [Meta-assessment of bias in science](https://www.pnas.org/content/early/2017/03/15/1618569114)
+
+### Nature
+
+- [Meta-analysis and the science of research synthesis](https://www.nature.com/articles/nature25753)
+
+## Tutorials
 
 - [Uni of Toronto Coders](https://github.com/UofTCoders)
-  -[R course](https://github.com/UofTCoders/rcourse)
+
+- [R course](https://github.com/UofTCoders/rcourse)
   
 - [UBC statistics course](http://stat545.com/Classroom/)
 
-With all the resources above I have created a evolving "workflow" for my research found [here](https://github.com/davan690/reproducible-guide/). I am building this into a webpage/book but it is still under development [here]("https://davan690.github.io/reproducible-guide).
+- [Code Academy](https://www.codecademy.com/)
+
+With all the resources above I am creating a evolving "workflow" for my research found [here](https://github.com/davan690/reproducible-guide/). I am actively developing these areas currently:
+
+- File structures
+- GIT and GIThub workflow (version control)
+
+I am building this into a webpage/book but it is still under development [here]("https://davan690.github.io/reproducible-guide).
