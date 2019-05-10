@@ -1,11 +1,12 @@
 ---
 title: "Contributing"
-
 permalink: /Contributing.html
 layout: page 
 header:
   overlay_color: "444444"
 ---
+
+<-draft only->
 
 ## How to contribute
 
@@ -64,9 +65,6 @@ Not time to write or add methods? No problem! Just send us your methods/protocol
 
 It can be anything, please feel free to get in touch with us! We will be more than happy to hear your opinion and adjust the workbook to make it more suitable to your needs.
 {: style="text-align: justify"}
-
-
-
 
 ## Submitting changes
 
