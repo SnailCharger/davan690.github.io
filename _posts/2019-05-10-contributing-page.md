@@ -1,9 +1,9 @@
 ---
-title: "Contributing with GIThub"
+title: Contributing with GIThub
+subtitle: Draft
 permalink: /Contributing.html
 layout: post 
-header:
-  overlay_color: "444444"
+tags: ["phd", "invasive", "overview"]
 ---
 
 We are really glad you're reading this! We need volunteer contributors for making the statistics network successful. Please do not hesitate to contact us via any way works best for you.

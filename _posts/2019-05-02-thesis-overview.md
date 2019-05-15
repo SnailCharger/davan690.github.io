@@ -1,6 +1,6 @@
 ---
-title: "Thesis Overview"
-subtitle: "Draft material"
+title: Thesis Overview
+subtitle: Draft
 layout: post
 tags: ["phd", "invasive", "overview"]
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Thesis tools"
-subtitle:  "An overview of the current tools I am using "
+title: Thesis tools
+subtitle:  An overview of the current tools I am using
 layout: post
 tags: ["phd", "invasive", "overview", "research"]
 ---
