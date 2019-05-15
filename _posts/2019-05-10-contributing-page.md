@@ -1,21 +1,20 @@
 ---
-title: "Contributing"
-
+title: "Contributing with GIThub"
 permalink: /Contributing.html
-layout: page 
+layout: post 
 header:
   overlay_color: "444444"
 ---
 
-## How to contribute
-
 We are really glad you're reading this! We need volunteer contributors for making the statistics network successful. Please do not hesitate to contact us via any way works best for you.
+
+## Contributing with version control
 
 {: style="text-align: justify"}
 
 Making contribution is simple with git:
 
-1. Fork the repo on GitHub [here](https://github.com/davan690/)
+1. Fork the repo on GitHub [here](https://github.com/davan690/davan690.github.io)
 2. Clone the project to your own machine
 3. Edit the files or add files using your favorite editor
 4. Commit changes to your own branch
