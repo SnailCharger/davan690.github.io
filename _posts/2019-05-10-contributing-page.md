@@ -24,9 +24,14 @@ Making contribution is simple with git:
 NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 {: style="text-align: justify"}
 
-If you're comfortable making contributions any other way, please feel free to do it your way and send us the pull request, we will gladly review the changes.
+If you're comfortable making contributions any other way, please feel free to do it your way and send us the pull request, message or email and we will gladly review the changes.
 {: style="text-align: justify"}
 
+If you are unsure about GIT and version control here is a short list of links to Karl Bromans book:
+
+- [Contributing to someone's repository](https://kbroman.org/github_tutorial/pages/fork.html)
+
+- []
 ## How you can help
 
 ### 1. Testing/reviewing published workflows:
@@ -41,7 +46,7 @@ Typos and bad grammar can make a methods section difficult to read. If you have 
 
 ### 3. Contributing to sections of published methods
 
-In bioinformatics there are many ways to answer the same question. It is also true that using a particular method over another may influence the final results. Hence, we encourage the addition of alternative methods to the existing workflows that may be more adaptable to your organism or circumstances. Otherwise, please follow existing conventions, and explain why any methodological changes may be necessary.
+In statistics there are many ways to answer the same question. It is also true that using a particular method over another may influence the final results. Hence, we encourage the addition of alternative methods to the existing workflows that may be more adaptable to your organism or circumstances. Otherwise, please follow existing conventions, and explain why any methodological changes may be necessary.
 {: style="text-align: justify"}
 
 ### 4. Adding new protocols/methods
@@ -64,21 +69,6 @@ Not time to write or add methods? No problem! Just send us your methods/protocol
 It can be anything, please feel free to get in touch with us! We will be more than happy to hear your opinion and adjust the workbook to make it more suitable to your needs.
 {: style="text-align: justify"}
 
-
-
-
-## Submitting changes
-
-Please send a [GitHub Pull Request to bioinformatics-workbook](https://github.com/ISUgenomics/bioinformatics-workbook/pull/new/master) with a clear list of what you've done (read more about [pull requests](http://help.github.com/pull-requests/)). Please follow our writing conventions (below) and make sure all of your commits are atomic (one feature per commit).
-{: style="text-align: justify"}
-
-Always write a clear log message for your commits. One-line messages are fine for small changes, but bigger changes should look like this:
-{: style="text-align: justify"}
-
-    $ git commit -m "A brief summary of the commit
-    >
-    > A paragraph describing what changed and its impact."
-
 ## Writing conventions
 
 Start reading our code and you'll get the hang of it. We can optimize for readability.
@@ -89,3 +79,4 @@ Start reading our code and you'll get the hang of it. We can optimize for readab
   * To consistently find the images for each chapter, images should be saved in the `assets` folder of each section. **Please no copyrights!**
   * Methods should be generalized, but we also strongly encourage _public datasets used as examples_. Please avoid using private datasets that are not accessible, allowing others to replicate your tutorials.
   {: style="text-align: justify"}
+
