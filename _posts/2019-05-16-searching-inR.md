@@ -1,9 +1,7 @@
 ---
-title: "Searching in R"
+title: Searching in R
 permalink: /searchingr.html
-layout: page 
-header:
-  overlay_color: "444444"
+layout: post
 ---
 
 Google Scholar, Web of Science, Scopus, open-access, pre-prints and everything else. There are the following packages for doing these searches within R:
