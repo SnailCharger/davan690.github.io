@@ -1,7 +1,8 @@
 ---
 title: Kol RMarkdown blogs 2019
 permalink: /RMarkdown-blogs.html
-layout: page 
+layout: post 
+tags: ["phd", "invasive", "tools", "drafts"]
 ---
 
 There are so many amazing blogs on the web for doing different variations of RMarkdown and its subsequent outcomes. Here is a collection of currently interesting markdown/RMarkdown blogs:

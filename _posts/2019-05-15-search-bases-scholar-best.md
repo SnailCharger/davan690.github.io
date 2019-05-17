@@ -1,9 +1,8 @@
 ---
 title: "Google scholar wins!"
 permalink: /Contributing.html
-layout: page 
-header:
-  overlay_color: "444444"
+layout: post
+tags: ["phd", "invasive", "tools", "drafts"]
 ---
 
 Google Scholar, Web of Science, and Scopus: a systematic comparison of citations in 252 subject categories

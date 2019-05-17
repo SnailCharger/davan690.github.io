@@ -1,9 +1,8 @@
 ---
 title: "Markdown resources"
 permalink: /Contributing.html
-layout: page 
-header:
-  overlay_color: "444444"
+layout:  post
+tags: ["phd", "invasive", "tools", "drafts"]
 ---
 BUT THERE IS MORE
 
