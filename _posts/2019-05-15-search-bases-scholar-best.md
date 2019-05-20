@@ -1,6 +1,5 @@
 ---
 title: "Google scholar wins!"
-permalink: /Contributing.html
 layout: post
 tags: ["phd", "invasive", "tools", "drafts"]
 ---

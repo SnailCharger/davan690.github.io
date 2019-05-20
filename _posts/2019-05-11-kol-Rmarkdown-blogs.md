@@ -1,6 +1,5 @@
 ---
 title: Kol RMarkdown blogs 2019
-permalink: /RMarkdown-blogs.html
 layout: post 
 tags: ["phd", "invasive", "tools", "drafts"]
 ---
