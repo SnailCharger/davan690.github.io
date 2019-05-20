@@ -10,6 +10,10 @@ I am just learning how to run Jekyll on my local computer for testing and have b
 
 Here are my short reminder steps:
 
+Before these steps there are some issues I am having with `sudo install jekyll` most times and I think this is because I am saving gem files in the wrong locations. But for now its working with davids test account.
+
+Pre.1 Install Jekyll: `sudo install jekyll`
+
 1. Open `bash` terminal
 
 2. Locate the file location of the website
