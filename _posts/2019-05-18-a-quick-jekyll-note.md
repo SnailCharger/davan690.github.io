@@ -1,6 +1,5 @@
 ---
 title: Code like a jekyll programmer
-permalink: /quick-jekyll.html
 layout: post
 tags: ["phd", "invasive", "tools", "drafts"]
 ---

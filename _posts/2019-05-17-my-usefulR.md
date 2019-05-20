@@ -1,6 +1,5 @@
 ---
-title: "Code like a programmer"
-permalink: /usefulr.html
+title: Code like a programmer
 layout: post
 tags: ["phd", "invasive", "tools", "drafts"]
 ---
