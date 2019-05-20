@@ -1,9 +1,7 @@
 ---
-title: "Code like a programmer"
-subtitle: "Make it fit THEN wrap it into a function"
-permalink: /usefulr.html
+title: Code like a programmer
 layout: post
-tags: ["phd", "invasive", "tools", "drafts"
+tags: ["phd", "invasive", "tools", "drafts"]
 ---
 
 ## Tutorials

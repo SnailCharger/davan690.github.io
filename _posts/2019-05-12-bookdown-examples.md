@@ -1,6 +1,5 @@
 ---
 title: Bookdown example blogs 2019
-permalink: /bookdown-examples.html
 layout: post
 tags: ["phd", "invasive", "tools", "drafts"]
 ---

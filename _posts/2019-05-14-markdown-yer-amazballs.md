@@ -1,6 +1,5 @@
 ---
 title: "Markdown resources"
-permalink: /Contributing.html
 layout:  post
 tags: ["phd", "invasive", "tools", "drafts"]
 ---

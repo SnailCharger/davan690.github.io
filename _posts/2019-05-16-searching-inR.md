@@ -1,6 +1,5 @@
 ---
 title: Searching in R
-permalink: /searchingr.html
 layout: post
 tags: ["phd", "invasive", "tools", "drafts"]
 ---

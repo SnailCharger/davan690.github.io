@@ -1,7 +1,6 @@
 ---
 title: Contributing with GIThub
 subtitle: Draft
-permalink: /Contributing.html
 layout: post 
 tags: ["phd", "invasive", "overview"]
 ---

@@ -1,6 +1,5 @@
 ---
 title: The link between GIThub and Microsoft
-permalink: /github-to-microsoft.html
 layout: post 
 tags: ["phd", "invasive", "tools", "drafts"]
 ---
