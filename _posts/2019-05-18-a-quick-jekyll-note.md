@@ -3,7 +3,7 @@ title: "Code like a programmer"
 subtitle: "A jekyll note"
 permalink: /usefulr.html
 layout: post
-tags: ["phd", "invasive", "tools", "drafts"
+tags: ["phd", "invasive", "tools", "drafts"]
 ---
 
 I am just learning how to run Jekyll on my local computer for testing and have been unsucessful over the past few weeks on my windows PC (uni computer). I have now installed and sucessfully build my github/jekyll site on my MAC and now have to do it again. 
