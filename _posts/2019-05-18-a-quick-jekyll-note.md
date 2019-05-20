@@ -39,3 +39,9 @@ And that should be it....
 
 There notes are directly taken from an online [Ucedmy]("") course that I did actually pay for after I couldn't make it work on windows. I would totally recommend this simple course in Jekyll to get on top of everything you can collect in bits over web searches.
 
+The key commands at the moment for me are:
+
+bundle exec jekyll build
+bundle exec jekyll serve
+bundle exec jekyll serve --watch
+[cmd + c]
