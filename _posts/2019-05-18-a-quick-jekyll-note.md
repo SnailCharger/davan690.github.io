@@ -1,7 +1,7 @@
 ---
 title: "Code like a programmer"
 subtitle: "A jekyll note"
-permalink: /usefulr.html
+permalink: /quick-jekyll.html
 layout: post
 tags: ["phd", "invasive", "tools", "drafts"]
 ---
