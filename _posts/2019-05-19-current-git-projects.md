@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Under development
+title: GIThub repo's
+subtitle: Projects under development
 show-avatar: true
 css: '/css/extend-home.css'
 ---

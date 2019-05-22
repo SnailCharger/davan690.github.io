@@ -2,7 +2,7 @@
 title: Thesis Overview
 subtitle: Draft
 layout: post
-tags: ["phd", "invasive", "overview"]
+tags: ["phd", "invasive", "overview", "thesis"]
 ---
 
 ## Status

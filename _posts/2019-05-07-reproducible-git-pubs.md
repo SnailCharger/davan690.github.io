@@ -2,7 +2,7 @@
 title: GIT and GITHUB
 subtitle: Draft. A review of "A scientific paper for GIT workflow application for bio-informatics"
 layout: post
-tags: ["phd", "invasive", "overview"]
+tags: ["phd", "overview", "reproducibility"]
 ---
 
 I have been reading a paper today [about](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004947).... you won't believe it. [GIT](https://git-scm.com/) and [GIThub](https://github.com/) for bio-informatics in [PLOSone](https://journals.plos.org/).
