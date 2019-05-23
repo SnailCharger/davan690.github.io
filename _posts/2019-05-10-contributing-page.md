@@ -2,7 +2,7 @@
 title: Contributing with GIThub
 subtitle: Draft
 layout: post 
-tags: ["phd", "invasive", "overview"]
+tags: ["general", "overview", "website"]
 ---
 
 We are really glad you're reading this! We need volunteer contributors for making the statistics network successful. Please do not hesitate to contact us via any way works best for you.

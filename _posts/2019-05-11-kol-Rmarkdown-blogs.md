@@ -1,7 +1,7 @@
 ---
 title: Kol RMarkdown blogs 2019
 layout: post 
-tags: ["phd", "invasive", "tools", "drafts"]
+tags: ["phd", "tools", "reproducibility"]
 ---
 
 There are so many amazing blogs on the web for doing different variations of RMarkdown and its subsequent outcomes. Here is a collection of currently interesting markdown/RMarkdown blogs:
