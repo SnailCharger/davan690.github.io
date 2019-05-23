@@ -18,16 +18,5 @@ These are the resources I often talk about and personally use regularly. I have 
 
 [The Statistics Network](https://davan690.github.com/usefulr/): My personal list of resources but in particular look at the `usefulr` repository. I am updating this as and when I find new resources. Mostly, this list is to support my own development and to remind myself how to do many of these R and Markdown tricks and tips I find on the web.
 
-### Bio-informatics
+## News
 
-I often work with colleagues in genetics and have done a small bit of work with [dartR]("https://cran.r-project.org/web/packages/dartR/"). Here is a very limited list of genetics resources for statistics. I am no way an expert with these packages or analyses but have a look here for some detailed resources and lab discussions with [Arthur Goerges](http://georges.biomatix.org/)
-
-- [Monash Bio-informatics Platform](https://monashbioinformaticsplatform.github.io/): This is github repository with information for Monash bio-informatics team.
-
-- [Workbook from compgenr package](https://al2na.github.io/compgenr/Genomics/)
-
-- [Comparative Genomics workbook](https://isugenomics.github.io/bioinformatics-workbook/)
-
-- [DartR Genomics workbook](https://cran.r-project.org/web/packages/dartR/vignettes/IntroTutorial_dartR.pdf)
-
-- [R population genetics workbook](https://github.com/green-striped-gecko/PopGenReport/)
