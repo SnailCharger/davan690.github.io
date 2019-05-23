@@ -1,7 +1,7 @@
 ---
 title: Code like a programmer
 layout: post
-tags: ["phd", "invasive", "tools", "drafts"]
+tags: ["phd","tools", "reproducibility"]
 ---
 
 ## Tutorials

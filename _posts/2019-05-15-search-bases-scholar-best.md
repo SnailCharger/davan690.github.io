@@ -1,7 +1,7 @@
 ---
 title: "Google scholar wins!"
 layout: post
-tags: ["phd", "invasive", "tools", "drafts"]
+tags: ["phd", "invasive", "tools", "reproducibility"]
 ---
 
 Google Scholar, Web of Science, and Scopus: a systematic comparison of citations in 252 subject categories
