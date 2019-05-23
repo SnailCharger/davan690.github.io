@@ -17,3 +17,6 @@ These are the resources I often talk about and personally use regularly. I have 
 [Cheat-sheets](https://www.rstudio.com/resources/cheatsheets/): These are really important and RStudio do many good ones. There are many other variations out there though.
 
 [The Statistics Network](https://davan690.github.com/usefulr/): My personal list of resources but in particular look at the `usefulr` repository. I am updating this as and when I find new resources. Mostly, this list is to support my own development and to remind myself how to do many of these R and Markdown tricks and tips I find on the web.
+
+## News
+
