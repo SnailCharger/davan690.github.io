@@ -1,13 +1,31 @@
 ---
 title: Bio-informatics workflow
 subtitle: Notes from Kanwal et al. 2017
-permalink:
+tags: ["workflow", "phd", "bioinformatics"]
 layout: post
 ---
 
-I often work with colleagues in genetics and have done a small bit of work with [dartR]("https://cran.r-project.org/web/packages/dartR/"). Here is a very limited list of genetics resources for statistics. I am no way an expert with these packages or analyses but have a look here for some detailed resources and lab discussions with [Arthur Gorges](http://georges.biomatix.org/)
+## My notes
+
+<img src= "/img/workflow-pub1.png" />
+
+*Investigating reproducibility and tracking provenance – A genomic workflow case study*
+
+<img src= "/img/abstract1.png" />
+
+This was the paper I was thinking about. A key few points are in the figures here.
+
+#### General workflow
+
+<img src= "/img/fig1-workflow.png" />
+
+#### Bioinformatics
+
+<img src= "/img/fig3-workflow.png" />
 
 ## Tutorials
+
+I often work with colleagues in genetics and have done a small bit of work with [dartR]("https://cran.r-project.org/web/packages/dartR/"). Here is a very limited list of genetics resources for statistics. I am no way an expert with these packages or analyses but have a look here for some detailed resources and lab discussions with [Arthur Gorges](http://georges.biomatix.org/).
 
 - [Monash Bio-informatics Platform](https://monashbioinformaticsplatform.github.io/): This is github repository with information for Monash bio-informatics team.
 
@@ -26,7 +44,6 @@ I often work with colleagues in genetics and have done a small bit of work with 
 - [bionix](https://github.com/PapenfussLab/bionix/): This is a a tool for reproducible bioinformatics that unifies workflow engines, package managers, and containers. It is implemented as a lightweight library on top of the Nix deployment system. BioNix is currently a work in progress.
 
 **AND more**
-
 - [https://github.com/davfre/RRIB]
 - [https://github.com/seandavi/wdlRunR]
 - [https://github.com/lmweber/cytometry-clustering-comparison]
@@ -36,26 +53,6 @@ I often work with colleagues in genetics and have done a small bit of work with 
 - [https://github.com/imagejs/imagejs.github.com]
 - [https://github.com/rabix/rabix]
 - [https://github.com/nlm-repro/nlm-repro.github.io]
-
-## My notes
-
-### Kanwal et al. 2017
-
-<img src= "workflow-pub1.png" />
-
-*Investigating reproducibility and tracking provenance – A genomic workflow case study*
-
-<img src= "abstract1.png" />
-
-This was the paper I was thinking about. A key few points are in the figures here.
-
-#### General workflow
-
-<img src= "fig1-workflow.png" />
-
-#### Bioinformatics
-
-<img src= "fig3-workflow.png" />
 
 ## News
 
