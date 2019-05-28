@@ -1,14 +1,17 @@
 ---
 title: CompareGroups 
-subtitle: An amazing R package with some hidden trips
-permalink: /comparegroups-package/
+subtitle: A interface for creating summary tables
+permalink: /comparegroups-package
 layout: post
 tags: ["phd", "general", "overview", "website"]
+image: /img/compareGroups-gui-shot.jpg
 ---
 
 The compareGroups package (Subirana, Sanz, and Vila 2014) allows users to create tables displaying results of univariate analyses, stratified or not by categorical variable groupings.
 
 Tables can easily be exported to CSV, LaTeX, HTML, PDF, Word or Excel, or inserted in R-markdown files to generate reports automatically.
+
+![image](/img/compareGroups-gui-shot.jpg)
 
 This package can be used from the R prompt or from a user-friendly graphical user interface for non-R familiarized users.
 

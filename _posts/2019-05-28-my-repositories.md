@@ -4,21 +4,40 @@ subtitle: This is most likely always out of date
 permalink: /repos-i-collect.html/
 layout: post
 tags: ["phd", "general", "overview", "website"]
+image: /img/repo-example-screenshot.jpg
 ---
 
-As I am learnign my way around GIT and GIThub I have been collecting, forking and removing heaps of repositories (like over 100 now). A far as I can tell this is a good practise if you want the owners to be able to see whta you have done and how you are modifying there code. I have done this because I like the idea of communicatin with other researchers about  the code that you are using to influence the choices in models and statistcal reporting that I conduct.
+As I am learning my way around [GIT]("www.github.com") and [GIThub]("www.github.com") I have been collecting, forking and removing heaps of repositories (like over 100 now). 
+
+![image](../img/repo-example-screenshot.jpg)
+
+A far as I can tell this is a good practice if you want the owners to be able to see what you have done and how you are modifying there code. I have done this because I like the idea of communication with other researchers about  the code that you are using to influence the choices in models and statistical reporting that I conduct.
 
 ## All repositories
 
-However, this account can become unwellyd very quickly and I want to keep a bit more of my development private well I am building a career in science research. However, if you get this far into this blog or the website you will find the list I use to reference other options for analysis and research.
+However, this account can become unwieldy very quickly and I want to keep a bit more of my development private well I am building a career in science research. However, if you get this far into this blog or the website you will find the list I use to reference other options for analysis and research.
 
 ### Public repositories
 
-- davan690/meta-analysis-demo 
+These repositories I have drawn from and in some cases have began to extend the documents to fit my workflows and needs.
+
+#### [meta-analysis-demo]("https://github.com/davan690/meta-analysis-demo")
+
+A repository created [Shinichi Nakagawa]("http://www.i-deel.org/") for doing meta-analysis in R.  
+
+#### [airspace-jekyll]("https://github.com/davan690/airspace-jekyll")
+
+A nice template for jekyll blogs. I do not use this one currently but it a good variation on the `beautiful` template I am currently using.
+
+#### [aRxiv]("https://github.com/davan690/ropensci/aRxiv")
+
+A source for pre-prints and open-source publications.
+
+---
+
+Just a list currently sorry
 
 - davan690/usefulr ropensci/aRxiv 
-
-- davan690/airspace-jekyll 
 
 - davan690/Creating-maps-in-R 
 
@@ -252,8 +271,6 @@ However, this account can become unwellyd very quickly and I want to keep a bit 
 
 ## Removed repositories
 
-
-
 ## Tutorials
 
-stingawfwef## My notes
+## My notes
