@@ -2,6 +2,7 @@
 title: Dealing with dates in R
 layout: post 
 tags: ["phd","tools", "reproducibility", "RTools", "dates"]
+image: /img/time.jpg
 ---
 
 ## Dealing with dates in RStudio
