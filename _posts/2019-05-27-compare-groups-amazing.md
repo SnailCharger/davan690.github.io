@@ -3,6 +3,7 @@ title: CompareGroups
 subtitle: An amazing R package with some hidden trips
 permalink: /comparegroups-package/
 layout: post
+image: /img/compareGroups-gui-shot.jpg
 ---
 
 The compareGroups package (Subirana, Sanz, and Vila 2014) allows users to create tables displaying results of univariate analyses, stratified or not by categorical variable groupings.
