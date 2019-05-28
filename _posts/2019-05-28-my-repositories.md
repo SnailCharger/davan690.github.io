@@ -17,6 +17,8 @@ However, this account can become unwieldy very quickly and I want to keep a bit 
 
 ### Public repositories
 
+These repositories I have drawn from and in some cases have began to extend the documents to fit my workflows and needs.
+
 #### [meta-analysis-demo]("https://github.com/davan690/meta-analysis-demo")
 
 A repository created [Shinichi Nakagawa]("http://www.i-deel.org/") for doing meta-analysis in R.  
