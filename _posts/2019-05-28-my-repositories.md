@@ -267,8 +267,6 @@ Just a list currently sorry
 
 ## Removed repositories
 
-
-
 ## Tutorials
 
-stingawfwef## My notes
+## My notes
