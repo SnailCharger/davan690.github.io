@@ -1,0 +1,102 @@
+---
+title: "pocket-data-conversion"
+output:
+  html_document:
+    df_print: paged
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+#import my libraries
+source("./rcode/r_packages.R", echo = FALSE)
+
+# to save the .mardown file
+# rmarkdown::render("./pocket-html-to-csv.Rmd", output_format = "all", clean = FALSE)
+```
+
+Pocket is a tool I use to record webpages, blogs and other dynmics html content that I want to be able to access at a later date. When I choose to use `pocket` over other tools it was for the ability to easily export `html` lists of these saved pages. I have now got the code and data to see if this is possible below. I have used a series of blogs [here](") to start this process.
+
+## Get format in correct structure
+
+```{r}
+# Parse HTML and convert attributes to data frame
+library(XML)
+
+file <- "./data/ril_export-zot-tags.html"
+
+doc = htmlParse(file)
+nodeset <- getNodeSet(doc, "//a")
+
+# Create data frame
+href <- sapply(nodeset, xmlGetAttr, "href")
+time_added <- sapply(nodeset, xmlGetAttr, "time_added")
+time <- as.POSIXct(as.numeric(time_added), origin="1970-01-01")
+tags <- sapply(nodeset, xmlGetAttr, "tags")
+tags[tags==""] <- "none"
+data <- data.frame(href, time, tags)
+
+# Find unique tags
+taglist <- sort(unique(unlist(strsplit(as.character(tags), ","))))
+
+# # Create matrix
+tagmatrix <- matrix(0, length(tags), length(taglist))
+
+# Create the tag matrix and transform into a data frame (classification)
+for (i in 1:length(taglist)) {
+  tagmatrix[grep(paste("\\b", taglist[i], "\\b", sep=""), tags), i] <- 1
+}
+
+tagframe <- data.frame(tagmatrix)
+names(tagframe) <- taglist
+
+# Concatenate to original data frame and output
+data <- data.frame(data, tagframe)
+write.table(data, "./data/ril_output.csv", sep=";", col.names=TRUE, row.names=FALSE)
+```
+
+```{r csv-table}
+# kableExtra::kable(head(data))
+```
+
+## Removing tag columns for now
+
+```{r reducing dataset}
+#already saved
+taglist
+# names(data)
+
+dat1 <- data %>%
+          select(href, time, tags)
+```
+
+## Selecting important tags
+
+### For this example I want to extract all the websites I have tagged as zotero
+
+```{r}
+dat2 <- dat1 %>%
+          filter(tags == "zotero") %>%
+            transmute(webpage = href,
+                   access.date = as.Date(time),
+                   tags = tags)
+```
+
+## My question
+
+How do I search all of the entries to find anything containing the word "zotero"?
+
+*For now my solution is to manually add a "zotero" tag to each entry using the online webpage*
+
+There are now 24 "zotero" records I hacve saved. I will now export them as a csv and add the the `rmd` file as a csv that then can be converted to a `md` post as below.
+
+```{r save-csv-zot}
+kableExtra::kable(dat2, format = "markdown")
+
+#save csv
+write.csv(dat2, "./data/zotero-hyper-links.csv")
+```
+
+
+
+
