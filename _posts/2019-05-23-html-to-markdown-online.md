@@ -3,6 +3,7 @@ title: Turning html files into Markdown
 subtitle: An online converter that rocks
 permalink: /html-2-markdown.html
 layout: post
+tags: ["phd", "general", "overview", "website"]
 ---
 
 This was an amazing find when converting tiresome html files into documents that can be worked in using markdown.

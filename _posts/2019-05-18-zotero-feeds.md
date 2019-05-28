@@ -1,9 +1,10 @@
 ---
 title: "Zotero"
 permalink: /zotero.html
-layout: page 
+layout: post 
 header:
   overlay_color: "444444"
+tags: ["phd", "general", "overview", "website"]
 ---
 
 Ever since I made a reluctant transition from my trusty [Mendeley account]("https://mendeley.com") to a [Zotero database]("https://www.zotero.org/download/") I have saved the resources and blogs I have used along the way.

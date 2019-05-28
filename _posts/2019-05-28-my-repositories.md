@@ -3,6 +3,7 @@ title: A description of my repositories
 subtitle: This is most likely always out of date
 permalink: /repos-i-collect.html/
 layout: post
+tags: ["phd", "general", "overview", "website"]
 ---
 
 As I am learnign my way around GIT and GIThub I have been collecting, forking and removing heaps of repositories (like over 100 now). A far as I can tell this is a good practise if you want the owners to be able to see whta you have done and how you are modifying there code. I have done this because I like the idea of communicatin with other researchers about  the code that you are using to influence the choices in models and statistcal reporting that I conduct.

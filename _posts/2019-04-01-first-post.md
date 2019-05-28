@@ -1,7 +1,7 @@
 ---
 title: The beginning
 subtitle: Starting a website is a daunting process and I've tried many times but that is for another blog post
-layout: post
+layout: firstpost
 tags: ["phd", "general", "overview", "website"]
 image: /img/centre-logo-white.jpg
 ---
