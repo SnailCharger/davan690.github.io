@@ -1,7 +1,5 @@
 ---
-title: "pocket-data-conversion"
-author: "Anthony Davidson"
-date: "28/05/2019"
+title: first-pocket-data-attempt
 output: html_document
 ---
 
