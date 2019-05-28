@@ -3,6 +3,7 @@ title: A description of my repositories
 subtitle: This is most likely always out of date
 permalink: /repos-i-collect.html/
 layout: post
+image: /img/repo-example-screenshot.jpg
 ---
 
 As I am learning my way around [GIT]("www.github.com") and [GIThub]("www.github.com") I have been collecting, forking and removing heaps of repositories (like over 100 now). 
