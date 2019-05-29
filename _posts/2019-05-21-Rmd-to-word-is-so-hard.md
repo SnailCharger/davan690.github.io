@@ -1,9 +1,10 @@
 ---
 title: "Searching in R"
 permalink: /searchingr.html
-layout: page 
+layout: post 
 header:
   overlay_color: "444444"
+tags: ["phd", "general", "overview", "website"]
 ---
 
 ## DOCx fun!

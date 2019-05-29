@@ -2,6 +2,7 @@
 title: The link between GIThub and Microsoft
 permalink: /github-to-microsoft.html
 layout: page 
+tags: ["phd", "general", "overview", "website"]
 ---
 
 GIThub is a leading provider for storing both public and private files that also allows for webpage hosting. GIThub uses the [GIT](https://git-scm.com/) version system.

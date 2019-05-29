@@ -1,9 +1,10 @@
 ---
 title: "GitHub Pages"
 permalink: /gh-pages-for-ecology.html
-layout: page 
+layout: post 
 header:
   overlay_color: "444444"
+tags: ["phd", "general", "overview", "website"]
 ---
 
 http://jmcglone.com/guides/github-pages/
