@@ -1,8 +1,0 @@
----
-layout: page
-title: Statistics
-subtitle: A simple website of complex resources
-use-site-title: true
-bigimg:
-  - "/img/background-image.jpg" : "Local Canberra surf!"
----
