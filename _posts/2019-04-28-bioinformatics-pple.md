@@ -1,11 +1,13 @@
 ---
 title: Bio-informatics workflow
 subtitle: Notes from Kanwal et al. 2017
-tags: ["workflow", "phd", "bioinformatics"]
+tags: ["workflow", "bioinformatics", "tools"]
 layout: post
 ---
 
 ## My notes
+
+This is a paper I read a few months ago and was reminded about it when discussing workflows. A few key points can be found below.
 
 <img src= "/img/workflow-pub1.png" />
 
@@ -13,7 +15,7 @@ layout: post
 
 <img src= "/img/abstract1.png" />
 
-This was the paper I was thinking about. A key few points are in the figures here.
+
 
 #### General workflow
 
