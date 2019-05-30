@@ -2,49 +2,29 @@
 title: "Using compareGroups function"
 author: "Anthony Davidson"
 date: "`r Sys.Date()`"
-output: rmarkdown::html_vignette
-vignette: >
-  %\VignetteIndexEntry{Vignette Title}
-  %\VignetteEngine{knitr::rmarkdown}
-  %\VignetteEncoding{UTF-8}
-bibliography: compare-exported.bib
+output: rmarkdown::html_notebook
 ---
 
 The compareGroups package (Subirana, Sanz, and Vila 2014) allows users to create tables displaying results of univariate analyses, stratified or not by categorical variable groupings.
 
 Tables can easily be exported to CSV, LaTeX, HTML, PDF, Word or Excel, or inserted in R-markdown files to generate reports automatically.
 
-```{r image-using-knitr}
-
-```
-
-![image](./img/compareGroups-gui-shot.jpg)
-
-<img src= "./img/compareGroups-gui-shot.jpg" />
+<center>
+![image](./img/compareGroups-gui-shot.jpg){
+width=50% }
+</center>
 
 This package can be used from the R prompt or from a user-friendly graphical user interface for non-R familiarized users.
 
 The compareGroups package is available on CRAN repository. To load the package using the R prompt, enter:
 
-```{r}
+```{r eval=TRUE, echo=TRUE, message=FALSE, warning=FALSE}
 library(compareGroups)
 ```
 
-This document provides an overview of the usage of the compareGroups package with a real examples, both using the R syntax and the graphical user interface. It is structure as follows:
-
-Introduction of the package (section 2) and the data used as example (section 3),
-Instructions to perform descriptive tables and exploration plots using R syntax are explained (section 4), and
-Usage of graphical user interface based on tcl-tk (section 5) and based on Shiny (section 6) are shown.
-
-## Tutorials
-
-There is a very good vignette for this package [here]("https://cran.r-project.org/web/packages/compareGroups/vignettes/compareGroups_vignette.html#launch-the-wui-application"). 
-
-I have developed this slightly in my notes as function used for quick descriptive statistics using R and a GUI. For now these notes are on this page. At some stage I plan to move these to there own repository.
-
 ## My notes
 
-Here I will put examples of using this package as it may be helpful for future projects.
+I have developed this slightly in my notes as function used for quick descriptive statistics using R and a GUI. For now these notes are on this page. At some stage I plan to move these to there own repository.
 
 ### GUI
 
@@ -54,5 +34,11 @@ To access the GUI there are several additional packages that are needed so that 
 # compareGroups::cGroupsGUI(mtcars)
 ```
 
+## Tutorials
+
+There is a very good vignette for this package [here]("https://cran.r-project.org/web/packages/compareGroups/vignettes/compareGroups_vignette.html#launch-the-wui-application"). This document provides an overview of the usage of the compareGroups package with a real examples, both using the R syntax and the graphical user interface. It is structure as follows:
+Overall, there is a introduction of the package (section 2) and the data used as example (section 3),
+Instructions to perform descriptive tables and exploration plots using R syntax are explained (section 4), and
+Usage of graphical user interface based on tcl-tk (section 5) and based on Shiny (section 6) are shown.
 
 
