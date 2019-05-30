@@ -1,15 +1,33 @@
-<html>
+---
+layout: page
+title: Statistics
+subtitle: A simple website of complex resources
+use-site-title: true
+---
+
  <div class="banner" style="padding:5px; text-align:center;">
   <div class="banner-content">
     <p>This webpage has resources and information I use for my phd work, as part of the statistics network and other research projects.  I hope with time these resources will develop into database for statistical analysis and reproducible research.</p>
  </div>
 </div>
 
-<div role="main" class="container">
-    {{ content }}
-  </div>
+<h2>Resources</h2>
 
-  <h2>News</h2>
+<p>There are many many great resources on the web. I have not tried to reproduce good resources but supplement and add to the current resources available.</p>
+
+<ul>
+      <li>
+    <a href= https://davan690.github.io/general-statistics/ class="btn btn-primary">General Statistics</a>
+  </li>
+        <li>
+    <a href= https://davan690.github.io/ecological-statistics/ class="btn btn-primary">Ecological Statistics</a>
+        <li>
+    <a href= https://davan690.github.io/invasive-species-research/ class="btn btn-primary">Invasive species research</a>
+  </li>
+        <li>
+    <a href = https://davan690.github.io/2019-05-02-thesis-overview/ class="btn btn-primary">PhD drafts</a>
+  </li>
+  </ul>
 
   <div class="posts-list">
     {% for post in paginator.posts %}
@@ -76,6 +94,4 @@
     {% endif %}
   </ul>
   {% endif %}
-
-</html>
 

@@ -9,21 +9,21 @@ layout: post
 
 This is a paper I read a few months ago and was reminded about it when discussing workflows. A few key points can be found below.
 
-<img src= "/img/workflow-pub1.png" />
+<img src= "/_assets/img/workflow-pub1.png" />
 
 *Investigating reproducibility and tracking provenance – A genomic workflow case study*
 
-<img src= "/img/abstract1.png" />
+<img src= "/_assets/img/abstract1.png" />
 
 
 
 #### General workflow
 
-<img src= "/img/fig1-workflow.png" />
+<img src= "/_assets/img/fig1-workflow.png" />
 
 #### Bioinformatics
 
-<img src= "/img/fig3-workflow.png" />
+<img src= "/_assets/img/fig3-workflow.png" />
 
 ## Tutorials
 

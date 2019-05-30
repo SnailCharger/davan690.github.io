@@ -10,6 +10,6 @@ tags: ["phd", "invasive", "overview", "thesis"]
 ```
 
 <center>
-![image](./img/compareGroups-gui-shot.jpg){
+![image](./_assets/img/compareGroups-gui-shot.jpg){
 width=50% }
 </center>
