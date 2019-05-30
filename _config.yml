@@ -24,17 +24,14 @@ description: Statistical support for researchers
 # List of links in the navigation bar
 navbar-links:
   Home: http://davan690.github.io/
-  My resources:
-    - General Statistics: https://davan690.github.io/general-statistics/
-    - Ecological Statistics: https://davan690.github.io/ecological-statistics/
+  Resources:
+    - General Statistics: general-statistics/
+    - Ecological Statistics: ecological-statistics/
     - Invasive species research: invasive-species-research/
-    - Blog posts: all-posts/
-  External links:
-    - Learn R: "https://datacarpentry.org/"
-    - Learn git: "https://www.youtube.com/watch?v=HVsySz-h9r4"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Contact: "aboutme"
+  Blog:
+    - All Posts: all-posts/
+  Info: 
+    - Contact: aboutme/
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar

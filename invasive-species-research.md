@@ -33,7 +33,7 @@ The New Zealand government set a "apollo shot" to make NZ free of mammalian pred
 
 - [Wiki NZ invasive species](https://en.wikipedia.org/wiki/Invasive_species_in_New_Zealand#Mammals): This needs updating as it is missing a few species such as weasals?
 
-# My notes
+# My coding/tool notes
 
 <div class="post">
 <ul>
@@ -44,7 +44,18 @@ The New Zealand government set a "apollo shot" to make NZ free of mammalian pred
 </ul>
 </div>
 
-# Thesis projects
+# Invasive species notes
+
+<div class="post">
+<ul>
+{% for post in site.tags["invasive-spp"] %}
+  <a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
+    {{ post.description }}
+{% endfor %}
+</ul>
+</div>
+
+# Thesis info
 
 <div class="post">
 <ul>
