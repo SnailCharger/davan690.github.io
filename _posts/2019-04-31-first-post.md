@@ -6,12 +6,13 @@ tags: ["phd", "general", "overview", "website"]
 image: /img/centre-logo-white.jpg
 permlink: /first-post/
 ---
+ <img src="/img/background-image.jpg" alt="A drawing of a raven perched on a tree branch." align="center" width = "800" height = "300"/>
 
  <div style="padding:5px; text-align:center; background-color:lightblue;">
  
   <div class="banner-content">
     <p>This webpage has resources and information I use for my phd work, as part of the statistics network and other research projects. I hope with time these resources will develop into database for statistical analysis and reproducible research.</p>
- <img src="/img/centre-logo-white.jpg" alt="A drawing of a raven perched on a tree branch." align="center" width = "200" height = "200"/>
+ <img src="/img/background-image.png" alt="A drawing of a raven perched on a tree branch." align="center" width = "800" height = "200"/>
  </div>
 </div>
 
