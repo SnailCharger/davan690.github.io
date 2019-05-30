@@ -1,7 +1,7 @@
 ---
 title: Invasive Species Modelling
 layout: page
-tags: ["phd"]
+tags: ["phd", "page-index"]
 ---
 
 The New Zealand government set a "apollo shot" to make NZ free of mammalian predators by 2050. I believe that as part of this research it is essential that the information is made available to the general public as there are many volunteer community groups that may not have access or the time to collate and communicate the current understanding of mammalian predators in NZ.
@@ -14,17 +14,48 @@ The New Zealand government set a "apollo shot" to make NZ free of mammalian pred
 
 - [NZ geographic PFNZ plan](https://www.wired.com/2016/07/new-zealand-plans-kill-non-human-invasive-mammals/)
 
+<div class="post">
+<ul>
+{% for post in site.tags["beech"] %}
+  <a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
+    {{ post.description }}
+{% endfor %}
+</ul>
+</div>
+
 # Online resources
 
 - [Predator-free NZ](https://predatorfreenz.org/)
 
-- [DOC]()
+- [DOC](https://www.bnz.co.nz/assets/business-banking/cards-payments/pdfs/doc-casestudy-flexipurchase.pdf)
 
 - [Worst Invasive Species](https://www.worldatlas.com/articles/the-worst-invasive-mammal-species.html)
 
-- [Wiki NZ invasive species](): This needs updating as it is missing a few??
+- [Wiki NZ invasive species](https://en.wikipedia.org/wiki/Invasive_species_in_New_Zealand#Mammals): This needs updating as it is missing a few species such as weasals?
 
-# Thesis
+# My coding/tool notes
+
+<div class="post">
+<ul>
+{% for post in site.tags["tools"] %}
+  <a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
+    {{ post.description }}
+{% endfor %}
+</ul>
+</div>
+
+# Invasive species notes
+
+<div class="post">
+<ul>
+{% for post in site.tags["invasive-spp"] %}
+  <a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
+    {{ post.description }}
+{% endfor %}
+</ul>
+</div>
+
+# Thesis info
 
 <div class="post">
 <ul>

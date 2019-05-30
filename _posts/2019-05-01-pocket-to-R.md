@@ -1,7 +1,9 @@
 ---
 title: first-pocket-data-attempt
 output: html_document
-tags: ["phd", "general", "overview", "website"]
+tags: ["general", "overview", "website", "tools", "infrastructure"]
+image: /img/centre-logo-white.jpg
+permlink: /first-pocket-data-attempt/
 ---
 
 ```r
