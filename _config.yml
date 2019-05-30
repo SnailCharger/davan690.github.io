@@ -23,7 +23,7 @@ description: Statistical support for researchers
 
 # List of links in the navigation bar
 navbar-links:
-  Home: http://davan690.github.io/
+  Home: index/
   Resources:
     - General Statistics: general-statistics/
     - Ecological Statistics: ecological-statistics/
@@ -136,8 +136,8 @@ gtag: "UA-103591108-2"
 
 # Staticman support
 staticman:
-  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
-  branch     : # eg. "master" If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
+  repository : "davan690/davan690.github.io" # GitHub username/repository eg. "daattali/beautiful-jekyll"
+  branch     : "master" # eg. "master" If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
   endpoint   : # URL of your own deployment (with trailing slash) (will fallback to a public GitLab instance)
   reCaptcha:
     # reCaptcha for Staticman (OPTIONAL)
@@ -165,7 +165,7 @@ timezone: "Australia/Sydney"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+paginate: 10
 
 kramdown:
   input: GFM
