@@ -3,6 +3,7 @@ title: CompareGroups
 subtitle: A interface for creating summary tables
 permalink: /comparegroups-package
 layout: post
+tags: ["phd", "general", "overview", "website"]
 image: /img/compareGroups-gui-shot.jpg
 ---
 

@@ -3,6 +3,7 @@ title: A needle in the haystack
 subtitle: Finding all the literature for a project
 permalink: /full-lit-searching.html
 layout: post
+tags: ["phd", "general", "overview", "website"]
 ---
 
 Over the past ten years I have been conducting research for my undergraduate degree, Master's and now PhD. Through this time period (2007-2019) the way we search and find valid scientific literature is pretty much the same. There are journal articles and then everything else....

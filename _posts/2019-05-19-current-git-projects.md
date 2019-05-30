@@ -4,6 +4,7 @@ title: GIThub repo's
 subtitle: Projects under development
 show-avatar: true
 css: '/css/extend-home.css'
+tags: ["phd", "general", "overview", "website"]
 ---
 
 <div class="spacer"></div>
