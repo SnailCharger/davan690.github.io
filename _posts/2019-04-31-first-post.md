@@ -3,7 +3,7 @@ title: The beginning
 subtitle: Starting a website
 layout: post
 tags: ["phd", "general", "overview", "website"]
-image: Documents/davan690.github.io/_assets/img/centre-logo-white.jpg
+image: Documents/davan690.github.io/_assets/_assets/img/centre-logo-white.jpg
 permlink: /first-post.html
 ---
 
