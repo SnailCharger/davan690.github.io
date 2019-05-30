@@ -3,14 +3,15 @@ title: The beginning
 subtitle: Starting a website
 layout: post
 tags: ["phd", "general", "overview", "website"]
-image: centre-logo-white.jpg
+image: /img/centre-logo-white.jpg
 permlink: /first-post/
 ---
 
- <div class="banner" style="padding:5px; text-align:center;">
- <img src="/img/centre-logo-white.jpg" alt="A drawing of a raven perched on a tree branch." align="center" width = "100" />
+ <div style="padding:5px; text-align:center; background-color:lightblue;">
+ 
   <div class="banner-content">
     <p>This webpage has resources and information I use for my phd work, as part of the statistics network and other research projects. I hope with time these resources will develop into database for statistical analysis and reproducible research.</p>
+ <img src="/img/centre-logo-white.jpg" alt="A drawing of a raven perched on a tree branch." align="center" width = "200" height = "200"/>
  </div>
 </div>
 
