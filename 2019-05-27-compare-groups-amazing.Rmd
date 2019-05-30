@@ -2,12 +2,7 @@
 title: "Using compareGroups function"
 author: "Anthony Davidson"
 date: "`r Sys.Date()`"
-output: rmarkdown::html_vignette
-vignette: >
-  %\VignetteIndexEntry{Vignette Title}
-  %\VignetteEngine{knitr::rmarkdown}
-  %\VignetteEncoding{UTF-8}
-bibliography: compare-exported.bib
+output: rmarkdown::html_notebook
 ---
 
 The compareGroups package (Subirana, Sanz, and Vila 2014) allows users to create tables displaying results of univariate analyses, stratified or not by categorical variable groupings.
