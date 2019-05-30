@@ -27,7 +27,8 @@ navbar-links:
   My resources:
     - General Statistics: https://davan690.github.io/general-statistics/
     - Ecological Statistics: https://davan690.github.io/ecological-statistics/
-    - Invasive species research: https://davan690.github.io/invasive-species-research/
+    - Invasive species research: invasive-species-research/
+    - Blog posts: all-posts/
   External links:
     - Learn R: "https://datacarpentry.org/"
     - Learn git: "https://www.youtube.com/watch?v=HVsySz-h9r4"
@@ -215,7 +216,7 @@ prose:
     - /_layouts
     - /_includes
     - /css
-    - /_assets/img
+    - /img
     - /js
   metadata:
     _posts:

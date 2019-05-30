@@ -2,7 +2,7 @@
 title: The beginning
 subtitle: Starting a website
 layout: post
-tags: ["phd", "general", "overview", "website"]
+tags: ["general", "overview", "website", "1"]
 image: /img/centre-logo-white.jpg
 permlink: /first-post/
 ---
