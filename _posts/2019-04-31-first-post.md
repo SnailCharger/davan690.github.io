@@ -1,12 +1,14 @@
 ---
 title: The beginning
-subtitle: Starting a website is a daunting process and I've tried many times but that is for another blog post
+subtitle: Starting a website
 layout: post
 tags: ["phd", "general", "overview", "website"]
 image: /img/centre-logo-white.jpg
+permlink: /first-post/
 ---
 
 This website is a simple collection of detailed resources and information I use for my PhD work, as part of the statistics network and other research projects. 
+
 <div>
 <h2>Resources</h2>
 
