@@ -3,11 +3,11 @@ title: The beginning
 subtitle: Starting a website
 layout: post
 tags: ["phd", "general", "overview", "website"]
-image: Documents/davan690.github.io/_assets/_assets/img/centre-logo-white.jpg
+image: /_assets/img/centre-logo-white.jpg
 permlink: /first-post.html
 ---
 
-![image](../_assets/img/centre-logo-white.jpg)
+![image](/_assets/img/centre-logo-white.jpg)
 
 This website is a simple collection of detailed resources and information I use for my PhD work, as part of the statistics network and other research projects. 
 
