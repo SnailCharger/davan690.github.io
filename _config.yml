@@ -23,7 +23,7 @@ description: Statistical support for researchers
 
 # List of links in the navigation bar
 navbar-links:
-  Home: index/
+  Home: home/
   Resources:
     - General Statistics: general-statistics/
     - Ecological Statistics: ecological-statistics/
