@@ -23,14 +23,14 @@ description: Statistical support for researchers
 
 # List of links in the navigation bar
 navbar-links:
-  Home: index.html
+  Home: index/
   Resources:
     - General Statistics: general-statistics/
     - Ecological Statistics: ecological-statistics/
     - Invasive species research: invasive-species-research/
   Blog:
     - Full blog list: all-posts/
-    - All tags: tags.html
+    - All tags: tags/
   Info: 
     - Contact: aboutme/
 
