@@ -5,6 +5,8 @@
 
 # If you are building a simple GitHub user page (https://davan690.github.io/) then use these settings:
 # url: "https://davan690.github.io/"
+
+# With unique domain name
 url: "www.ssnhub.com"
 
 # If you are building a GitHub project page then use these settings:
@@ -23,7 +25,7 @@ description: Statistical support for researchers
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "www.ssnhub.com"
+  Home:
   Resources:
     - General Statistics: general-statistics/
     - Ecological Statistics: ecological-statistics/
@@ -75,7 +77,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "anthony.davidson@canberra.edu.au"
+  email: "the.statistics.network@gmail.com"
   facebook: StatisticsNetwork
   github: davan690
   twitter: antsStats
@@ -86,7 +88,7 @@ social-network-links:
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
   instagram: statistical_adventures
-#  youtube: user/deanat78
+# youtube: user/ssn
 #  spotify: yourname
   telephone: +61449521143
 #  steam: deanat78
