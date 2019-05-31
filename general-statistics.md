@@ -1,9 +1,8 @@
 ---
 title: "General statistics"
-layout: post
+layout: page
 image: /img/RStudio_library.jpg
-tags: ["R", "opensource", "statistics", "tutorials"]
-permlink: /general-statistics.md
+permlink: /general-statistics.html
 ---
 
 Here is a collection of entry level statistics and research resources. As the education environment changes with the development of computational advances there are now many many on-line learning tools. Until recently, I had been a big advocate for DataCamp. However, since the recent [sexual harassment](https://medium.com/@heathernolis/on-datacamp-aafd82f94e60/) violations I have no desire to advocate for DataCamp. I have removed my class subscription to the DataCamp website which means that the current students will not have access to the paid content. But there is good news ... there are many more options.

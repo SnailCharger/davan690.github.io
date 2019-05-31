@@ -25,13 +25,14 @@ description: Statistical support for researchers
 
 # List of links in the navigation bar
 navbar-links:
-  Home:
+  Home: index/
   Resources:
     - General Statistics: general-statistics/
     - Ecological Statistics: ecological-statistics/
     - Invasive species research: invasive-species-research/
   Blog:
-    - All Posts: all-posts/
+    - Full blog list: all-posts/
+    - All tags: tags/
   Info: 
     - Contact: aboutme/
 
@@ -60,9 +61,9 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-# navbar-img: "/_assets/img/bgimage.png"
-# footer-img: "/_assets/img/bgimage.png"
-# page-img: "/_assets/img/bgimage.png"
+# navbar-img: "/img/bgimage.png"
+# footer-img: "/img/bgimage.png"
+# page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
 
@@ -215,7 +216,6 @@ prose:
     - /_layouts
     - /_includes
     - /css
-    - /img
     - /js
   metadata:
     _posts:

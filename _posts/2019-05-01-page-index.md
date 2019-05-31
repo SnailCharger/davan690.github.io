@@ -2,8 +2,8 @@
 layout: post
 title: General resources
 subtitle: My current focus
-tags: ["general", "overview", "website", "2"]
-image: /img/centre-logo-white.jpg
+tags: ["general", "overview", "website", "resources", "tools"]
+image: /img/hello_world.jpg
 permlink: /resources/
 ---
 

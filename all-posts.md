@@ -2,8 +2,7 @@
 title: "All blog posts so far..."
 layout: page
 image: /img/RStudio_library.jpg
-tags: ["R", "opensource", "statistics", "tutorials"]
-permlink: /all-posts.md
+permlink: /all-posts.html
 ---
 
 This is a full list of all my blog posts so far. An easy way to find what I am on about is to use `ctrl + F` in chrome on this page and search....
