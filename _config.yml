@@ -5,8 +5,6 @@
 
 # If you are building a simple GitHub user page (https://davan690.github.io/) then use these settings:
 # url: "https://davan690.github.io/"
-
-# With unique domain name
 url: "www.ssnhub.com"
 
 # If you are building a GitHub project page then use these settings:
@@ -25,7 +23,7 @@ description: Statistical support for researchers
 
 # List of links in the navigation bar
 navbar-links:
-  Home: home/
+  Home: index/
   Resources:
     - General Statistics: general-statistics/
     - Ecological Statistics: ecological-statistics/
@@ -78,7 +76,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "the.statistics.network@gmail.com"
+  email: "anthony.davidson@canberra.edu.au"
   facebook: StatisticsNetwork
   github: davan690
   twitter: antsStats
@@ -89,7 +87,7 @@ social-network-links:
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
   instagram: statistical_adventures
-# youtube: user/ssn
+#  youtube: user/deanat78
 #  spotify: yourname
   telephone: +61449521143
 #  steam: deanat78
@@ -105,7 +103,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "www.ssnhub.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "davan690.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -207,7 +205,7 @@ exclude:
 # prose.io config
 prose:
   rooturl: '_posts'
-  media: '_assets'
+  media: 'img'
   ignore:
     - 404.html
     - LICENSE
