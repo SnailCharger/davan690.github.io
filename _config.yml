@@ -29,7 +29,8 @@ navbar-links:
     - Ecological Statistics: ecological-statistics/
     - Invasive species research: invasive-species-research/
   Blog:
-    - All Posts: all-posts/
+    - Full blog list: all-posts/
+    - All tags: tags.html
   Info: 
     - Contact: aboutme/
 
