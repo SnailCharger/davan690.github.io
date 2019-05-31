@@ -4,8 +4,8 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (https://davan690.github.io/) then use these settings:
-url: "https://davan690.github.io/"
-baseurl: ""
+# url: "https://davan690.github.io/"
+url: "www.ssnhub.com"
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -23,7 +23,7 @@ description: Statistical support for researchers
 
 # List of links in the navigation bar
 navbar-links:
-  Home: index/
+  Home: "www.ssnhub.com"
   Resources:
     - General Statistics: general-statistics/
     - Ecological Statistics: ecological-statistics/
@@ -88,7 +88,7 @@ social-network-links:
   instagram: statistical_adventures
 #  youtube: user/deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+  telephone: +61449521143
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
