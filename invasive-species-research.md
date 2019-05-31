@@ -2,7 +2,7 @@
 title: Invasive Species Modelling
 layout: page
 permlink: /invasive-species-modelling.html]
-
+image: /img/
 ---
 
 The New Zealand government set a "apollo shot" to make NZ free of mammalian predators by 2050. I believe that as part of this research it is essential that the information is made available to the general public as there are many volunteer community groups that may not have access or the time to collate and communicate the current understanding of mammalian predators in NZ.
