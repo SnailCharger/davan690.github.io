@@ -1,7 +1,7 @@
 ---
 title: CompareGroups 
 subtitle: A interface for creating summary tables
-permalink: /comparegroups-package
+permalink: /comparegroups-package.html
 layout: post
 tags: ["phd", "general", "overview", "website"]
 image: /img/compareGroups-gui-shot.jpg
@@ -17,7 +17,8 @@ This package can be used from the R prompt or from a user-friendly graphical use
 
 The compareGroups package is available on CRAN repository. To load the package using the R prompt, enter:
 
-library(compareGroups)
+`library(compareGroups)`
+
 This document provides an overview of the usage of the compareGroups package with a real examples, both using the R syntax and the graphical user interface. It is structure as follows:
 
 Introduction of the package (section 2) and the data used as example (section 3),
