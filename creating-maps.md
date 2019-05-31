@@ -1,7 +1,7 @@
 ---
 title: Creating maps in R and on the web
 layout: page
-tags: ["phd"]
+permlink: /creating-maps.html
 ---
 
 <head>

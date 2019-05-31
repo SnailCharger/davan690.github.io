@@ -1,7 +1,7 @@
 ---
 title: Ecological Statistics
 layout: page
-tags: ["statistics", "ecology", "R", "tutorials"]
+permlink: /ecological-statistics.html
 ---
 
 Statistics in ecology can be a tricky endeavour with real data. My PhD research focuses on Bayesian Hierarchical Modelling with Ecological Data. These are the resources I have used and still do at times. To begin to understand and teach Bayesian methods I often refer to older and often more understood statistical methods.
