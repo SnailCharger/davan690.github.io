@@ -1,6 +1,5 @@
 ---
 layout: post
-date: 2017-09-04 07:00
 title: Link Test
 ---
 
