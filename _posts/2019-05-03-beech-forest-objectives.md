@@ -13,7 +13,7 @@ tags: ["phd", "invasive", "overview", "beech", "mice", "thesis"]
 
 - Full draft of current manuscript ([html](https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/drafts/Davidson_2019_BeechForest.html); [docx](https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/drafts/Davidson_2019_BeechForest.docx); [pdf](https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/drafts/Davidson_2019_BeechForest.pdf)): *May 2019*
 
-- Planning and overview of [thesis](https://davan690.github.io/2019-05-02-thesis-overview/)
+- Planning and overview of [thesis](https://www.ssnhub.com/2019-05-02-thesis-overview/)
 
 #### Feedback
 
@@ -53,7 +53,7 @@ All other data and resources to render project from raw data (copied from my pri
 Full layout: here currently but as the documents increase I will convert this into a bookdown document (and then a html book).
 
 - Introduction: [coming]()
-- Beech Forest Dynamics: [here]((https://davan690.github.io/2019-05-03-beech-forest-objectives/))
-- Mixed Forest Dynamics: [here](https://davan690.github.io/2019-05-03-mpd-forest-objectives)
+- Beech Forest Dynamics: [here]((https://www.ssnhub.com/2019-05-03-beech-forest-objectives/))
+- Mixed Forest Dynamics: [here](https://www.ssnhub.com/2019-05-03-mpd-forest-objectives)
 - DOC paper: [coming]()
 - Discussion: [coming]())

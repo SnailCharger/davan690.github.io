@@ -26,10 +26,10 @@ Here are the key software I use for my PhD work. I have a repository of useful R
 ## Science communication
 
 - [Research gate](https://www.researchgate.net)
-- [Website](https://davan690.github.io)
+- [Website](https://www.ssnhub.com)
 - [FB statistics](https://facebook.com/StatisticsNetwork)
 - [Twitter](https://twitter.com/antsstats)
-- [GIThub](https://davan690.github.io/)
+- [GIThub](https://www.ssnhub.com/)
 
 ## Example Journal Articles
 
@@ -40,7 +40,7 @@ Here is an [example](https://github.com/davan690/PestManagement/blob/master/READ
 Full layout: here currently but as the documents increase I will convert this into a bookdown document (and then a html book).
 
 - Introduction: [coming]()
-- Beech Forest Dynamics: [here]((https://davan690.github.io/2019-05-03-beech-forest-objectives/))
-- Mixed Forest Dynamics: [here](https://davan690.github.io/2019-05-03-mpd-forest-objectives)
+- Beech Forest Dynamics: [here]((https://www.ssnhub.com/2019-05-03-beech-forest-objectives/))
+- Mixed Forest Dynamics: [here](https://www.ssnhub.com/2019-05-03-mpd-forest-objectives)
 - DOC paper: [coming]()
 - Discussion: [coming]()

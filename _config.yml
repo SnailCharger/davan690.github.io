@@ -3,9 +3,9 @@
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
-# If you are building a simple GitHub user page (https://davan690.github.io/) then use these settings:
-# url: "https://davan690.github.io/"
-url: "www.ssnhub.com"
+# If you are building a simple GitHub user page (https://www.ssnhub.com/) then use these settings:
+# url: "https://www.ssnhub.com/"
+url: "https://www.ssnhub.com/"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -24,7 +24,7 @@ description: Statistical support for researchers
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "index"
+  Home: "https://www.ssnhub.com"
   Resources:
     - General Statistics: "general-statistics"
     - Ecological Statistics: "ecological-statistics"
@@ -60,9 +60,9 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-# navbar-img: "/img/bgimage.png"
-# footer-img: "/img/bgimage.png"
-# page-img: "/img/bgimage.png"
+# navbar-img: "/img/background-image.png"
+footer-img: "/img/background-image.png"
+# page-img: "/img/background-image.png"
 
 # --- Footer options --- #
 
@@ -78,19 +78,19 @@ author:
 social-network-links:
   rss: true
   email: "the.statistics.network@gmail.com"
-  facebook: StatisticsNetwork
-  github: davan690
-  twitter: antsStats
+  facebook: "StatisticsNetwork"
+  github: "davan690"
+  twitter: "antsStats"
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: statistical_adventures
+  instagram: "statistical_adventures"
 #  youtube: user/deanat78
 #  spotify: yourname
-  telephone: +61449521143
+  telephone: "+61401258042"
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -138,9 +138,9 @@ gtag: "UA-103591108-2"
 
 # Staticman support
 staticman:
-  repository : "davan690/davan690.github.io" # GitHub username/repository eg. "daattali/beautiful-jekyll"
+  repository : "davan690/www.ssnhub.com" # GitHub username/repository eg. "daattali/beautiful-jekyll"
   branch     : "master" # eg. "master" If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
-  endpoint   : "www.ssnhub.com/"# URL of your own deployment (with trailing slash) (will fallback to a public GitLab instance)
+  endpoint   : #"/"# URL of your own deployment (with trailing slash) (will fallback to a public GitLab instance)
   reCaptcha:
     # reCaptcha for Staticman (OPTIONAL)
     # If you use reCaptcha, you must also set these parameters in staticman.yml

@@ -70,4 +70,4 @@ With all the resources above I am creating a evolving "workflow" for my research
 - File structures
 - GIT and GIThub workflow (version control)
 
-I am building this into a webpage/book but it is still under development [here]("https://davan690.github.io/reproducible-guide).
+I am building this into a webpage/book but it is still under development [here]("https://www.ssnhub.com/reproducible-guide).

@@ -2,7 +2,6 @@
 layout: page
 title: The Statistics Network
 subtitle: Some background
-permlink: /aboutme.html
 ---
 
 The statistics network is a collection of personal resources used to support researchers with statistics. I also use this page for resources and support I use for my own research.
