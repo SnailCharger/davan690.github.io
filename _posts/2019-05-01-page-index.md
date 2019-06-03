@@ -3,7 +3,7 @@ layout: post
 title: General resources
 subtitle: My current focus
 tags: ["general", "overview", "website", "resources", "tools"]
-image: /img/hello_world.jpg
+image: /img/filing.jpg
 permlink: /resources/
 ---
 
