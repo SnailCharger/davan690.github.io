@@ -2,6 +2,7 @@
 layout: post
 title: Link Testing blog
 image: /img/testing-image.jpg
+tags: ["test", "tools","jekyll", "comms"]
 ---
 
 When I transferred my blog post from the free `username.github.io` web address to my personal domain name `www.ssnhub.com` I ad many of my links break. This is the short bit of code that explains what happened to me.

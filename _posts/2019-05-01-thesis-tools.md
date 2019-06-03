@@ -2,10 +2,10 @@
 title: Thesis tools
 subtitle:  An overview of the current tools I am using
 layout: post
-tags: ["phd", "overview", "research"]
+tags: ["phd", "overview", "research", "tools"]
 ---
 
-Here are the key software I use for my PhD work. I have a repository of useful R commands [here]("https://github.com/davan690/userfulr").
+Here are the key software tools I use for my PhD work. I have a repository of useful R commands [here]("https://github.com/davan690/userfulr"). 
 
 ## Software
 
