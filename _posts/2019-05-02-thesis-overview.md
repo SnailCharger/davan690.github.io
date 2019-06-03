@@ -11,7 +11,7 @@ tags: ["phd", "invasive", "overview", "thesis"]
 
 #### Supervisors
 
-- Planning and overview of [thesis](https://davan690.github.io/2019-05-02-thesis-overview/)
+- Planning and overview of [thesis](https://www.ssnhub.com/2019-05-02-thesis-overview/)
 
 #### Feedback
 
@@ -40,8 +40,8 @@ The general overview and structure is below currently but as the documents incre
 - Abstract: [coming]()
 - Overview: *This page*
 - Introduction: [coming]()
-- Beech Forest Dynamics: [here](https://davan690.github.io/2019-05-03-beech-forest-objectives)
-- Mixed Forest Dynamics: [coming](https://davan690.github.io/2019-05-03-mpd-forest-objectives)
+- Beech Forest Dynamics: [here](https://www.ssnhub.com/2019-05-03-beech-forest-objectives)
+- Mixed Forest Dynamics: [coming](https://www.ssnhub.com/2019-05-03-mpd-forest-objectives)
 - DOC paper: [coming]()
 - Discussion: [coming]()
 

@@ -44,8 +44,8 @@ The DS community is great and even have there own slack channel. I still haven't
 
 #### More specific resources
 
-- [Ecological statistics](https://davan690.github.io/ecological-statistics/)
-- [Invasive species research](https://davan690.github.io/invasive-species-modeling/)
+- [Ecological statistics](https://www.ssnhub.com/ecological-statistics/)
+- [Invasive species research](https://www.ssnhub.com/invasive-species-modeling/)
 - Health (coming)
 - Hierarchical modelling (coming)
 - Bayesian modelling (coming)

@@ -47,7 +47,7 @@ tags: ["phd", "general", "overview", "website"]
   </div>
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
     <div class="project-card">
-    {%- assign gh-project = "davan690.github.io" -%}
+    {%- assign gh-project = "www.ssnhub.com" -%}
       <a target="_blank" href="https://github.com/{{- gh-user -}}/{{- gh-project -}}" class="project-link" title="Go to Github Poject Page">
         <span class="fa-stack fa-4x">
           <i class="fa fa-circle fa-stack-2x stack-color"></i>
