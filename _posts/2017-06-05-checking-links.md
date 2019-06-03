@@ -4,9 +4,15 @@ title: Link Test
 ---
 
 Welcome to my Jekyll Blog. I’m exploring how Jekyll handles links:
-* [An absolute link](http://www.ssn.com/about/)
+* [An absolute link](http://www.ssnhub.com/about/)
 * [A root relative link](/about/)
 * [A Jekyll post_url link]({% post_url 2017-06-05-checking-links %})
+
+```{
+* [An absolute link](http://www.ssnhub.com/about/)
+* [A root relative link](/about/)
+* [A Jekyll post_url link]({% post_url 2017-06-05-checking-links %})
+}```
 
 Currently on my site there is no image and:
 
