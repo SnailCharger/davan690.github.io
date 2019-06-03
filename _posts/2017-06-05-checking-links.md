@@ -17,4 +17,6 @@ LOCALLY:
 3. works greaat
 
 LIVE:
-1.
+1. Absolute link times out
+2. root has 404 error
+3. works greaat
