@@ -5,6 +5,8 @@ layout: post
 tags: ["phd", "invasive", "overview", "thesis"]
 ---
 
+This page is an overview/content page for my phd. Because I am publishing all my PhD resources and information into a web format as well. This is possible because of `.md` work.
+
 ## Status
 
 ### Drafts for comments
