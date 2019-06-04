@@ -12,7 +12,7 @@ I originally moved to Zotero to for three main reasons:
 
 1. Referencing in [Markdown]("https://en.wikipedia.org/wiki/Markdown") 
 
-2. Work in software that fit an open-source format 
+2. Work in software that fit an [open-source](https://osf.io) format 
 
 3. To finally wade through 10 years of saved and un-organised literature.
 

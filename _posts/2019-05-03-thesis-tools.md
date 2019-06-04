@@ -34,13 +34,3 @@ Here are the key software tools I use for my PhD work. I have a repository of us
 ## Example Journal Articles
 
 Here is an [example](https://github.com/davan690/PestManagement/blob/master/README.md) individual based pest modelling This is a `repo` from a recent publication on dynamic pest management from Dean Anderson and others.
-
-# Overall PhD
-
-Full layout: here currently but as the documents increase I will convert this into a bookdown document (and then a html book).
-
-- Introduction: [coming]()
-- Beech Forest Dynamics: [here]((https://www.ssnhub.com/2019-05-03-beech-forest-objectives/))
-- Mixed Forest Dynamics: [here](https://www.ssnhub.com/2019-05-03-mpd-forest-objectives)
-- DOC paper: [coming]()
-- Discussion: [coming]()

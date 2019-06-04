@@ -7,7 +7,7 @@ image: /img/filing.jpg
 permlink: /resources/
 ---
 
-## Resources
+## Resource index
 
 There are many many great resources on the web. I have not tried to reproduce good resources but create a collection I can refer to and supplement as new resources and tools become available. These are the key areas so far:
   
