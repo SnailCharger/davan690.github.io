@@ -16,4 +16,8 @@ I originally moved to Zotero to for three main reasons:
 
 3. To finally wade through 10 years of saved and un-organised literature.
 
+## Resources
+
 Here are some notes, handy blogs and references for using Zotero to help with my reproducible workflow.
+
+<- pocket feed coming->
