@@ -2,14 +2,12 @@
 title: The beginning
 subtitle: Starting a website
 layout: post
-tags: ["general", "overview", "website", "1"]
+tags: ["general", "overview", "website", "1","home"]
 image: /img/centre-logo-white.jpg
 permlink: /first-post/
 ---
 
-<div style="padding:5px; text-align:center; background-color:lightblue;">
- 
-  <div class="banner-content">
+<div style="padding:5px; text-align:center; background-color:lightblue;">  <div class="banner-content">
     <p>This webpage has resources and information I use for my phd work, as part of the statistics network and other research projects. I hope with time these resources will develop into database for statistical analysis and reproducible research.</p>
  <img src="/img/background-image.png" alt="An orginal statistic logo" align="center" width = "600" height = "200"/>
  </div>
@@ -25,5 +23,3 @@ External links:
 - Learn git: There are many videos out there. Here is [one]("https://www.youtube.com/watch?v=HVsySz-h9r4")
 - Learn markdown: A good markdown guide is [here]("http://www.markdowntutorial.com/")
 - GitHub Pages: Just the raw documentation, believe it or not it is pretty good  at [github oages]("https://pages.github.com/")
-
-<a href="{{ site.github.repository_url }}/tree/master/{{ page.relative_path }}">Edit</a>
