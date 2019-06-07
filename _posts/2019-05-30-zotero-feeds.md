@@ -22,7 +22,7 @@ Here are some notes, handy blogs and references for using Zotero to help with my
 
 I haven't developed any content for this section as the following resources cover much more than I ever could.
 
-- http://r.iresmi.net/2019/02/02/bibliography-with-knitr-cite-your-references-and-packages/
+- [biobiograph with knitr](http://r.iresmi.net/2019/02/02/bibliography-with-knitr-cite-your-references-and-packages/): Explains how to build a zotero library
 
 And the extensions should be easy as a click of a few buttons... which some are:
 
