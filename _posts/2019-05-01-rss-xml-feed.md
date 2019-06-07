@@ -1,9 +1,10 @@
 ---
-layout: post
 title: RSS feeds 
-image: /img/rss-podcast.png
 subtitle: Draft
+layout: post
 tags: ["overview","tools"]
+image: /img/rss-feed.png
+permlink: /rssfeeds.html
 ---
 
 `RSS` feeds and `podcasts` are some of the oldest parts of the internet development. I am still working on both these fronts but here is a collection of `xml` feeds I am trying to work on my website.
