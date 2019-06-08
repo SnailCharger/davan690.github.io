@@ -3,6 +3,7 @@ title: Mis-conduced is bad but this is worse!
 subtitle: Issues with DataCamp
 layout: post
 tags: ["overview", "research tools", "datacamp", "tools"]
+image: /img/Rstudio.JPG
 ---
 
 Over the past few years there has been a huge push for better tools for learning and conducting `DataScience` and Statistics in R. [DataCamp](www.datacamp.com) along with many other online learning resources [here](/general-statistics/) have been on my radar as part of the resources provided by the Statistics Network but also for my own work.
