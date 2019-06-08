@@ -2,7 +2,7 @@
 layout: post
 title: Link Testing blog
 image: /img/testing-image.jpg
-tags: ["test", "tools","jekyll", "comms"]
+tags: ["test", "tools","jekyll", "comms","home"]
 permlink: /jekyll-links/
 ---
 
