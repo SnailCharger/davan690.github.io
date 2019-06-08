@@ -1,5 +1,4 @@
 ---
-<<<<<<< HEAD:_posts/2019-05-10-contributing-page.md
 title: "Contributing"
 permalink: /Contributing.html
 layout: page 
@@ -30,14 +29,6 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 If you're comfortable making contributions any other way, please feel free to do it your way and send us the pull request, we will gladly review the changes.
 {: style="text-align: justify"}
 
-=======
-title: Contributing here
-subtitle: How to help out
-layout: post 
-tags: ["general", "overview", "website"]
----
-
->>>>>>> master:_posts/2019-05-10-how-can-u-help.md
 ## How you can help
 
 ### 1. Testing/reviewing published workflows:
