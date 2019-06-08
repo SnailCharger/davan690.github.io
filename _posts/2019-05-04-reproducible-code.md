@@ -2,7 +2,8 @@
 title: Reproducible science
 subtitle: Draft 
 layout: post
-tags: ["phd", "overview","infrastructure", "statistics", "drafts"]
+tags: ["phd", "overview","infrastructure", "statistics", "reproducibility"]
+permlink: /reproducible-guide/
 ---
 
 There are many many different posts on reproducible workflows. This document collects the current resources available in 'R' and 'RMarkdown'. I have started this document from the [BES guidelines](https://github.com/BES2016Workshop/guidebook) published in 2017. There is a collection of the BES guides [here](https://www.britishecologicalsociety.org/publications/guides-to/). However because my workflow has a distinctly ecological feel along with the 'tidyverse' approach of [tooling](https://style.tidyverse.org/index.html). My apologies for this in advance. If you are not a R user I would recommend modifying this workflow or finding another workflow with the same components but in your field.
@@ -70,4 +71,4 @@ With all the resources above I am creating a evolving "workflow" for my research
 - File structures
 - GIT and GIThub workflow (version control)
 
-I am building this into a webpage/book but it is still under development [here]("https://davan690.github.io/reproducible-guide).
+I am building this into a webpage/book but it is still under development [here]("https://www.ssnhub.com/reproducible-guide).

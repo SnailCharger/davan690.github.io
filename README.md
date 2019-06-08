@@ -2,7 +2,7 @@ This is my personal website for my phd work with the statistics network and othe
 
 ## Credits
 
-This template was not made entirely from scratch. 
+This template was not made entirely from scratch.
 
 # Beautiful Jekyll
 

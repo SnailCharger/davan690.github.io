@@ -3,8 +3,9 @@
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
-# If you are building a simple GitHub user page (https://davan690.github.io/) then use these settings:
-url: "https://davan690.github.io/"
+# If you are building a simple GitHub user page (https://www.ssnhub.com/) then use these settings:
+# url: "https://davan690.github.io"
+url: "https://www.ssnhub.com/"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -23,21 +24,20 @@ description: Statistical support for researchers
 
 # List of links in the navigation bar
 navbar-links:
-  Home: http://davan690.github.io/
-  My resources:
-    - General Statistics: https://davan690.github.io/general-statistics/
-    - Ecological Statistics: https://davan690.github.io/ecological-statistics/
-    - Invasive species research: https://davan690.github.io/invasive-species-research/
-  External links:
-    - Learn R: "https://datacarpentry.org/"
-    - Learn git: "https://www.youtube.com/watch?v=HVsySz-h9r4"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Contact: "aboutme"
+  Home: "https://www.ssnhub.com"
+  Resources:
+    - General Statistics: "general-statistics"
+    - Ecological Statistics: "ecological-statistics"
+    - Invasive species research: "invasive-species-research"
+  Blog:
+    - Full blog list: "all-posts"
+    - All tags: "tags"
+  Info: 
+    - Contact: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/centre-logo-white.jpg"
+avatar: ./img/centre-logo-white.jpg
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -60,9 +60,9 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-# navbar-img: "/img/bgimage.png"
-# footer-img: "/img/bgimage.png"
-# page-img: "/img/bgimage.png"
+# navbar-img: "/img/background-image.png"
+# footer-img: "/img/background-image.jpg"
+# page-img: "/img/background-image.png"
 
 # --- Footer options --- #
 
@@ -77,20 +77,20 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "anthony.davidson@canberra.edu.au"
-  facebook: StatisticsNetwork
-  github: davan690
-  twitter: antsStats
+  email: "the.statistics.network@gmail.com"
+  facebook: "StatisticsNetwork"
+  github: "davan690"
+  twitter: "antsStats"
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: statistical_adventures
+  instagram: "statistical_adventures"
 #  youtube: user/deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+  telephone: "+61401258042"
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -99,12 +99,12 @@ social-network-links:
 share-links-active:
   twitter: true
   facebook: true
-#  google: false
-#  linkedin: true
+  google: false
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "davan690.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "www.ssnhub.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -138,9 +138,9 @@ gtag: "UA-103591108-2"
 
 # Staticman support
 staticman:
-  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
-  branch     : # eg. "master" If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
-  endpoint   : # URL of your own deployment (with trailing slash) (will fallback to a public GitLab instance)
+  repository : "davan690/davan690.github.io" # GitHub username/repository eg. "daattali/beautiful-jekyll"
+  branch     : "master" # eg. "master" If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
+  endpoint   : #"/"# URL of your own deployment (with trailing slash) (will fallback to a public GitLab instance)
   reCaptcha:
     # reCaptcha for Staticman (OPTIONAL)
     # If you use reCaptcha, you must also set these parameters in staticman.yml
@@ -167,7 +167,7 @@ timezone: "Australia/Sydney"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+paginate: 10
 
 kramdown:
   input: GFM
