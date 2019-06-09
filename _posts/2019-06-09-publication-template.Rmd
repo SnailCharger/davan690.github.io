@@ -1,6 +1,6 @@
 ---
-title: MPD publication details
-subtitle: Draft
+title: Publishing in the Journal of Applied Ecology
+subtitle: A simple publication template
 type: post
 ---
 
