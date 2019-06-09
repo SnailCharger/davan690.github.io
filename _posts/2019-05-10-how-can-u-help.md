@@ -1,9 +1,12 @@
 ---
-title: Contributing here
-subtitle: How to help out
-layout: post 
-tags: ["general", "overview", "website"]
+title: "How to contribute?"
+permalink: /Contributing.html
+layout: page 
+header:
+  overlay_color: "444444"
 ---
+
+As I have built this website and integrated it with my PhD work I have been hoping to be able to easily provide drafts and document that my collaborators can access and comment on.
 
 ## How you can help
 
@@ -42,6 +45,18 @@ Not time to write or add methods? No problem! Just send us your methods/protocol
 It can be anything, please feel free to get in touch with us! We will be more than happy to hear your opinion and adjust the workbook to make it more suitable to your needs.
 {: style="text-align: justify"}
 
+## Submitting changes
+
+Please send a [GitHub Pull Request to bioinformatics-workbook](https://github.com/ISUgenomics/bioinformatics-workbook/pull/new/master) with a clear list of what you've done (read more about [pull requests](http://help.github.com/pull-requests/)). Please follow our writing conventions (below) and make sure all of your commits are atomic (one feature per commit).
+{: style="text-align: justify"}
+
+Always write a clear log message for your commits. One-line messages are fine for small changes, but bigger changes should look like this:
+{: style="text-align: justify"}
+
+    $ git commit -m "A brief summary of the commit
+    >
+    > A paragraph describing what changed and its impact."
+
 ## Writing conventions
 
 Start reading our code and you'll get the hang of it. We can optimize for readability.
@@ -51,5 +66,25 @@ Start reading our code and you'll get the hang of it. We can optimize for readab
   * Use best practices whenever possible. There might be many ways to do things, but the goal here is to make it **smooth for beginners without being too confusing**.
   * To consistently find the images for each chapter, images should be saved in the `assets` folder of each section. **Please no copyrights!**
   * Methods should be generalized, but we also strongly encourage _public datasets used as examples_. Please avoid using private datasets that are not accessible, allowing others to replicate your tutorials.
-  {: style="text-align: justify"}
+  {: style="text-align: justify"}had hoped but there are three ways you can currently contribute:
 
+1. Send me an email with the comments in an attached word document to `the.statistics.network.com` for website based questions or feedback
+
+2. For PhD comments email `anthony.davidson@canberra.edu.au`
+
+3. Collaborate using GIT
+
+Making contribution is simple with git:
+
+1. Fork the repo on GitHub [here](https://github.com/davan690/davan690.github.io)
+2. Clone the project to your own machine
+3. Edit the files or add files using your favorite editor
+4. Commit changes to your own branch
+5. Push your work back up to your fork
+6. Submit a Pull request so that we can review your changes
+
+NOTE: Be sure to merge the latest from "upstream" before making a pull request!
+{: style="text-align: justify"}
+
+If you're comfortable making contributions any other way, please feel free to do it your way and send us the pull request, we will gladly review the changes.
+{: style="text-align: justify"}
