@@ -10,7 +10,7 @@ When I transferred my blog post from the free `username.github.io` web address t
 
 Use the following three lines of code to explore how Jekyll handles links:
 
-```{}
+```{r }
 * [An absolute link](http://www.ssnhub.com/index)
 * [A root relative link](/index/)
 * [A Jekyll post_url link]({% post_url 2017-06-05-checking-links %})

@@ -9,12 +9,12 @@ permlink: /resources/
 
 ## Phd index
 
-Full layout: here currently but as the documents increase I will convert this into a bookdown document (and then a html book).
+*Full layout*
+
+As the documents increase I will convert this into a bookdown document (and then a html book).
 
 - Introduction: [coming]
-
 - Beech Forest Dynamics: [here]({link beech-forest-objectives})
-
 - Mixed Forest Dynamics: [here]({link mpd-forest-objectives})
 - DOC paper: [coming]
 - Discussion: [coming]
