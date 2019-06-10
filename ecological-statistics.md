@@ -24,4 +24,3 @@ These are the resources I often talk about and personally use regularly. I have 
 On this page I hope to link some of my phd outputs to the current research and development in the greater ecological environment.
 
 Here are some ecologically focused posted:
-
