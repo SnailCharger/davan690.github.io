@@ -30,7 +30,7 @@ Any comments on these sections are always welcome.
 
 This publication clarifies the discrepancy between; two modelling papers that suggest mesopredator release of rodents is possible in New Zealand forest systems and; several field studies that have presented limited but conflicting support for increases in mouse abundance following predator control. We used an experimental design to test the differences between the two "frames of though" and found that there is no evidence to suggest mice will become more abundant after predator removal ([*additional resources for collaborators here*](https://www.dropbox.com/home/phd-drafts-anthony)).
 
-### Contents
+## Contents
 
 - [Current draft](https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/drafts/Davidson_2019_BeechForest.html)
 
@@ -48,12 +48,13 @@ This publication clarifies the discrepancy between; two modelling papers that su
 
 All other data and resources to render project from raw data (copied from my private GIT repository) can be found on [dropbox](https://www.dropbox.com/home/phd-drafts-anthony) but will be available here when I have incorporated the co-authors feedback.
 
-# Overall PhD
+## Posts
 
-Full layout: here currently but as the documents increase I will convert this into a bookdown document (and then a html book).
-
-- Introduction: [coming]()
-- Beech Forest Dynamics: [here]((https://www.ssnhub.com/2019-05-03-beech-forest-objectives/))
-- Mixed Forest Dynamics: [here](https://www.ssnhub.com/2019-05-03-mpd-forest-objectives)
-- DOC paper: [coming]()
-- Discussion: [coming]())
+<div class="post">
+<ul>
+{% for post in site.tags["beech"] %}
+  <a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
+    {{ post.description }}
+{% endfor %}
+</ul>
+</div>
