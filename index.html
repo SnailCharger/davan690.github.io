@@ -51,7 +51,7 @@ categories: ["home", "test"]
   {% endif %}
 {% endfor %}
 
-<div class = "content"><p>There are many many great resources on the web. I have not tried to reproduce good resources but supplement and add to the current resources available.</p>
+<div class = "content" align = "center"><p>There are many many great resources on the web. I have not tried to reproduce good resources but supplement and add to the current resources available.</p>
 
   <a href= "https://www.ssnhub.com/general-statistics/" class="btn btn-primary">General Statistics</a> | <a href= "https://www.ssnhub.com/ecological-statistics/" class="btn btn-primary">Ecological Statistics</a> | <a href= "https://www.ssnhub.com/invasive-species-research/" class="btn btn-primary">Invasive species research</a>
 </div>
@@ -62,12 +62,12 @@ categories: ["home", "test"]
     {% for post in paginator.posts %}
     <article class="post-preview">
       <a href="{{ post.url | prepend: site.baseurl }}">
-      <h2 class="post-title">{{ post.title }}</h2>
+      <h3 class="post-title">{{ post.title }}</h3>
   
       {% if post.subtitle %}
-      <h3 class="post-subtitle">
+      <h4 class="post-subtitle">
         {{ post.subtitle }}
-      </h3>
+      </h4>
       {% endif %}
       </a>
   
