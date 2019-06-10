@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Statistics
-subtitle: A simple website of complex resources
+subtitle: A website for statistical research in Ecology
 use-site-title: true
 image: /img/centre-logo-white.jpg
 permlink: /index.html
@@ -13,18 +13,6 @@ permlink: /index.html
       {% for post in site.tags["1"] %}
           <article class="post-preview">
             <a href="{{ post.url | prepend: site.baseurl }}">
-            <h2 class="post-title">{{ post.title }}</h2>
-        
-            {% if post.subtitle %}
-            <h3 class="post-subtitle">
-              {{ post.subtitle }}
-            </h3>
-            {% endif %}
-            </a>
-        
-            <p class="post-meta">
-             {{ post.date | date: "%Y" }}
-            </p>
         
             <div class="post-entry-container">
               {% if post.image %}
