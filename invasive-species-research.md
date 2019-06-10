@@ -7,7 +7,7 @@ image: /img/RStudio_library.jpg
 
 The New Zealand government set a "apollo shot" to make NZ free of mammalian predators by 2050. I believe that as part of this research it is essential that the information is made available to the general public as there are many volunteer community groups that may not have access or the time to collate and communicate the current understanding of mammalian predators in NZ.
 
-# News
+## News
 
 - [How NZ might make PFNZ happen](https://news.nationalgeographic.com/2016/07/new-zealand-invasives-islands-rats-kiwis-conservation/)
 
@@ -24,7 +24,7 @@ The New Zealand government set a "apollo shot" to make NZ free of mammalian pred
 </ul>
 </div>
 
-# Online resources
+## Online resources
 
 - [Predator-free NZ](https://predatorfreenz.org/)
 
@@ -34,7 +34,16 @@ The New Zealand government set a "apollo shot" to make NZ free of mammalian pred
 
 - [Wiki NZ invasive species](https://en.wikipedia.org/wiki/Invasive_species_in_New_Zealand#Mammals): This needs updating as it is missing a few species such as weasals?
 
-# My coding/tool notes
+<div class="post">
+<ul>
+{% for post in site.tags["beech"] %}
+  <a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
+    {{ post.description }}
+{% endfor %}
+</ul>
+</div>
+
+## My coding/tool notes
 
 <div class="post">
 <ul>
@@ -45,7 +54,7 @@ The New Zealand government set a "apollo shot" to make NZ free of mammalian pred
 </ul>
 </div>
 
-# Invasive species notes
+## Invasive species notes
 
 <div class="post">
 <ul>
@@ -56,7 +65,7 @@ The New Zealand government set a "apollo shot" to make NZ free of mammalian pred
 </ul>
 </div>
 
-# Thesis info
+## Thesis info
 
 <div class="post">
 <ul>

@@ -20,3 +20,7 @@ These are the resources I often talk about and personally use regularly. I have 
 [The Statistics Network](https://davan690.github.com/usefulr/): My personal list of resources but in particular look at the `usefulr` repository. I am updating this as and when I find new resources. Mostly, this list is to support my own development and to remind myself how to do many of these R and Markdown tricks and tips I find on the web.
 
 ## News
+
+On this page I hope to link some of my phd outputs to the current research and development in the greater ecological environment.
+
+Here are some ecologically focused posted:
