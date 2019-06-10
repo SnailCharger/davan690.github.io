@@ -1,14 +1,17 @@
 ---
 layout: page
 title: Statistics
-subtitle: A website for statistical research in Ecology
+subtitle: A website for Statistics in Ecology and Research
 use-site-title: true
 image: /img/centre-logo-white.jpg
 permlink: /index.html
+bigimg: 
+  - "/img/background-image.jpg" : "Southern right whale @davan690"
+caption: This is a caption for the header image with link
+caption_url: https://unsplash.com/
 ---
 
-  <div class="banner-content">
-    <div class="post">
+<div class="post">
       <ul>
       {% for post in site.tags["1"] %}
           <article class="post-preview">
@@ -26,21 +29,26 @@ permlink: /index.html
                 {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
                 {% assign excerpt_word_count = post.excerpt | number_of_words %}
                 {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
-                  <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
                 {% endif %}
               </div>
             </div>
       {% endfor %}
    </ul>
   </div>
-</div>
 
 <h2>Resources</h2>
 
-<div class = "banner-content"><p>There are many many great resources on the web. I have not tried to reproduce good resources but supplement and add to the current resources available.</p>
+There are many many great resources on the web. I have not tried to reproduce good resources but supplement and add to the current resources available.
 
-  <a href= "https://www.ssnhub.com/general-statistics/" class="btn btn-primary">General Statistics</a> | <a href= "https://www.ssnhub.com/ecological-statistics/" class="btn btn-primary">Ecological Statistics</a> | <a href= "https://www.ssnhub.com/invasive-species-research/" class="btn btn-primary">Invasive species research</a>
-</div>
+1. [General tools](./general-statistics.md)
+
+2. [Ecological Statistics](./ecological-statistics.md)
+
+3. [Invasive species research](/invasive-species-research.md)
+
+4. [PhD drafts](/thesis-overview.md)
+
+5. [Mapping in R](/creating-maps.md)
 
 <h2>Recent blogs</h2>
 
