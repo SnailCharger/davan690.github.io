@@ -1,10 +1,10 @@
 ---
-title: Code like a jekyll programmer
+title: macOS code for the jekyll programmer
 layout: post
 tags: ["phd", "tools", "reproducibility"]
 ---
 
-I am just learning how to run Jekyll on my local computer for testing and have been unsucessful over the past few weeks on my windows PC (uni computer). I have now installed and sucessfully build my github/jekyll site on my MAC and now have to do it again. 
+I am just learning how to run Jekyll on my local computer for testing and have been unsuccessful over the past few weeks on my windows PC (uni computer). I have now installed and successfully build my github/jekyll site on my MAC and now have to do it again. 
 
 Here are my short reminder steps:
 
