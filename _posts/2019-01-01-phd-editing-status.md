@@ -1,5 +1,5 @@
 ---
-title: New Zealand beech forests
+title: Collaboration template
 subtitle: Draft
 layout: post
 tags: ["phd", "invasive", "overview", "beech", "mice", "thesis"]
