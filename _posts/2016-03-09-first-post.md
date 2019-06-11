@@ -18,7 +18,7 @@ I have needed an accessible location to store statistics and ecology resources f
 
 <img src="/img/background-image.jpg" alt="An orginal statistic logo" align="center" width = "600" height = "200"/>>
 
-<h2>External links</h2>
+<h2>External links<
 
 *Learn R*
 [Data carpentry]("https://datacarpentry.org/") is a good starting point for coding and R.
