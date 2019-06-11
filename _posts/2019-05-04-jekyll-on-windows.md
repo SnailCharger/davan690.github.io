@@ -16,10 +16,17 @@ IMPOSSIBLE...but i need to do it so here goes:
 - [Notes for a MAC user](https://www.alspur.com/moving-to-blogdown/)
 
 - [Andy's notes]()
-These notes are great. I have extended them below but all credit to [Andy]()
+These notes are great. I have extended them below but all credit to [Andy]() and other `knitr` developers (...)
+
+- But I am still left with the issue of not being able to run jekyll and gems on my local machine. So this is how I have done it.
 
 ## My notes
 
+
+
+
+
+## Andy's blog post modified by me
 * writing posts in `Rmarkdown`
 * converting posts to markdown from R
 * push to Github where Jekyll renders the markdown
@@ -52,12 +59,12 @@ I used Barry Clarks amazing [Jekyll-Now repository](https://github.com/barryclar
 Thanks to Jan Gorecki whose answer on [stackoverflow](http://stackoverflow.com/a/26703757/1718356) pointed me in this direction and I've copied some extra features like the Links and Index pages from his [site](https://github.com/jangorecki/jangorecki.github.io).  
 
 ### enabling editing of the site from RStudio
+
 I cloned the Github repository for my site using RStudio :
 
 * File, New project, Version control, Clone git
 * Repo URL : https://github.com/AndySouth/andysouth.github.io
 * Project directory name : andysouth.github.io
-
 
 ### setting up so that I can write the posts in RMarkdown
 This was the tricky bit for me. I followed inspiration from [Jason Bryer](http://jason.bryer.org/posts/2012-12-10/Markdown_Jekyll_R_for_Blogging.html) and [Jon Zelner](http://www.jonzelner.net/jekyll/knitr/r/2014/07/02/autogen-knitr/). I had to tweak them both, the relative paths of figures was my main stumbling block. This was partly because I'm running windows and I couldn't run the shell scripts that they created. Instead I just run an R function [rmd2md](https://github.com/AndySouth/andysouth.github.io/blob/master/rmd2md.r) which is much the same as Jason's with some edits to paths and jekyll rendering.
