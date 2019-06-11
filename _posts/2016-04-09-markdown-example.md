@@ -2,7 +2,7 @@
 layout: post
 title: Markdown examples
 subtitle: A quick reference to the Markdown syntax.
-image: /img/hello_world.jpg
+image: /img/hello_world.png
 permlink: /markdown-example-post.html
 ---
 

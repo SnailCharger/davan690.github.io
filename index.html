@@ -5,7 +5,7 @@ subtitle: A website for Statistics in Ecology and Research
 use-site-title: false
 image: /img/centre-logo-white.jpg
 permlink: /index.html
-bigimg: "/img/background-image.jpg" : "Southern right whale"
+#bigimg: "/img/background-image.jpg" : "Southern right whale"
 caption: This is a caption for the header image with link
 caption_url: https://unsplash.com/
 categories: ["home", "test"]
@@ -15,8 +15,7 @@ categories: ["home", "test"]
       <ul>
       {% for post in site.tags["1"] %}
           <article class="post-preview">
-            <a href="{{ post.url | prepend: site.baseurl }}">
-        
+            <a href="{{ post.url | prepend: site.baseurl }}"></a>
             <div class="post-entry-container">
               {% if post.image %}
               <div class="post-image">
