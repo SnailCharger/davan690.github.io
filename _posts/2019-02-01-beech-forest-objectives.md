@@ -3,17 +3,19 @@ title: New Zealand beech forests
 subtitle: Draft
 layout: post
 tags: ["phd", "invasive", "overview", "beech", "mice", "thesis"]
+image: /img/hello_world.jpg
 ---
 
 ## Status
+
+*Pre-registation*
 
 ### Drafts for comments
 
 #### Supervisors
 
 - Full draft of current manuscript ([html](https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/drafts/Davidson_2019_BeechForest.html); [docx](https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/drafts/Davidson_2019_BeechForest.docx); [pdf](https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/drafts/Davidson_2019_BeechForest.pdf)): *May 2019*
-
-- Planning and overview of [thesis](https://www.ssnhub.com/2019-05-02-thesis-overview/)
+- Planning and overview of [thesis](https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/drafts/Davidson_2019_BeechForest.html)
 
 #### Feedback
 
