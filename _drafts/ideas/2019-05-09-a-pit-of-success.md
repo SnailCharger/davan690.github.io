@@ -1,11 +1,12 @@
 ---
-title: "Pre-submission"
+title: "Pits of success"
 subtitle: "What is it all about?"
 layout: post
 permalink: 
 ---
 
-Pre-submission has always
+Welcome to the "Pit of Success!
+
 ## Tutorials
 
 
