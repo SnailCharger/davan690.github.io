@@ -1,9 +1,9 @@
 ---
+title: "Markdown examples"
 layout: post
-title: Markdown examples
+permlink: /markdown-example-post.html
 subtitle: A quick reference to the Markdown syntax.
 image: /img/hello_world.png
-permlink: /markdown-example-post.html
 ---
 
 Markdown is a plain text formatting syntax for writers. It allows you to quickly write structured content for the web, and have it seamlessly converted to clean, structured HTML. Back in 2004, Apple pundit John Gruber came up with the idea after becoming frustrated by writing long, laborious HTML tags to properly format his content. He devised a simple writing system which would make web based documents both easier to write, and easier to read in their raw state. With just a couple of extra characters, Markdown makes rich document formatting quick and beautiful ([reference here](https://blog.ghost.org/markdown/)).
