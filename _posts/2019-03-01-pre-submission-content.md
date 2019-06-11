@@ -78,6 +78,7 @@ Preregistration allows the researcher to make a clear distinction between both m
 - [Design like its 2019](https://cos.io/prereg/?_ga=2.232172375.996847213.1560227958-1887854903.1554694868)
 - [What is pre-rego](https://cos.io/prereg/?_ga=2.232172375.996847213.1560227958-1887854903.1554694868)
 - [Its not a prison](https://cos.io/blog/preregistration-plan-not-prison/?_ga=2.232172375.996847213.1560227958-1887854903.1554694868)
+- [Open-science framework tools for TREE](https://osf.io/g65cb/)
 
 ## Resources
 
