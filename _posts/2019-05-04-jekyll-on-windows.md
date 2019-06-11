@@ -13,6 +13,8 @@ IMPOSSIBLE...but i need to do it so here goes:
 
 "While Windows is not an officially-supported platform, it can be used to run Jekyll with the proper tweaks. This page aims to collect some of the general knowledge and lessons that have been unearthed by Windows users."
 
+- [Notes for a MAC user](https://www.alspur.com/moving-to-blogdown/)
+
 - [Andy's notes]()
 These notes are great. I have extended them below but all credit to [Andy]()
 
