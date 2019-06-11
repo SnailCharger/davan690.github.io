@@ -20,7 +20,6 @@ As a result, all you need to do is write your blog posts (R Markdown documents).
 
 You must have installed the packages **blogdown** (>= 0.0.55).
 
-
 {% highlight r %}
 devtools::install_github("rstudio/blogdown")
 {% endhighlight %}
