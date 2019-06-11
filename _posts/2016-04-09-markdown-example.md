@@ -1,9 +1,20 @@
 ---
-layout: default
-title: Cheat Sheet
-description: A quick reference to the Markdown syntax.
-last_modified_at: 2018-10-18
+layout: post
+title: Markdown examples
+subtitle: A quick reference to the Markdown syntax.
+image: /img/hello_world.jpg
+permlink: /markdown-example-post.html
 ---
+
+Markdown is a plain text formatting syntax for writers. It allows you to quickly write structured content for the web, and have it seamlessly converted to clean, structured HTML. Back in 2004, Apple pundit John Gruber came up with the idea after becoming frustrated by writing long, laborious HTML tags to properly format his content. He devised a simple writing system which would make web based documents both easier to write, and easier to read in their raw state. With just a couple of extra characters, Markdown makes rich document formatting quick and beautiful ([reference here](https://blog.ghost.org/markdown/)).
+
+Here’s a quick example of Markdown in action below and in a [demo](https://markdown-it.github.io/)
+
+The *quick* brown fox, jumped **over** the lazy [dog](https://en.wikipedia.org/wiki/Dog).
+
+**becomes**
+
+The quick brown fox, jumped over the lazy dog.
 
 ## Overview
 

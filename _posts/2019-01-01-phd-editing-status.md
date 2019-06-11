@@ -3,6 +3,8 @@ title: Collaboration template
 subtitle: Draft
 layout: post
 tags: ["phd", "invasive", "overview", "beech", "mice", "thesis"]
+image: /img/testing-image.jpg
+permlink: /colab-template.html
 ---
 
 This is just a simple template to help explain why and how my editing documents are layed out on the website.

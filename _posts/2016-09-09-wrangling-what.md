@@ -3,6 +3,7 @@ title: "Wrangling data"
 subtitle: "An important and timely excersize"
 permalink: /wrangling.html
 layout: post
+image: /img/hello_world.jpg
 ---
 
 When dealing with data in a project whether it is my personal research or a statistics project I always start by "wrangling" the data. What I mean by this is that I begin by just viewing and plotting the relationships that are easily observed in the data.

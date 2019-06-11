@@ -4,6 +4,7 @@ title: Code chunks
 subtitle: Trying to link RMarkdown to Jekyll
 tags: ["test", "tools","rmd", "rstudio","home"]
 image: /img/testing-image.jpg
+permlink: /markdown-chunks.html
 ---
 
 ## Option 1
