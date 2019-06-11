@@ -13,6 +13,10 @@ This is just a simple template to help explain why and how my editing documents 
 
 *Here just gives an overview of the project*
 
+### pRE-Submission
+
+*There is now a pre-submission framework for the majority of science projects on the [osf](https://osf.io/)*
+
 ### Drafts for comments
 
 *These links take the user to either the raw files or the dropbox account they are stored in. If you are a collaborator you need to accept the invitation to share dropbox files and then these links will take you directly to the correct documentation.*

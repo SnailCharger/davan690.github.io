@@ -1,14 +1,12 @@
 ---
-title: "Staticman-comments"
-subtitle: "For Static site generators"
-permalink: /staticman-comms.html
+title: "Pre-submission"
+subtitle: "What is it all about?"
 layout: post
+permalink: 
 ---
 
-
+Pre-submission has always
 ## Tutorials
-
-
 
 
 ## My notes
