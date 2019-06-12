@@ -3,6 +3,8 @@ title: "Using RMarkdown with Jekyll"
 subtitle: A collection of resources for blogging
 permalink: /rmd-to-jekyll.html
 layout: post
+img: /img/RStudio_packages.PNG
+bigimg: /img/RStudio-jekyll-serious-win.PNG
 ---
 
 As with all github projects there always seems to be someone else who has managed to explain and write a blog about what you need, just when you need it... I wish :)
