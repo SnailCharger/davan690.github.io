@@ -3,7 +3,7 @@ title: "Pre-submission"
 subtitle: "What is it all about?"
 layout: post
 tags: ["test", "tools","rmd", "rstudio","home", "presub"]
-image: /img/osf-image.png
+bigimg: /img/open_science_framework_white.png
 permlink: /osf-pre-rego.html
 ---
 
