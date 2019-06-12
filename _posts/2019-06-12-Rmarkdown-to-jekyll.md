@@ -19,9 +19,9 @@ https://yintingchou.com/posts/jekyll-website-with-github-github-pages-and-r-mark
 
 
 
-- [Anther fellow students examples](https://jfiksel.github.io/2017-01-25-hello-world/)
+- [Another fellow students examples](https://jfiksel.github.io/2017-01-25-hello-world/)
 
-Here is a blog explaining how [Jacob Fiksel](https://jfiksel.github.io/)steps through setting up a blog using RMarkdown.
+Here is a blog explaining how [Jacob Fiksel](https://jfiksel.github.io/) steps through setting up a blog using RMarkdown.
 
 ## My notes
 

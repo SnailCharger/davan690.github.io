@@ -40,9 +40,9 @@ knitr::opts_chunk$set(comment=NA,
 
 ```{r eniviroment, message=FALSE, warning=FALSE, include=FALSE}
 # libraries needed
-source("./rcode/r-packages-needed.R", echo = FALSE)
-source("./rcode/theme_raw_fig3s.r", echo = FALSE)
-source("./rcode/davidson_2019_theme.r", echo = FALSE)
+source("./R/r-packages-needed.R", echo = FALSE)
+source("./R/theme_raw_fig3s.r", echo = FALSE)
+source("./R/davidson_2019_theme.r", echo = FALSE)
 
 #not working
 # source("./Davidson_2019_Data_wrangling.Rmd", echo = FALSE, )
@@ -118,10 +118,10 @@ The orginal data was in excel format and manually covered to csv as below. This 
 # raw seed file generated from input file
 # create seed data file
 #laptop
-#seed <- read_csv("C://GIT/beech-paper-private/manuscript/data/seed_data_jan2017.csv")
+seed <- read_csv("C://GIT/beech-paper-private/manuscript/data/seed_data_jan2017.csv")
 
 #desktop
-seed <- read_csv("C://Code/beech-paper-private/manuscript/data/seed_data_jan2017.csv")
+#seed <- read_csv("C://Code/beech-paper-private/manuscript/data/seed_data_jan2017.csv")
 
 ```
 
@@ -279,7 +279,7 @@ The output data of the model is in JAGS format. This means that it needs to be c
 
 ```{r results-output}
 # raw counts (ind) into CR model
-source("./Rcode/wrangling/Data_CRinput_mice_jan2019.R", echo = FALSE)
+source("R/wrangling/Data_CRinput_mice_jan2019.R")
 
 ```
 
@@ -615,7 +615,7 @@ p.design <- plot.dat.all1 %>%
 # Saved datasets
 
 I will save the final dataset for the analysis of the Beech foret data for the publication as so:
-The final plots. All extended plots are in the `Rcode/figures/`. These plots focus on simplifying the general trends and confirming any previous predictions.
+The final plots. All extended plots are in the `/figures/`. These plots focus on simplifying the general trends and confirming any previous predictions.
 
 ## Study design
 
@@ -756,7 +756,7 @@ p.design <- plot.dat.all1 %>%
 p.design
 
 # export study design data
-write.csv(plot.dat.all1, "./Data/study-design-plot-input-data.csv")
+write.csv(plot.dat.all1, "./R/study-design-plot-input-data.csv")
 
 ```
 
@@ -767,8 +767,8 @@ write.csv(plot.dat.all1, "./Data/study-design-plot-input-data.csv")
 # may 2019
 #anthony
 
-source("./rcode/davidson_2019_theme.r")
-# source("./rcode/figures/study-design-data.R")
+source("./R/davidson_2019_theme.r")
+# source("./R/figures/study-design-data.R")
 
 p.design <- plot.dat.all1 %>%
   mutate(grid = as.numeric(factor(grid)))
@@ -1018,8 +1018,8 @@ base.plot <- ggplot(data = plot.dat.all1,
 # may 2019
 #anthony
 
-source("./rcode/davidson_2019_theme.r")
-# source("./rcode/figures/study-design-data.R")
+source("./R/davidson_2019_theme.r")
+# source("./R/figures/study-design-data.R")
 
 p.design <- plot.dat.all1 %>%
   mutate(grid = as.numeric(factor(grid)))
@@ -1321,7 +1321,7 @@ write.csv(dat.sFix, "C://GIT/beech-paper-private/manuscript/data/Seed_data_hol_e
 
 ```{r}
 # export study design data
-write.csv(plot.dat.all1, "./Data/study-design-plot-input-data.csv")
+write.csv(plot.dat.all1, "./R/study-design-plot-input-data.csv")
 
 ```
 
@@ -1341,7 +1341,7 @@ write.csv(plot.dat.all1, "./Data/study-design-plot-input-data.csv")
 #          mean.s = est.dat)
 #
 # #comes from summary Rscript.
-# # source(./Rcode/figures/summar...)
+# # source(./R/figures/summar...)
 # meanS.1 <- mean1 %>%
 #   filter(spp == "seed")  %>%
 #   mutate(true.date = as.Date(true.date))
@@ -1495,7 +1495,7 @@ dev.off()
 #          mean.rat = est.dat)
 #
 # #comes from summary Rscript.
-# # source(./Rcode/figures/summar...)
+# # source(./R/figures/summar...)
 # meanS.1 <- mean1 %>%
 #   filter(spp == "seed")  %>%
 #   mutate(true.date = as.Date(true.date))
@@ -1505,7 +1505,7 @@ plot.dat.all1  <- plot.dat.all1 %>%
   mutate(trip = as.character(trip))# already done!
 
 # rats have only 80 estimates not 144
-meanR <- read_csv("./data/mna_allrat.csv") %>%
+meanR <- read_csv("./R/mna_allrat.csv") %>%
   select (valley, grid ,trip.no ,n) %>%
   # select (grid ,trip.no ,n) %>%
   mutate(trip = as.character(trip.no),
