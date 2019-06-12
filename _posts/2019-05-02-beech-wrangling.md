@@ -3,12 +3,11 @@ title: "Data wrangling"
 subtitle: "for stoat control in beech forest"
 bibliography: Beech-forests.bib
 type: post
-img: "/img/doc-image-logo.png"
+image: /img/doc-image-logo.png
+permlink: /beech-seed-wrangling.html
 ---
 
-New Zealand beech forests exhibit boom-bust dynamics [below](https://www.osnz.org.nz/sites/osnz.org.nz/files/DOC%20brochure%20battle%20for%20our%20birds.pdf). Where, beech trees mast in spatial synchronised but annually variable years dependant [@wardle1991]. Mice populations have invaded these systems and studies have shown that populations response numerically to changes in resources (beech seed) and mice have been modelled under a range of both functional and numerical responses [@king1983].
-
-![DOC diagram of Beech Masting](/img/doc-mast-diagram.PNG)
+New Zealand beech forests exhibit boom-bust dynamics [below](https://www.osnz.org.nz/sites/osnz.org.nz/files/DOC%20brochure%20battle%20for%20our%20birds.pdf). Where, beech trees mast in spatial synchronised but annually variable years dependant [@wardle1991]. Mice populations have invaded these systems and studies have shown that populations response numerically to changes in resources (beech seed) and mice have been modelled under a range of both functional and numerical responses [@king1983]. ![DOC diagram of Beech Masting](/img/doc-mast-diagram.PNG)
 
 This short report investigates the possible bias in the estimation of available seed to the raw data commonly used for estimation of food availability [@ruscoe2005]. This is important because the following bias are known and need to be accounted for before analysing data.
 

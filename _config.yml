@@ -24,20 +24,20 @@ description: Statistical support for researchers
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "https://www.ssnhub.com"
+  Home: ""
   Resources:
     - General Statistics: "general-statistics"
     - Ecological Statistics: "ecological-statistics"
     - Invasive species research: "invasive-species-research"
-  Blog:
-    - Full blog list: "all-posts"
-    - All tags: "tags"
+  News:
+    - Blogs: "all-posts"
+    - Tags: "tags"
   Info: 
     - Contact: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: ./img/centre-logo-white.jpg
+avatar: /img/centre-logo-white.jpg
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
