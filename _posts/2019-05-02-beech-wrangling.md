@@ -1,55 +1,18 @@
 ---
-title: "Data Wrangling explaination"
-author: "Anthony Davidson"
-date: '2019-05-16'
-output:
-  html_document:
-    df_print: paged
-  html_notebook: default
-subtitle: For Stoat control in Beech forest paper
+title: "Data wrangling"
+subtitle: "for stoat control in beech forest"
 bibliography: Beech-forests.bib
 type: post
+img: "/img/doc-image-logo.png"
 ---
 
-```{r global-options, message=FALSE, warning=FALSE, include=FALSE}
-# export .r code only
-# knitr::purl("./Davidson_2019_BeechForest.Rmd")
+New Zealand beech forests exhibit boom-bust dynamics [below](https://www.osnz.org.nz/sites/osnz.org.nz/files/DOC%20brochure%20battle%20for%20our%20birds.pdf). Where, beech trees mast in spatial synchronised but annually variable years dependant [@wardle1991]. Mice populations have invaded these systems and studies have shown that populations response numerically to changes in resources (beech seed) and mice have been modelled under a range of both functional and numerical responses [@king1983].
 
-# render draft to webpage
-# rmarkdown::render(input = "Davidson_2019_BeechForest.Rmd")
-# ,
-#                   output_format = "html_document",
-#                   output_file = "Davidson_2019_t.html")
+![DOC diagram of Beech Masting](/img/doc-mast-diagram.PNG)
 
-# compareGroups::cGroupsGUI(mtcars)
-#document global rules
-knitr::opts_chunk$set(comment=NA,
-                      fig.path = "./figs/",
-                      echo=TRUE, 
-                      fig.height=6, 
-                      fig.width=10,
-                      message=FALSE, 
-                      warning=FALSE)
-# how do I do this??
-# ,eval = FALSE,include = FALSE
+This short report investigates the possible bias in the estimation of available seed to the raw data commonly used for estimation of food availability [@ruscoe2005]. This is important because the following bias are known and need to be accounted for before analysing data.
 
-
-```
-
-# Overview
-
-```{r eniviroment, message=FALSE, warning=FALSE, include=FALSE}
-# libraries needed
-source("./rcode/r-packages-needed.R", echo = FALSE)
-source("./rcode/theme_raw_fig3s.r", echo = FALSE)
-source("./rcode/davidson_2019_theme.r", echo = FALSE)
-```
-
-New Zealand beech forests exhibit boom-bust dynamics (Figure 1). Where, beech trees mast in spatial synchronised but annually variable years dependant [@wardle1991]. Mice populations have invaded these systems and studies have shown that populations response numerically to changes in resources (beech seed) and mice have been modelled under a range of both functional and numerical responses [@king1983]. 
-
-This short report investigates the possible bias in the estimation of available seed to the raw data commonly used for estimation of food availability [@ruscoe2005]. This is important because the following bias are known and need to be accounted for before analysising data.
-
-1. Seeds without the kernal have no energy value and need to be removed.
+1. Seeds without the kernel have no energy value and need to be removed [here](#Seed Measurement).
 
 2. Different beech species produce different sized seeds and this has an effect on the "available seed".
 
@@ -65,7 +28,6 @@ Bbut there is also many other supporting resources and less formal tutorials on 
 
 # Invasive species notes
 
-```{}
 <div class="post">
 <ul>
 {% for post in site.tags["invasive-spp"] %}
@@ -74,7 +36,6 @@ Bbut there is also many other supporting resources and less formal tutorials on 
 {% endfor %}
 </ul>
 </div>
-```
 
 ## Meta-data
 
@@ -96,7 +57,6 @@ Bbut there is also many other supporting resources and less formal tutorials on 
 
 All other data and resources to render project from raw data (copied from my private GIT repository) can be found on [dropbox](https://www.dropbox.com/home/phd-drafts-anthony) but will be available here when I have incorporated the co-authors feedback
 
-```{}
 <div class="post">
 <ul>
 {% for post in site.tags["invasive-spp"] %}
@@ -105,7 +65,6 @@ All other data and resources to render project from raw data (copied from my pri
 {% endfor %}
 </ul>
 </div>
-```
 
 ## Importing data
 
@@ -140,6 +99,36 @@ Therefore, if $800$ seeds were counted on a grid on a particular trip, this will
 ### Variable structure
 
 I have defined the following parameters that help to keep the type of variable the same throughout the joining of the raw data and the model outputs.
+
+```
+# export .r code only
+# knitr::purl("./Davidson_2019_BeechForest.Rmd")
+# render draft to webpage
+# rmarkdown::render(input = "Davidson_2019_BeechForest.Rmd")
+# ,
+#                   output_format = "html_document",
+#                   output_file = "Davidson_2019_t.html")
+# compareGroups::cGroupsGUI(mtcars)
+#document global rules
+knitr::opts_chunk$set(comment=NA,
+                      fig.path = "./figs/",
+                      echo=TRUE, 
+                      fig.height=6, 
+                      fig.width=10,
+                      message=FALSE, 
+                      warning=FALSE)
+# how do I do this??
+# ,eval = FALSE,include = FALSE
+```
+
+# Overview
+
+```
+# libraries needed
+source("./rcode/r-packages-needed.R", echo = FALSE)
+source("./rcode/theme_raw_fig3s.r", echo = FALSE)
+source("./rcode/davidson_2019_theme.r", echo = FALSE)
+```
 
 ```{r variable-str-labels, echo = TRUE}
 #month levels to get it right
