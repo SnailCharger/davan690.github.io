@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Using RMarkdown with Jekyll"
-subtitle: A collection of resources for blogging
-image: /img/RStudio_packages.jpg
-#bigimg: /img/RStudio-jekyll-serious-win.PNG
+title: "Jekyll in RStudio"
+subtitle: "A collection of resources for blogging in RStudio"
+image: /img/tools.jpg
+bigimg: /img/RStudio-jekyll-serious-win.PNG
 permalink: /rmd-to-jekyll/
 ---
 
