@@ -1,5 +1,5 @@
 ---
-title: macOS code for the jekyll programmer
+title: Jekyll for macOS
 layout: post
 tags: ["phd", "tools", "reproducibility"]
 ---

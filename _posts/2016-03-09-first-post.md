@@ -4,7 +4,8 @@ title: The beginning
 subtitle: Starting a website
 tags: ["general", "overview", "website", "1"]
 image: /img/hello_world.jpeg
-permlink: /first-post/
+bigimg: /img/first-image1.png
+permlink: /first-post.html
 ---
 
 <div style="padding:5px; text-align:center; background-color:lightblue;">

@@ -2,6 +2,8 @@
 title: "Jekyll vs Windows"
 subtitle: "What is it all about?"
 layout: post
+bigimg: /img/jekyll-fill.jpg
+image: /img/jekyll-fill-sq.jpg
 permalink: /jekyll-in-windows.html
 ---
 
