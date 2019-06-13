@@ -2,11 +2,14 @@
 layout: page
 title: Contact
 image: /img/centre-logo-white.jpg
-permlink: /aboutme.html
+bigimg: /img/filing.jpg
+permlink: /contact.html
 tags: ["website", "home", "page"]
 ---
 
-*Contact me* if you have any ideas or would like to contribute in any way:
+## *Contact me*
+
+### if you have any ideas or would like to contribute in any way that works.
 
 [Send a message](https:/facebook.com/StatisticsNetwork/) on social media (sorry i dont have comments working on page yet).
 

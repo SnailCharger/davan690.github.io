@@ -1,7 +1,10 @@
 ---
-title: Contributing with GIThub
-subtitle: Draft
 layout: page
+title: "Contributing"
+subtitle: "A few more complex options"
+image: /img/change-transform-osf-image.jpg
+bigimg: /img/canberra-back.jpg
+permlink: /contributing.html
 ---
 
 We are really glad you're reading this! We need volunteer contributors for making the statistics network successful. Please do not hesitate to contact us via any way works best for you.
