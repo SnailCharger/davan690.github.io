@@ -1,21 +1,26 @@
 ---
 layout: post
-title: "Markdown examples"
+title: "A Markdown example"
 subtitle: A quick reference to the Markdown syntax.
+tags: ["test", "tools","rmd", "rstudio","home"]
 image: /img/aboutme-image.jpg
 bigimg: /img/construction.jpg
 permlink: /markdown-example-post.html
 ---
 
-Markdown is a plain text formatting syntax for writers. It allows you to quickly write structured content for the web, and have it seamlessly converted to clean, structured HTML. Back in 2004, Apple pundit John Gruber came up with the idea after becoming frustrated by writing long, laborious HTML tags to properly format his content. He devised a simple writing system which would make web based documents both easier to write, and easier to read in their raw state. With just a couple of extra characters, Markdown makes rich document formatting quick and beautiful ([reference here](https://blog.ghost.org/markdown/)).
+Markdown is a plain text formatting syntax for writers. It allows you to quickly write structured content for the web, and have it seamlessly converted to clean, structured HTML. 
+
+##  History
+
+Back in 2004, Apple pundit John Gruber came up with the idea after becoming frustrated by writing long, laborious HTML tags to properly format his content. He devised a simple writing system which would make web based documents both easier to write, and easier to read in their raw state. With just a couple of extra characters, Markdown makes rich document formatting quick and beautiful ([reference here](https://blog.ghost.org/markdown/)).
 
 Here’s a quick example of Markdown in action below and in a [demo](https://markdown-it.github.io/)
 
-The *quick* brown fox, jumped **over** the lazy [dog](https://en.wikipedia.org/wiki/Dog).
+```The *quick* brown fox, jumped **over** the lazy [dog](https://en.wikipedia.org/wiki/Dog).```
 
 **becomes**
 
-The quick brown fox, jumped over the lazy dog.
+```The quick brown fox, jumped over the lazy dog.```
 
 ## Overview
 

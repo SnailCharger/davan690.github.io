@@ -39,19 +39,21 @@ bundle exec jekyll serve --watch
 
 3. View/run in RStudio
 
-```
+```R
 > servr::jekyll()
 
-createTcpServer: address already in use
-To stop the server, run servr::daemon_stop(3) or restart your R session
 Serving the directory C:\GIT\davan690.github.io at http://127.0.0.1:5652
-
-> servr::daemon_stop(3)
 ```
+
+4. Stop server
+
+> ```servr::daemon_stop(3)```
+
+
 
 ### ERRORs
 
-#### missing jekyll
+#### 1. missing jekyll
 
 ```Warning message:
 In system2("jekyll", "build"):
@@ -59,4 +61,6 @@ In system2("jekyll", "build"):
 ```
 
 I found I needed to install ruby gems for jekyll
+
+```??bundle gem install jekyll??```
 
