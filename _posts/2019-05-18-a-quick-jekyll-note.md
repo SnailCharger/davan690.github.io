@@ -2,6 +2,11 @@
 title: Jekyll for macOS
 layout: post
 tags: ["phd", "tools", "reproducibility"]
+subtitle: "What is it all about?"
+layout: post
+bigimg: /img/fill-image-tone.jpg
+image: /img/jekyll-fill-sq.jpg
+permalink: /jekyll-in-windows.html
 ---
 
 I am just learning how to run Jekyll on my local computer for testing and have been unsuccessful over the past few weeks on my windows PC (uni computer). I have now installed and successfully build my github/jekyll site on my MAC and now have to do it again. 
