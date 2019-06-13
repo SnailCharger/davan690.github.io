@@ -11,4 +11,4 @@ tags: ["website", "home", "page"]
 <div class = "content" align = "center" href= "https://paypal.me/ARDavidson?locale.x=en_AU"><a href= "https://img.shields.io/badge/Donate-PayPal-green.svg">Donate</a>
 </div>
 
-[![Donate]()](https://paypal.me/ARDavidson?locale.x=en_AU)
+[Donate](https://paypal.me/ARDavidson?locale.x=en_AU)
