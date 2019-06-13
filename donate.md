@@ -8,4 +8,7 @@ permlink: /aboutme.html
 tags: ["website", "home", "page"]
 ---
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/ARDavidson?locale.x=en_AU)
+<div class = "content" align = "center" href= "https://paypal.me/ARDavidson?locale.x=en_AU"><a href= "https://img.shields.io/badge/Donate-PayPal-green.svg">Donate</a>
+</div>
+
+[![Donate]()](https://paypal.me/ARDavidson?locale.x=en_AU)
