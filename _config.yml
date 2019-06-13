@@ -205,7 +205,11 @@ exclude:
   - LICENSE
   - README.md
   - Vagrantfile
-
+  - .rvmrc
+  - .rbenv-version
+  - Rakefile
+  - changelog.md
+  
 # prose.io config
 prose:
   rooturl: '_posts'

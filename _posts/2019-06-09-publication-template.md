@@ -4,10 +4,6 @@ subtitle: A simple publication template
 type: post
 ---
 
-
-
-
-
 ## Publishing notes
 
 Journal choice: [Journal of Applied Ecology](http://www.journalofappliedecology.org/view/.../authorGuideline.html)
