@@ -1,7 +1,6 @@
 ---
 layout: page
-title: The Statistics Network
-subtitle: Some background
+title: Contact
 image: /img/centre-logo-white.jpg
 permlink: /aboutme.html
 tags: ["website", "home", "page"]
