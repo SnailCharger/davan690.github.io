@@ -32,11 +32,13 @@ Agree with @RaoOfPhysics, perhaps this issue belongs to github (unless @yihui ca
 
 I didn't want to use a first page and then divide by topics, since I just wanted to have a single topic within my repo. On Windows 10, I did it like this:
 
-Open a cmd prompt as administrator
-Navigate to your repo cd "C:\Users\MyName\Documents\GitHub\MyRepo"
-Generate a symlink with mklink. This is used as mklink "linkfile" "to_this_file". In this case:
+1. Open a cmd prompt as administrator
+Navigate to your repo `cd "C:\Users\MyName\Documents\GitHub\MyRepo"`
+
+2. Generate a symlink with mklink. This is used as mklink "linkfile" "to_this_file". In this case:
 mklink "index.html" "index.nb.html"
-Commit and push to your repo
+
+3. Commit and push to your repo
 Here is a site working like this
 ```
 
