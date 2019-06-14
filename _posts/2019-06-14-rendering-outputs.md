@@ -17,7 +17,9 @@ At some point I will have a simple workflow here but for now these are the resou
 
 `davan690.github.io`
 
-If I simply copy and paste the rendered file from my RStudio working directory to my website by putting the file in the `_includes` folder and calling it from the post using jekyll liquid templating as so:
+If I simply copy and paste the rendered file from my `RStudio` working directory to my website by putting the file in the main folder (same location as `index.html`) . When I do this I can access the full `html` file in a the `github` format of html with no headers or other content rendered when the website is built.
+
+##### nb.html format
 
 However when I compile website this is what it looks like... I did not have any plots and rendering with random `.css` I think??
 
@@ -27,17 +29,19 @@ And the back end is baaaad
 
 ![1560478977097](C:\GIT\davan690.github.io\img\tag-issues-render-md.png)
 
-So from here I decided to try and render the .html within my jekyll build by creating a post and merging the post with my `.rmd` html output file. The attempts are below.
+So from here I decided to try and render the .html within my `jekyll` build by creating a post and merging the post with my `.rmd` html output file. The attempts are below.
 
 ### In posts folder
 
 `_posts`
 
-In the ideal world I think that I just want to end up with a simple post with all the info attached however there are actually a million (maybe over exagerating here) options on how and where to put the files depending on the rendering.
+In the ideal world I think that I just want to end up with a simple post with all the info attached however there are actually a million (maybe over exaggerating here) options on how and where to put the files depending on the rendering.
 
-### html formats
+#### html formats
 
 with these outputs we can actually render `html` files with the `rmarkdown` package in RStudio as a range of different outputs:
+
+- `rmarkdown::hml_document`
 
 - `html_github`
 - `html_vigette`
@@ -79,3 +83,5 @@ If I simply copy and paste the rendered with the `rmarkdown` package in RStudio 
 ## My Notes
 
 As I get better at coding and web-development I will create a simple workflow but I have slowly worked through what is running currently.
+
+P.S. I wrote this using `typora`

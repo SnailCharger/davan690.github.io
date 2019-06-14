@@ -3,28 +3,28 @@ title: "New Zealand beech forests"
 subtitle: "Draft"
 layout: post
 tags: ["phd", "invasive", "overview", "beech", "mice", "thesis"]
-image: /img/hello_world.jpg
+image: /img/tools.jpg
 ---
+
+[TOC]
 
 ## Status
 
-*Pre-registation*
+*Pre-registration*: not needed
 
-### Drafts for comments
+## Drafts for comments
 
-#### Supervisors
+### Supervisors
 
 - Full draft of current manuscript ([html](https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/drafts/Davidson_2019_BeechForest.html); [docx](https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/drafts/Davidson_2019_BeechForest.docx); [pdf](https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/drafts/Davidson_2019_BeechForest.pdf)): *May 2019*
 - Planning and overview of [thesis](https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/drafts/Davidson_2019_BeechForest.html)
 
-#### Feedback
-
-##### General feedback
+### Feedback
 
 Any comments on these sections are always welcome.
-- Beech forest introduction[pdf/docx/html](https://www.dropbox.com/home/phd-peer-drafts): *May 2019*
+- Beech forest introduction [pdf/docx/html](https://www.dropbox.com/home/phd-peer-drafts): *May 2019*
 
-# Working Title
+## Working Title
 
 *Merky forests. What can we expect from stoat control in NZ forests? - Food vs. Predation.*
 
@@ -32,9 +32,9 @@ Any comments on these sections are always welcome.
 
 This publication clarifies the discrepancy between; two modelling papers that suggest mesopredator release of rodents is possible in New Zealand forest systems and; several field studies that have presented limited but conflicting support for increases in mouse abundance following predator control. We used an experimental design to test the differences between the two "frames of though" and found that there is no evidence to suggest mice will become more abundant after predator removal ([*additional resources for collaborators here*](https://www.dropbox.com/home/phd-drafts-anthony)).
 
-## Contents
+## Meta-data
 
-- [Current draft](https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/drafts/Davidson_2019_BeechForest.html)
+- [Current draft](https://www.ssnhub.com/Davidson_2019_BeechForest.html)
 
 - [Style sheet](https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/Styles_manual_sheet.md/)
 
@@ -60,3 +60,4 @@ All other data and resources to render project from raw data (copied from my pri
 {% endfor %}
 </ul>
 </div>
+

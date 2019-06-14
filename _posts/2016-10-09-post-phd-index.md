@@ -41,3 +41,10 @@ As I build my Phd I am simulatiously building a website of resources and referen
 {% endfor %}
 </ul>
 </div>
+
+
+
+
+
+
+

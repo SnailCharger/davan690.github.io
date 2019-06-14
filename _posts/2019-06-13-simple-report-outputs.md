@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Small data project outputs"
+subtitle: "Just my notes currently"
 image: /img/hello_world.jpeg
 bigimg: /img/first-image1.png
 tags: ["markdown", "website", "tools", "rmd"]
@@ -10,10 +11,6 @@ permalink: small-project-formats.html
 I have been looking for a quick work-around for compiling my static site ([jekyll](https://jekyllrb.com/)). I thought that this would be a `nb.html` output produced for `RStudio`. THis is what I found...
 
 **Quick fact == it wasn't fast...**
-
-## Tutorials
-
-## My notes
 
 I found two work-arounds on the comment feed of GIThub [here](https://github.com/rstudio/rmarkdown/issues/1020).
 
