@@ -19,8 +19,6 @@ At some point I will have a simple workflow here but for now these are the resou
 
 If I simply copy and paste the rendered file from my RStudio working directory to my website by putting the file in the `_includes` folder and calling it from the post using jekyll liquid templating as so:
 
-`{% include' ' file name' '.nb.html %}`
-
 However when I compile website this is what it looks like:
 
 ` bla image`
