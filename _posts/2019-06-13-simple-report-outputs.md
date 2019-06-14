@@ -3,6 +3,7 @@ layout: post
 title: "Small data project outputs"
 image: /img/hello_world.jpeg
 bigimg: /img/first-image1.png
+tags: ["markdown", "website", "tools", "rmd"]
 permalink: small-project-formats.html
 ---
 
