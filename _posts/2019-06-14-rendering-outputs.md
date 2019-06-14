@@ -19,13 +19,15 @@ At some point I will have a simple workflow here but for now these are the resou
 
 If I simply copy and paste the rendered file from my RStudio working directory to my website by putting the file in the `_includes` folder and calling it from the post using jekyll liquid templating as so:
 
-However when I compile website this is what it looks like:
+However when I compile website this is what it looks like... I did not have any plots and rendering with random `.css` I think??
 
-` bla image`
+![1560479033428](C:\GIT\davan690.github.io\img\no-plots-rmd.png)
 
 And the back end is baaaad
 
-` bla image`
+![1560478977097](C:\GIT\davan690.github.io\img\tag-issues-render-md.png)
+
+So from here I decided to try and render the .html within my jekyll build by creating a post and merging the post with my `.rmd` html output file. The attempts are below.
 
 ### In posts folder
 
