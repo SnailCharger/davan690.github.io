@@ -9,3 +9,9 @@ permlink: /bib-references-for-r.html
 
 `citation()`
 
+https://astrostatistics.psu.edu/su07/R/html/utils/html/citation.html
+
+### Mendeley referencing
+
+<https://github.com/ropensci/wishlist/issues/28>
+
