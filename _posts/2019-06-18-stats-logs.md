@@ -7,5 +7,4 @@ tags: ["compile", "r", "rmd", "RStudio", "tools", "general"]
 permlink: /bib-references-for-r.html
 ---
 
-`citation()`
-
+\img\1560585956638.png
