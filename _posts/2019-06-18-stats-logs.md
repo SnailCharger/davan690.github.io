@@ -8,3 +8,4 @@ permlink: /bib-references-for-r.html
 ---
 
 \img\1560585956638.png
+
