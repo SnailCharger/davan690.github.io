@@ -4,6 +4,7 @@ title: Phd posts
 subtitle: Building my resources
 tags: ["general", "overview", "website", "resources", "tools", "phd"]
 image: /img/filing.jpg
+bigimg: /img/fill-image-tone.jpg
 permlink: /resources/
 ---
 

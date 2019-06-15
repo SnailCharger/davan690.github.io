@@ -7,15 +7,9 @@ image: /img/doc-image-logo.png
 permlink: /beech-seed-wrangling.html
 ---
 
-New Zealand beech forests exhibit boom-bust dynamics [below](https://www.osnz.org.nz/sites/osnz.org.nz/files/DOC%20brochure%20battle%20for%20our%20birds.pdf). Where, beech trees mast in spatial synchronised but annually variable years dependant [@wardle1991]. Mice populations have invaded these systems and studies have shown that populations response numerically to changes in resources (beech seed) and mice have been modelled under a range of both functional and numerical responses [@king1983]. 
-
-![DOC diagram of Beech Masting](/img/doc-mast-diagram.PNG)
-
-# Introduction
-
 *Generally look at thesis drafts [here]("https://www.ssnhub.com/").*
 
-This RMarkdown file is intend to be extended on for different species of trees, fruit and seed. These files are the supporting documetation to the data-wrangling code in the Beech forest manuscript [here]("https://www.ssnhub.com/invasive-species-research.html/").
+This RMarkdown file is intend to be extended on the estimationg process for the different species of trees, fruit and seed. These files are the supporting documetation to the data-wrangling code in the Beech forest manuscript [here]("https://www.ssnhub.com/invasive-species-research.html/").
 
 Bbut there is also many other supporting resources and less formal tutorials on my [website](https://www.ssnhub.com) and the feed below:
 
