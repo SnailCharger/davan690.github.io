@@ -4,6 +4,7 @@ title: "The open-science framework"
 tags: ["general", "overview", "website"]
 image: /img/cos1.png
 bigimg: /img/fill-image-tone.jpg
+tags: ["osf", "tools", "general"]
 permlink: /osf.html
 ---
 

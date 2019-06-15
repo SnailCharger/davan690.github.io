@@ -2,6 +2,10 @@
 title: Publishing in the Journal of Applied Ecology
 subtitle: A simple publication template
 type: post
+image: /img/hello_world.jpeg
+bigimg: /img/first-image1.png
+tags: ["markdown", "website", "tools", "rmd"]
+permalink: /typora-blogging.html
 ---
 
 ```{r var-yaml-code, eval=FALSE, include=FALSE}

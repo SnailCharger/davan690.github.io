@@ -4,7 +4,7 @@ subtitle: "An easy one..."
 layout: post
 image: /img/hello_world.jpeg
 bigimg: /img/first-image1.png
-tags: ["markdown", "website", "tools", "rmd"]
+tags: ["html", "website", "tools"]
 permalink: /typora-blogging.html
 ---
 

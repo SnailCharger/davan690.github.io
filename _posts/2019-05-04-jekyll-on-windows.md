@@ -4,6 +4,7 @@ subtitle: "What is it all about?"
 layout: post
 bigimg: /img/jekyll-fill.jpg
 image: /img/jekyll-fill-sq.jpg
+tags: ["compile", "tools", "general"]
 permalink: /jekyll-in-windows.html
 ---
 

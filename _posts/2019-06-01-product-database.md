@@ -1,7 +1,8 @@
 ---
 layout: default
-title: A product database
+title: A product database tool
 subtitle: Providing YAML driven XML, JSON, and Atom using Jekyll And Github
+tags: ["compile", "r", "rmd", "RStudio", "tools", "general"]
 ---
 
 <h2>Providing YAML driven XML, JSON, and Atom using Jekyll And Github</h2>

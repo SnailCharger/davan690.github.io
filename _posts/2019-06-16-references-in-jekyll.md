@@ -3,6 +3,7 @@ title: "Scientific literature for Jekyll"
 subtitle: "Installing gems for scholarly references"
 type: post
 image: /img/doc-image-logo.png
+tags: ["compile", "r", "rmd", "RStudio", "tools", "general"]
 permlink: /jeykll-references.html
 ---
 

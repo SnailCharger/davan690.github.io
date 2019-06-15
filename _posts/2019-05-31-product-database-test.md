@@ -1,5 +1,7 @@
 ---
 layout: default
+title: "Output of product database test"
+tags: ["compile", "r", "rmd", "RStudio", "tools", "general"]
 ---
 [{% for product in site.data.products %}
   {

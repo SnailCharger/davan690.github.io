@@ -4,6 +4,7 @@ title: "Wrangling data"
 subtitle: "An important and timely exercise"
 image: /img/background-image.jpg
 bigimg: /img/background-image.jpg
+tags: ["compile", "r", "rmd", "RStudio", "tools", "general"]
 permalink: /wrangling.html
 ---
 

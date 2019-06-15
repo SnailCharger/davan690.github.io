@@ -4,6 +4,7 @@ title: "Rendering outputs"
 subtitle: "Summary of the different rendering options for blogs and collaborations"
 image: /img/filing.jpg
 bigimg: /img/first-image1.png
+tags: ["compile", "r", "rmd", "RStudio", "tools", "general"]
 permalink: simple-outputs.html
 ---
 

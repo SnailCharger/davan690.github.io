@@ -3,6 +3,7 @@ title: "New Zealand Beech Forests"
 subtitle: "for stoat control in beech forest"
 type: post
 image: /img/doc-image-logo.png
+tags: ["compile", "r", "rmd", "RStudio", "tools", "general"]
 permlink: /beech-seed-wrangling.html
 ---
 
