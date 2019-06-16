@@ -3,8 +3,8 @@ layout: post
 title: The beginning
 subtitle: Starting a website
 tags: ["general", "overview", "website", "1"]
-image: /img/hello_world.jpeg
-bigimg: /img/first-image1.png
+image: /img/aboutme-image.jpg
+bigimg: /img/aboutme-image.jpg
 permlink: /first-post.html
 ---
 

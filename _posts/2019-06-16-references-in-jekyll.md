@@ -2,7 +2,7 @@
 title: "Scientific literature for Jekyll"
 subtitle: "Installing gems for scholarly references"
 type: post
-image: /img/doc-image-logo.png
+image: /img/tools.jpg
 tags: ["compile", "r", "rmd", "RStudio", "tools", "general"]
 permlink: /jeykll-references.html
 ---
@@ -21,3 +21,4 @@ Like so many open source resources there are at least three different ways to ac
 
 - [jekyll-scholar gem](https://github.com/inukshuk/jekyll-scholar)
 
+  The thing is I don't really even understand how `gems` work so I have been doing some investigation.
