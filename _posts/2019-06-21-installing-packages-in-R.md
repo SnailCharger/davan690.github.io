@@ -1,6 +1,6 @@
 ---
-title: "Searching in vs-code"
-subtitle: "finding files when using project structures"
+title: "Installing packages in R"
+subtitle: "A simple comment"
 type: post
 image: /img/1560644906742.png
 tags: ["compile", "r", "rmd", "RStudio", "tools", "general"]
