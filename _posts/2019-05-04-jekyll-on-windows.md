@@ -25,11 +25,14 @@ These notes are great. I have extended them below but all credit to [Andy]() and
 
 ## My notes
 
+1. Install ruby but make sure it is x86 not x64 that can cause issues  
+2. INstall jekyll
+3. Install bundler
+4. 
 
+## Below is for RMarkdown files
 
-
-
-## Andy's blog post modified by me
+### Andy's blog post modified by me
 * writing posts in `Rmarkdown`
 * converting posts to markdown from R
 * push to Github where Jekyll renders the markdown

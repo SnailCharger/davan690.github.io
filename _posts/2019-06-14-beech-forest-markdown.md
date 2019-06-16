@@ -10,10 +10,6 @@ permlink: /beech-output-wrangle.html
 
 Many of the options I wanted to work just dont!.
 
-# {% include Davidson_2019_Data_wrangling.html %}
-# 
-# {% include Davidson_2020_BeechForest.html %}
-
 ## Tutorials
 
 This is a simple vignette template rendered in RStudio as an html and copied to the `_includes` folder.
