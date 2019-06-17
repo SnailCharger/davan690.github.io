@@ -10,9 +10,7 @@ permlink: /beech-seed-wrangling.html
 
 *Generally look at thesis drafts [here]("https://www.ssnhub.com/").*
 
-This RMarkdown file is intend to be extended on the estimationg process for the different species of trees, fruit and seed. These files are the supporting documetation to the data-wrangling code in the Beech forest manuscript [here]("https://www.ssnhub.com/invasive-species-research.html/").
-
-But there is also many other supporting resources and less formal tutorials on my [website](https://www.ssnhub.com) and the feed below:
+This RMarkdown file is intend to be extended on the estimationg process for the different species in the Beech Forest model. These files are the supporting documentation for this paper. As have been doing this I have also realised that there are many more supporting documents coming in the future.
 
 # Invasive species notes
 
@@ -40,3 +38,7 @@ But there is also many other supporting resources and less formal tutorials on m
 {% endfor %}
 </ul>
 </div>
+
+# Current drafts
+
+{%- include post-test2.nb.html -%}

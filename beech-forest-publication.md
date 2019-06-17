@@ -48,7 +48,7 @@ This publication clarifies the discrepancy between; two modelling papers that su
 
 | Document                                                     | Overview           | Status  |
 | ------------------------------------------------------------ | ------------------ | ------- |
-| [Current draft](https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/drafts/Davidson_2019_BeechForest.html) |    {%- include Davidson_2019_BeechForest -%}              | Dropbox |
+| [Current draft](https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/drafts/Davidson_2019_BeechForest.html) |           | Dropbox |
 | [Style sheet](https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/Styles_manual_sheet.md/) |                    | Dropbox |
 | [Introduction](https://www.dropbox.com/sh/5h4mp67p7u6t1lj/AAAQVKS4qnvu2oQLu53JQUofa?dl=0) |                    | Dropbox |
 | [Bayesian methods](https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/A1_full_bayesian_model.pdf) |                    | Dropbox |
@@ -68,3 +68,7 @@ All other data and resources to render project from raw data (copied from my pri
 {% endfor %}
 </ul>
 </div>
+
+## Current Draft
+
+{%- include Davidson_2019_BeechForest.nb.html -%} 

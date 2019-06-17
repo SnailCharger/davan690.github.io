@@ -52,8 +52,6 @@ with these outputs we can actually render `html` files with the `rmarkdown` pack
 
 If I simply copy and paste the rendered `nb.html` file from my RStudio working directory to my website folder as:
 
-```{% include Davidson1.html %}```
-
 *And the current output is*
 
 - `'full file name'` = in the post file nothing happens
