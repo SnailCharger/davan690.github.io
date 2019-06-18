@@ -46,15 +46,28 @@ This publication clarifies the discrepancy between; two modelling papers that su
 
 ### Contents
 
-| Document                                                     | Overview           | Status  |
-| ------------------------------------------------------------ | ------------------ | ------- |
-| [Current draft](https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/drafts/Davidson_2019_BeechForest.html) | As I am developing this approach to reproducible research this raft will look better and better.          | Dropbox [link here](https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/drafts/Davidson_2019_BeechForest.html) |
-| [Style sheet](https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/Styles_manual_sheet.md/) |                    | Dropbox |
-| [Introduction](https://www.dropbox.com/sh/5h4mp67p7u6t1lj/AAAQVKS4qnvu2oQLu53JQUofa?dl=0) |                    | Dropbox |
-| [Bayesian methods](https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/A1_full_bayesian_model.pdf) |                    | Dropbox |
-| [Figures](https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/figs) |                    | Dropbox |
-| [Functional response](https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/Davidson_2019_BeechForest_Appendix.pdf) |                    | Dropbox |
-| [References]()                                               | coming online soon | Dropbox |
+| Document                                                     | Overview                                                     | Status                                                       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Current draft                                                | As I am developing this approach to reproducible research this draft will look better and better. | Online [here](/manuscriptDraft)                              |
+|                                                              |                                                              | Dropbox includes all the data files needed to reproduce these documents [link here](https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/drafts/Davidson_2019_BeechForest.html) |
+| Abstract                                                     |                                                              | [coming]                                                     |
+| [Style sheet](https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/Styles_manual_sheet.md/) | A way of recording semantic choices for this research project. | Dropbox                                                      |
+| [Introduction](https://www.dropbox.com/sh/5h4mp67p7u6t1lj/AAAQVKS4qnvu2oQLu53JQUofa?dl=0) | Currently within the draft manuscript                        | Dropbox                                                      |
+| Methods                                                      | This report takes the raw CR data and generates simple average plots of beech seed, mice and rat abundances | [Model wrangling]("/Beech-forest-publication/")              |
+|                                                              | To estimate the differences between Prediction A and B       | [Simple ANOVAs]()                                            |
+|                                                              | To estimate the differences between Prediction C, D, and E   | [Model outputs]()                                            |
+|                                                              | Simulation model                                             | Full simulation document [here](/simulation)                 |
+| Results                                                      |                                                              | [coming]                                                     |
+| Discussion                                                   |                                                              | [coming]                                                     |
+| [Bayesian methods](https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/A1_full_bayesian_model.pdf) |                                                              | [coming]                                                     |
+| [Figures](https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/figs) |                                                              | Dropbox                                                      |
+| [Functional response](https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/Davidson_2019_BeechForest_Appendix.pdf) |                                                              | Dropbox                                                      |
+| Mapping                                                      | coming online soon                                           | Dropbox                                                      |
+| [References]()                                               |                                                              |                                                              |
+| Appendix                                                     |                                                              |                                                              |
+| Extra resources                                              |                                                              |                                                              |
+|                                                              |                                                              |                                                              |
+|                                                              |                                                              |                                                              |
 
 All other data and resources to render project from raw data (copied from my private GIT repository) can be found on [dropbox](https://www.dropbox.com/home/phd-drafts-anthony) but will be available here when I have incorporated the co-authors feedback or in the posts on this website.
 
