@@ -41,4 +41,4 @@ This RMarkdown file is intend to be extended on the estimationg process for the 
 
 # Current drafts
 
-{%- include 2019-06-18simulation.nb.html -%}
+{% include simulationnb.html %}

@@ -1,5 +1,5 @@
 ---
-title: "All rendered outputs"
+title: "All beech analysis so far"
 subtitle: "Draft only"
 type: post
 image: /img/tools.jpg
@@ -11,16 +11,16 @@ Just putting it here for now...
 
 ## Simulation
 
-{% simulation.nb.html %}
+{% include simulationnb.html %}
 
 ## Data wrangling
 
-{% data=wrangling.nb.html %}
+{% include data-wrangling.html %}
 
 ## Simple models
 
-{% simple.nb.html %}
+{% include simple.html %}
 
 ## Complex models
 
-{% outputs.nh.html %}
+{% include outputs.html %}

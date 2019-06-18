@@ -84,4 +84,4 @@ All other data and resources to render project from raw data (copied from my pri
 
 ## Current Draft
 
-{%- include 2019-06-18manscriotDraft.nb.html -%} 
+{% include manuscriptDraft.html %}
