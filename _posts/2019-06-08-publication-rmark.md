@@ -1,5 +1,5 @@
 ---
-title: Publishing in the Journal of Applied Ecology
+title: Journal of Applied Ecology
 subtitle: A simple publication template
 type: post
 image: /img/hello_world.jpeg
