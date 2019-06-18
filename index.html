@@ -1,13 +1,11 @@
 ---
-layout: page
-title: Statistics
-subtitle: A website for Statistics in Ecology and Research
-use-site-title: false
-image: /img/centre-logo-white.jpg
+layout: default
+title: "Statistics"
+subtitle: "A website for Statistics in Ecology and Research"
+use-site-title: true
+image: /centre-logo-white.jpg
 permlink: /index.html
-bigimg: "/img/background-image.jpg" : "Southern right whale"
-caption: This is a caption for the header image with link
-caption_url: https://unsplash.com/
+#bigimg: "/img/background-image.jpg" : "Southern right whale"
 categories: ["home", "test"]
 ---
 
@@ -15,8 +13,7 @@ categories: ["home", "test"]
       <ul>
       {% for post in site.tags["1"] %}
           <article class="post-preview">
-            <a href="{{ post.url | prepend: site.baseurl }}">
-        
+            <a href="{{ post.url | prepend: site.baseurl }}"></a>
             <div class="post-entry-container">
               {% if post.image %}
               <div class="post-image">
@@ -36,9 +33,8 @@ categories: ["home", "test"]
    </ul>
   </div>
 
-<h2>Resources</h2>
-
-{% for page in site.pages %}
+<div>
+  {% for page in site.pages %}
   {% if page.categories contains 'stink' %}
     <div class="item">
       <h3><a href="{{ page.url }}">
@@ -49,13 +45,10 @@ categories: ["home", "test"]
     </div>
   {% endif %}
 {% endfor %}
-
-<div class = "content" align = "center"><p>There are many many great resources on the web. I have not tried to reproduce good resources but supplement and add to the current resources available.</p>
-
-  <a href= "https://www.ssnhub.com/general-statistics/" class="btn btn-primary">General Statistics</a> | <a href= "https://www.ssnhub.com/ecological-statistics/" class="btn btn-primary">Ecological Statistics</a> | <a href= "https://www.ssnhub.com/invasive-species-research/" class="btn btn-primary">Invasive species research</a>
 </div>
 
-<h2>News</h2>
+<div class = "content" align = "center"><a href= "https://www.ssnhub.com/general-statistics/" class="btn btn-primary">General Statistics</a> | <a href= "https://www.ssnhub.com/ecological-statistics/" class="btn btn-primary">Ecological Statistics</a> | <a href= "https://www.ssnhub.com/invasive-species-research/" class="btn btn-primary">Invasive species research</a>
+</div>
 
   <div class="posts-list">
     {% for post in paginator.posts %}
@@ -109,4 +102,3 @@ categories: ["home", "test"]
     {% endif %}
   </ul>
   {% endif %}
-

@@ -4,7 +4,7 @@ title: General resources
 subtitle: My current focus
 tags: ["general", "overview", "website", "resources", "tools"]
 image: /img/filing.jpg
-permlink: /resources/
+permlink: /resources.html
 ---
 
 ## Resource index

@@ -4,7 +4,7 @@ title: Phd structure
 subtitle: A very simple set of links
 tags: ["general", "overview", "website", "resources", "tools", "phd"]
 image: /img/filing.jpg
-permlink: /resources/
+permlink: /resources-structure.html
 ---
 
 ## Phd index
