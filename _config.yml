@@ -32,6 +32,7 @@ navbar-links:
   News:
     - Blogs: "all-posts"
     - Tags: "tags"
+    - Manuscript: "beech-forest-publication"
   Info:
     - Background: "background" 
     - Donate: "donate"
