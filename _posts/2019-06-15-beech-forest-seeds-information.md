@@ -1,9 +1,9 @@
 ---
-title: "New Zealand Beech Forests"
-subtitle: "for stoat control in beech forest"
+title: "Beech seed estimation"
+subtitle: "for stoat control paper"
 type: post
 image: /img/doc-image-logo.png
-tags: ["compile", "r", "rmd", "RStudio", "tools", "general"]
+tags: ["compile", "r", "rmd", "RStudio", "tools", "general", "beech", "phd"]
 permlink: /beech-seed-wrangling.html
 ---
 

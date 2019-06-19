@@ -1,6 +1,6 @@
 ---
 title: "Data wrangling"
-subtitle: "for stoat control in beech forest"
+subtitle: "for stoat control paper"
 bibliography: Beech-forests.bib
 type: post
 tags: ["phd", "beech", "rmd", "RStudio", "invasive-spp", "general", "ecology", "thesis"]

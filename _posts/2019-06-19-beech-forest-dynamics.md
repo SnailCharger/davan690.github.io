@@ -12,21 +12,33 @@ There are many many publications that explain beech forests. Generally, the over
 
 ## Contents
 
-- [Biogeographical parameters]()
-  - [Spatial varitaion]()
-  - [Locations]
-  
-- [Temporal variation]()
-  -[Annual trends]()
-  -[Seasonal trends]()
+- [Publications]
+- [Grey literature]
+  - DOC
+  - LandCare
+  - Councils
+  - Guiding companies
+- [Biogeographical parameters]
+  - Spatial variation
+  - Locations
+- [Temporal variation]
+  - Annual trends
+  - Seasonal trends
 
 ## Publications
 
-- 
-## Extra information
+- [Holland beech mast model](): This model builds a simple mast model for beech seed in the lower north island of NZ.
+## Grey literature
 
-Some of the most intereseting literature is "grey" literature" from guiding companies and less grey information such as the "DOC" website.
-Below I have attempted to incorporate the known dynamics of beech forests into the estimation process of beech seed. 
+Some of the most interesting literature is "grey" literature".
+
+
+
+Weirdly, here is an interesting resource can be found from a guiding company.
+
+![1560916992918](../img/1560916992918.png)
+
+Screen shot of [guide landing page](http://www.routeguides.co.nz/) showing guided trails.
 
 ## Invasive species notes
 
@@ -38,8 +50,11 @@ Below I have attempted to incorporate the known dynamics of beech forests into t
 {% endfor %}
 </ul>
 </div>
-
 # Methods
+
+Below I have attempted to incorporate the published population dynamics of beech forests into the estimation process of beech seed.
+
+
 
 {% for post in site.tags["beech-methods"] %}
   {{ post.title }} ({{ post.date | date_to_string }})
@@ -55,16 +70,9 @@ Below I have attempted to incorporate the known dynamics of beech forests into t
 </ul>
 </div>
 
-## Current drafts
-
-Most of this focuses on the possibility that differences/or lack of, is not a fact of stoat control but in fact differences in un-measured variables between the sites. I believe that this is not the case because:
-
-1. Differences are within the range of other publication.
-
-2. Working on this...
-
- on the estimating process for the different species in the Beech Forest model. These files are the supporting documentation for this paper. As have been doing this I have also realised that there are many more supporting documents coming in the future.
 
 ## Current draft
+
+A simulation model that describes the simple data input for a model describing the relationship between beech seed and mouse abundance from Ruscoe et al. (2005) and others.
 
 {% include simulationnb.html %}
