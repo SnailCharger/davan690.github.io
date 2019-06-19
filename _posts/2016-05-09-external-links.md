@@ -8,6 +8,8 @@ permalink: /external-links.html
 
 <h4>External links</h4> 
 
+As I build my resources through this platform I will continue to add external resources. Here are a few I can think of currently.
+
 ###### *Learn R*
 
 [Data carpentry]("https://datacarpentry.org/") is a good starting point for coding and R.
