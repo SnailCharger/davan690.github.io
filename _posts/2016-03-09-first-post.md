@@ -3,7 +3,7 @@ layout: post
 title: The beginning
 subtitle: Starting a website
 tags: ["general", "overview", "website", "1"]
-image: /img/aboutme-image.jpg
+image: /img/Centre-logo.jpg
 bigimg: /img/aboutme-image.jpg
 permlink: /first-post.html
 ---
