@@ -14,8 +14,6 @@ Internal links turn out to be quite important. Now this really shows how ignoran
 
 ### Permalink’s
 
-
-
 ## External links
 
 ### Cronical links
