@@ -36,17 +36,9 @@ So I have been looking at this repository and R package on the CRAN and had a lo
 
 ## SNAP five
 
-![1561033518610](../../img/1561033518610.png)
-
-
-
-Typora you have blown my mind...
-
-
-
-## SNAP six
-
 etc etc ...
+
+
 
 ## Tutorials
 
