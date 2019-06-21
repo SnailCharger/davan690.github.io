@@ -10,7 +10,7 @@ permlink: /feedback.html
 
 <div style="padding:5px; text-align:center; background-color:lightblue;">
   <div class="banner-content">
-    <p>As I am building this website and the resources surrounding my statistics work I will have and continue to made mistakes and miss points. I look forward to the feedback but am definetly a little worried.</p>
+    <p>As I am building this website and the resources surrounding my statistics work I will have and continue to made mistakes and miss points. I look forward to the feedback but am definitely a little worried.</p>
 
 </div>
 </div>
@@ -76,9 +76,10 @@ If the comments are instructions then do them but ask again if you are not sure 
 
 Tutorials on how to build and maintain the relationship between supervisor and student are very common. I do think that the [thinkwell](www.ithinkwell.com.au) resources are some of the best, however, dealing with these issues together is a constant challenge to mentally keep on top of.
 
-I have found this particularly hard while learning `markdown`, `git` and `jekyll` and the suite of other open-source tools being using in leading graduate research.  
+I have found this particularly hard while learning `markdown`, `git` and `jekyll` and the suite of other open-source tools being using in leading graduate research.
 
 As is I still have trouble with these things:
 
 1. Missing deadlines because document is not good enough
 2. Handing in incorrect/poor quality drafts
+3. And the classic [imposter syndrome](https://www.ithinkwell.com.au/services-imposter-syndrome) academics are always talking about
