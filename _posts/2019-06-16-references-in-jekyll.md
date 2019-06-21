@@ -13,8 +13,6 @@ As I am working in R Studio and `Github` I have found that I get stuck between w
 
 [Jekyll blog](https://talk.jekyllrb.com/)
 
-
-
 ## My notes
 
 Like so many open source resources there are at least three different ways to achieve this outcome. This is likely to change for the better in the future but for now I am using different `packages or gems` for analysis documents and website docs until I find a better option. 

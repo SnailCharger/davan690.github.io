@@ -1,5 +1,5 @@
 ---
-title: "Beech forest dynamics"
+title: "Notes on NZ Beech forest dynamics"
 subtitle: "A collection of grey information"
 bibliography: Beech-forests.bib
 type: post
@@ -12,7 +12,7 @@ There are many many publications that explain beech forests. Generally, the over
 
 ## Contents
 
-- [Publications]
+- [Publications](#Publications)
 - [Grey literature]
   - DOC
   - LandCare
@@ -24,21 +24,6 @@ There are many many publications that explain beech forests. Generally, the over
 - [Temporal variation]
   - Annual trends
   - Seasonal trends
-
-## Publications
-
-- [Holland beech mast model](): This model builds a simple mast model for beech seed in the lower north island of NZ.
-## Grey literature
-
-Some of the most interesting literature is "grey" literature".
-
-
-
-Weirdly, here is an interesting resource can be found from a guiding company.
-
-![1560916992918](../img/1560916992918.png)
-
-Screen shot of [guide landing page](http://www.routeguides.co.nz/) showing guided trails.
 
 ## Invasive species notes
 
@@ -70,6 +55,19 @@ Below I have attempted to incorporate the published population dynamics of beech
 </ul>
 </div>
 
+## Publications
+
+- [Holland beech mast model](): This model builds a simple mast model for beech seed in the lower north island of NZ.
+
+## Grey literature
+
+Some of the most interesting literature is "grey" literature".
+
+Weirdly, here is an interesting resource can be found from a guiding company.
+
+![1560916992918](../img/1560916992918.png)
+
+Screen shot of [guide landing page](http://www.routeguides.co.nz/) showing guided trails.
 
 ## Current draft
 
