@@ -11,6 +11,7 @@ permlink: /feedback.html
 <div style="padding:5px; text-align:center; background-color:lightblue;">
   <div class="banner-content">
     <p>As I am building this website and the resources surrounding my statistics work I will have and continue to made mistakes and miss points. I look forward to the feedback but am definetly a little worried.</p>
+
 </div>
 </div>
 
