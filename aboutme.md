@@ -12,6 +12,4 @@ tags: ["website", "home", "page"]
 
 The website is a learning resource for my PhD thoughts, questions, analysis and results. Much of this content has been inspired by discussions with fellow PhD candidates, researchers and during statistics drop-in sessions at the University of Canberra.
 
-
-
 ![1560646016870](/img/1560646016870.png)
