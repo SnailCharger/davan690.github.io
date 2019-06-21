@@ -3,18 +3,18 @@ title: "Making stickers instead of business cards"
 subtitle: "A student option"
 layout: post
 tags: ["general", "overview", "website", "research", "tools", "business"]
-image: /img/
-bigimg: /img/
+image: /img/avery-labels.png
+bigimg: /img/avery-labels.png
 permlink: stickers.html
 ---
 
-As I am finishing up my PhD and working out how to build a career in academia I have ran out of money and resources in the long drawn-out finishing line. 
+As I am finishing up my PhD and working out how to build a career in academia I have ran out of money and resources in the long drawn-out finishing line.
 
 I have also been noticing that I am losing connections (both for work and by not having a business card to direct people to the website when suites them. We have little support in these sorts of areas as graduate students and even less funding . As a graduate student I got the generic card when I asked and since our institute has been incorporated into the universities science department I don’t even dear ask. 
 
 Sooo instead I have built this website but now I still don't have cash for business cards (really just networking tools here) yet even though I have the resource.
 
-This is my solution to business cards with an quirky edge or, as some would say, a student budget. 
+This is my solution to business cards with an quirky edge or, as some would say, a student budget.
 
 ## Create a basic design
 
