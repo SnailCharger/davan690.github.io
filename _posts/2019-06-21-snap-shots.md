@@ -1,6 +1,6 @@
 ---
-title: "Information out of place"
-subtitle: "A collection of screenshots"
+title: "Snapshots of information"
+subtitle: "A collection of cheap ideas"
 layout: post
 tags: ["general", "overview", "website", "research", "tools"]
 image: /img/centre-logo-white.jpg
@@ -10,7 +10,7 @@ permlink: fun-and-games.html
 
 ## SNAP one
 
-This one caught my eye when I was searching for community groups in PFNZ2050 on google scholar.
+This one caught my eye when I was searching for community groups in PFNZ-2050 on google scholar.
 
 | ![1560991973936](../img/1560991973936.png) | This screenshot is from [here](https://www.jstor.org/stable/2094293?seq=1#metadata_info_tab_contents) |
 

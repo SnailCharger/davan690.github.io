@@ -1,8 +1,8 @@
 ---
-title: "What statistics should I use"
+title: "What statistics should I use?"
 layout: post
 tags: ["general", "overview", "website", "tools", "searching", "research"]
-image: /img/centre-logo-white.jpg
+image: /img/tools.jpg
 bigimg: /img/aboutme-image.jpg
 permalink: /searching-research.html
 ---
