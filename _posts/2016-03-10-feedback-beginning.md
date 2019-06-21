@@ -83,3 +83,5 @@ As is I still have trouble with these things:
 1. Missing deadlines because document is not good enough
 2. Handing in incorrect/poor quality drafts
 3. And the classic [imposter syndrome](https://www.ithinkwell.com.au/services-imposter-syndrome) academics are always talking about
+
+![The book hugh wrote about the imposter syndrome in academics](http://www.ithinkwell.com.au/bookshop/the-imposter-syndrome)
