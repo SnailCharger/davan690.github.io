@@ -13,7 +13,7 @@ There are many many publications that explain beech forests. Generally, the over
 ## Contents
 
 - [Publications](#Publications)
-- [Grey literature]
+- [Grey literature]: NZ context
   - DOC
   - LandCare
   - Councils
@@ -35,11 +35,10 @@ There are many many publications that explain beech forests. Generally, the over
 {% endfor %}
 </ul>
 </div>
+
 # Methods
 
 Below I have attempted to incorporate the published population dynamics of beech forests into the estimation process of beech seed.
-
-
 
 {% for post in site.tags["beech-methods"] %}
   {{ post.title }} ({{ post.date | date_to_string }})
@@ -68,9 +67,3 @@ Weirdly, here is an interesting resource can be found from a guiding company.
 ![1560916992918](../img/1560916992918.png)
 
 Screen shot of [guide landing page](http://www.routeguides.co.nz/) showing guided trails.
-
-## Current draft
-
-A simulation model that describes the simple data input for a model describing the relationship between beech seed and mouse abundance from Ruscoe et al. (2005) and others.
-
-{% include simulationnb.html %}

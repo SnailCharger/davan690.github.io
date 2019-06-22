@@ -5,15 +5,17 @@ layout: post
 tags: ["phd", "invasive", "overview", "thesis"]
 ---
 
-```
-# {r image-using-knitr}
-```
+Here is a simple step through of my issues with adding and working with images in RSTudio and all the different options to get the correct images and code into a manuscript or website.
 
-<center>
-![image](./_assets/img/compareGroups-gui-shot.jpg){
-width=50% }
+It is all about `paths`...and links I think. And its taking me aggges to get my head around it.
 
-    ${r image-using-knitr}$
+## This is what is working
 
-```# {r image-usig-knitr```</center>
+Right now I have used...
 
+## My notes
+
+#### options
+
+|```# {r image-using-knitr}```|![image](./_assets/img/compareGroups-gui-shot.jpg){ width=50% }|${r image-using-knitr}$|```# {r image-usig-knitr```|
+|
