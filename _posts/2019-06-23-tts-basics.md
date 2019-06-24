@@ -2,8 +2,8 @@
 title: "TTS"
 subtitle: "A simple set of resources"
 layout: post
-image:  /_posts/figs/working-at-night.jpg
-bigimg: /_posts/figs/working-at-night.jpg
+image:  /img/filing.jpg
+bigimg: /img/filing.jpg
 tags: ["markdown", "website", "tools", "rmd", "jekyll", "TTS"]
 permalink: /text-to-speech.html
 ---
