@@ -23,7 +23,7 @@ My simple steps:
 
 1. From RStudio from the very start I can’t render `rmd` file from the simple `knit` button I am so used to![Screenshot](../img/index-issues-rstudio.png)
 2. So I can look at it in `vs-code` quickly![1561348386533](../img/vs-code-rmd-file-view.png)
-3. So first step is to work out rendering options for `RStudio`
+3. So first step is to work out rendering options for `RStudio`;
    1. `servr`
    2. `rmarkdown`
    3. `bookdown`
