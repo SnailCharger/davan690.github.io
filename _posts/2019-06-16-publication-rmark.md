@@ -2,7 +2,7 @@
 title: Journal of Applied Ecology
 subtitle: A simple publication template
 type: post
-image: /img/tools.jpeg
+image: /img/tools.jpg
 bigimg: /img/first-image1.png
 tags: ["markdown", "website", "tools", "rmd"]
 permalink: /typora-blogging.html

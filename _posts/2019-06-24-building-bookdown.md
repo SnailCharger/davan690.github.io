@@ -2,7 +2,7 @@
 title: "Bookdown template"
 subtitle: "My forked phd repo"
 layout: post
-image:  /img/centre-logo-white.jpeg
+image:  /img/ab-test-testing-ss-1920.jpg
 bigimg: /img/filing.jpg
 tags: ["markdown", "website", "tools", "rmd", "jekyll", "TTS"]
 permalink: /bookdown-template.html

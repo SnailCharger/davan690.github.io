@@ -2,7 +2,8 @@
 type: post
 title: "Pandoc for Typora"
 subtitle: "Some notes modified from the Typora resources"
-image: /img/center-logo-white.jpeg
+image: /img/ab-test-testing-ss-1920.jpg
+bigimg: /img/ab-test-testing-ss-1920.jpg
 tags: ["website", "editors", "research", "tools"]
 ---
 

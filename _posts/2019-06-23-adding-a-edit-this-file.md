@@ -2,8 +2,8 @@
 title: "Bookdown cooking guide"
 subtitle: "Working through some simple steps"
 layout: post
-image:  /_posts/figs/working-at-night.jpg
-bigimg: /_posts/figs/working-at-night.jpg
+image:  /img/working-at-night.jpg
+bigimg: /img/working-at-night.jpg
 tags: ["markdown", "website", "tools", "rmd", "jekyll", "TTS"]
 permalink: /bookdown-template.html
 ---
